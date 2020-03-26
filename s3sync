@@ -1,0 +1,3 @@
+#!/bin/sh
+s3cmd --verbose --no-mime-magic --acl-public --recursive --cache-file=.s3cmdcache --exclude-from=.s3cmdsyncexclude --delete-removed --human-readable-sizes --progress --stats sync ./public/ s3://covid-data.dougcrozier.com/
+s3cmd --recursive modify --add-header="Cache-Control:max-age=300" s3://covid-data.dougcrozier.com/
