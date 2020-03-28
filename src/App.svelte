@@ -1,42 +1,46 @@
 <script>
-  import GeorgiaTable from './GeorgiaTable.svelte';
+  import GeorgiaTable from './components/GeorgiaTable.svelte';
+  import Heading from './components/Heading.svelte';
+  import MoreDetail from './components/MoreDetail.svelte';
+  import Attributions from './components/Attributions.svelte';
 </script>
 <svelte:head>
   <title>Georgia COVID-19</title>
+  <meta property="og:title" content="Georgia County-by-County COVID Statistics" />
+  <meta property="og:image" content="http://covid-data.dougcrozier.com/preview.jpg" />
 </svelte:head>
 <main>
-  <h1>Georgia County-by-County COVID-19 Statistics</h1>
-  <div class="detail">
-    <p>As of March 26th, 2020 7:00 pm EDT</p>
-    <p>More details below the main table.</p>
-  </div>
+  <Heading />
+  <MoreDetail />
   <GeorgiaTable />
-  <div class="detail">
-    <p>Sources</p>
-    <ul>
-      <li>Georgia Department of Public Health Daily COVID-19 Update</li>
-      <li>US Census 2018 American Community Survey 5-Year Data</li>
-      <li>Compiled by Doug Crozier</li>
-    </ul>
-    <p>I'll attempt to get new data upload soon after it is available from the Georgia Department of Public Health.  Current updates are noon and 7pm daily.</p>
-    <p>Also hoping to add some new features such as comparisons to the previous day.</p>
-  </div>
+  <Attributions />
 </main>
 
 <style>
-  div.detail {
-    max-width: 460px;
-    border: 1px solid black;
-    padding: 1em;
-  }
-
   main {
     display: grid;
     justify-items: center;
   }
 
 	@media only screen and (max-device-width: 480px) {
-    div.detail {
+  }
+  :global(div.detail) {
+    background: #EEE;
+    max-width: 460px;
+    border: 1px solid black;
+    padding: 0.25rem;
+  }
+
+  :global(div.detail p) {
+    margin-bottom: 0.5rem;
+    line-height: 1.1rem;
+  }
+  :global(div.detail p:last-child) {
+    margin-bottom: 0;
+  }
+
+  @media only screen and (max-device-width: 480px) {
+    :global(div.detail) {
       max-width: 90%;
     }
   }

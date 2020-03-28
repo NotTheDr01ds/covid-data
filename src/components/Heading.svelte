@@ -1,0 +1,1 @@
+<h1>Georgia County-by-County COVID-19 Statistics</h1>
