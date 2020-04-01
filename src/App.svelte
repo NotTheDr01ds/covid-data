@@ -1,8 +1,8 @@
 <script>
-  import GeorgiaTable from './components/GeorgiaTable.svelte';
+  import Data from './components/Data.svelte';
   import Heading from './components/Heading.svelte';
-  import MoreDetail from './components/MoreDetail.svelte';
   import Attributions from './components/Attributions.svelte';
+
 </script>
 <svelte:head>
   <title>Georgia COVID-19</title>
@@ -11,24 +11,25 @@
 </svelte:head>
 <main>
   <Heading />
-  <MoreDetail />
-  <GeorgiaTable />
+  <Data />
   <Attributions />
 </main>
 
 <style>
   main {
-    display: grid;
+    display: grid; 
+    grid-template-columns: auto auto auto;
     justify-items: center;
   }
 
-	@media only screen and (max-device-width: 480px) {
-  }
   :global(div.detail) {
     background: #EEE;
     max-width: 460px;
     border: 1px solid black;
     padding: 0.25rem;
+    margin-right: 0.25rem;
+    margin-left: 0.25rem;
+    margin-bottom: 0.25em;
   }
 
   :global(div.detail p) {

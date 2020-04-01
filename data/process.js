@@ -1,10 +1,11 @@
 const fs = require('fs');
 const util = require('util');
+const d3 = require('d3');
 
 const readFile = util.promisify(fs.readFile);
 
-async function getCases() {
-  let data = await readFile("./georgia_cases.json","utf8");
+async function getCases(caseFile) {
+  let data = await readFile(caseFile,"utf8");
 
   let casesArray = JSON.parse(data);
   let cases = {};
@@ -14,8 +15,9 @@ async function getCases() {
   });
 
   // Fix typo in Dept of Health data
-  if (!("DeKalb" in cases)) {
-    cases["DeKalb"] = cases["Dekalb"];
+  if ("Dekalb" in cases) {
+		cases["DeKalb"] = cases["Dekalb"];
+		delete cases["Dekalb"];
   }
 
   return cases;
@@ -78,8 +80,8 @@ function getRanking(segmentTable,value) {
 }
 
 async function getData() {
-	let [ cases, countyLandAreas, countyPopulations ] = await Promise.all([getCases(), getLandAreas(), getPopulations()]);
-	let data = {cases, countyLandAreas, countyPopulations};
+	let [ cases, casesYesterday, countyLandAreas, countyPopulations ] = await Promise.all([getCases("./georgia_cases.json"), getCases("./georgia_cases_yesterday.json"), getLandAreas(), getPopulations()]);
+	let data = {cases, casesYesterday, countyLandAreas, countyPopulations};
 	let tableData = [];
 	let totalCases = 0;
 	let totalPerSqMi = 0;
@@ -124,8 +126,17 @@ async function getData() {
 		cty.casesPer100kRank = `rank${getRanking(perPopRanking,cty.casesPer100k)}`
 		cty.casesPerSqMiRank = `rank${getRanking(densityRanking,cty.casesPerSqMi)}`
 	})
-	
-	return tableData;
+
+	let dailyCases = {
+		today: d3.sum(Object.values(data.cases)),
+		yesterday: d3.sum(Object.values(data.casesYesterday))
+	}
+
+	return {
+		caseData: tableData,
+		dailyCases,
+		Unknown: data.cases['Unknown']
+	};
 }
 
 getData().then((data) => {

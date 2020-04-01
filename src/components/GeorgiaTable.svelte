@@ -1,19 +1,10 @@
 <script>
-	let promise = getData();
-	let data = [];
+	export let caseData;
 	let lastSort = "cases";
 	let sortAscending = false;
 
-	async function getData() {
-		let res = await fetch("./data/georgia_counties_covid_data.json");
-		if (res.ok) {
-			let txt = await res.text();
-			data = JSON.parse(txt);
-			return data;
-		}
-	}
-
-	async function sortBy(col) {
+	function sortBy(col) {
+		let data = caseData;
 		if (col == lastSort) {
 			sortAscending = !sortAscending;
 		} else {
@@ -27,7 +18,6 @@
 				data = data.sort((cty1,cty2) => {return cty2[col] - cty1[col]})
 			}
 		} else if (typeof(data[0][col]) == "string") {
-			console.log("here")
 			if (sortAscending) {
 				data = data.sort((cty1,cty2) => {return ('' + cty2[col]).localeCompare(cty1[col])});
 			} else {
@@ -37,62 +27,42 @@
 		return data;
 	}
 
-
 	function sortClick(col,event) {
-		promise = sortBy(col);
+		caseData = sortBy(col);
 	}
 
 </script>
 
-<main>
-{#await promise}
-	<h1>Loading ...</h1>
-{:then data}
-  <table class="data">
-	  <tr>
-		<th class="colCounty colText" on:click={(event) => sortClick('county')}>County</th>
-		<th class="colCases colNumber" on:click={(event) => sortClick('cases')}>Cases</th>
-		<th class="colArea colNumber" on:click={(event) => sortClick('area')}>Area in Square Miles</th>
-		<th class="colPerArea colNumber" on:click={(event) => sortClick('casesPerSqMi')}>Cases per Square Mile</th>
-		<th class="colPop colNumber" on:click={(event) => sortClick('population')}>Population</th>
-		<th class="colPerPop colNumber" on:click={(event) => sortClick('casesPer100k')}>Cases per 100,000 Residents</th>
-		<th class="colOdds colNumber" on:click={(event) => sortClick('casesPer100k')}>1 case per ??? Residents</th>
+<table class="data">
+	<tr>
+	<th class="colCounty colText" on:click={(event) => sortClick('county')}>County</th>
+	<th class="colCases colNumber" on:click={(event) => sortClick('cases')}>Cases</th>
+	<th class="colArea colNumber" on:click={(event) => sortClick('area')}>Area in Square Miles</th>
+	<th class="colPerArea colNumber" on:click={(event) => sortClick('casesPerSqMi')}>Cases per Square Mile</th>
+	<th class="colPop colNumber" on:click={(event) => sortClick('population')}>Population</th>
+	<th class="colPerPop colNumber" on:click={(event) => sortClick('casesPer100k')}>Cases per 100,000 Residents</th>
+	<th class="colOdds colNumber" on:click={(event) => sortClick('casesPer100k')}>1 case per ??? Residents</th>
+	</tr>
+	{#each caseData as { county, cases, population, area, casesPerSqMi, casesPer100k, casesRank, casesPerSqMiRank, casesPer100kRank }}
+		<tr>
+			<td class="colCounty colText">{county}</td>
+			<td class="colCases colNumber {casesRank}">{cases}</td>
+			<td class="colArea colNumber">{area.toFixed(2).toLocaleString()}</td>
+			<td class="colPerArea colNumber {casesPerSqMiRank}">{casesPerSqMi.toFixed(2)}</td>
+			<td class="colPop colNumber">{population.toLocaleString()}</td>
+			<td class="colPerPop colNumber {casesPer100kRank}">{casesPer100k.toFixed(2)}</td>
+			<td class="colOdds colNumber {casesPer100kRank}">1 in {Math.round(population/cases).toLocaleString()}</td>
+
 		</tr>
-		{#each data as { county, cases, population, area, casesPerSqMi, casesPer100k, casesRank, casesPerSqMiRank, casesPer100kRank }}
-			<tr>
-				<td class="colCounty colText">{county}</td>
-				<td class="colCases colNumber {casesRank}">{cases}</td>
-				<td class="colArea colNumber">{area.toFixed(2).toLocaleString()}</td>
-				<td class="colPerArea colNumber {casesPerSqMiRank}">{casesPerSqMi.toFixed(2)}</td>
-				<td class="colPop colNumber">{population.toLocaleString()}</td>
-				<td class="colPerPop colNumber {casesPer100kRank}">{casesPer100k.toFixed(2)}</td>
-				<td class="colOdds colNumber {casesPer100kRank}">1 in {Math.round(population/cases).toLocaleString()}</td>
+	{/each}
+</table>
 
-			</tr>
-		{/each}
-	</table>
-
-{:catch error}
-  <p style="color: red">{error.message}</p>
-{/await}
-</main>
 
 <style>
-	main {
-		text-align: center;
-		padding: 1em;
-		margin: 0 auto;
-	}
-
-	h1 {
-		color: #ff3e00;
-		text-transform: uppercase;
-		font-size: 4em;
-		font-weight: 100;
-	}
-
 	table.data {
 		border-collapse: collapse;
+		grid-column-start: 2;
+		grid-row-start: 3;
 	}
 
 	table.data td {
@@ -146,7 +116,6 @@
 	.rank6 {
 		background-color: #72c379;
 	}
-
 
 	@media (min-width: 640px) {
 		main {
