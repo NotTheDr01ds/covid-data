@@ -33,7 +33,7 @@
 
 </script>
 
-<table class="data">
+<table class="GeorgiaTableComponent data">
 	<tr>
 	<th class="colCounty colText" on:click={(event) => sortClick('county')}>County</th>
 	<th class="colCases colNumber" on:click={(event) => sortClick('cases')}>Cases</th>
@@ -61,8 +61,6 @@
 <style>
 	table.data {
 		border-collapse: collapse;
-		grid-column-start: 2;
-		grid-row-start: 3;
 	}
 
 	table.data td {
