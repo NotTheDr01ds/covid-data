@@ -1,7 +1,11 @@
 .vscode
 *~
+*.xlsx
 /node_modules/
 /public/build/
 
 .DS_Store
 .s3cmdcache
+/data/archive
+/public/preview*
+.s3cmd_full_cache

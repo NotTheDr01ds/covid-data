@@ -2,6 +2,7 @@
 	export let caseData;
 	let lastSort = "cases";
 	let sortAscending = false;
+	sortBy("casesPer100k");
 
 	function sortBy(col) {
 		let data = caseData;
@@ -33,25 +34,25 @@
 
 </script>
 
-<table class="GeorgiaTableComponent data">
+<table class="GeorgiaTableComponent data w-100">
 	<tr>
 	<th class="colCounty colText" on:click={(event) => sortClick('county')}>County</th>
-	<th class="colCases colNumber" on:click={(event) => sortClick('cases')}>Cases</th>
-	<th class="colArea colNumber" on:click={(event) => sortClick('area')}>Area in Square Miles</th>
-	<th class="colPerArea colNumber" on:click={(event) => sortClick('casesPerSqMi')}>Cases per Square Mile</th>
 	<th class="colPop colNumber" on:click={(event) => sortClick('population')}>Population</th>
 	<th class="colPerPop colNumber" on:click={(event) => sortClick('casesPer100k')}>Cases per 100,000 Residents</th>
 	<th class="colOdds colNumber" on:click={(event) => sortClick('casesPer100k')}>1 case per ??? Residents</th>
+	<th class="colArea colNumber" on:click={(event) => sortClick('area')}>Land Area in Square Miles</th>
+	<th class="colPerArea colNumber" on:click={(event) => sortClick('casesPerSqMi')}>Cases per Square Mile of Land Area</th>
+	<th class="colCases colNumber" on:click={(event) => sortClick('cases')}>Total Confirmed Cases</th>
 	</tr>
 	{#each caseData as { county, cases, population, area, casesPerSqMi, casesPer100k, casesRank, casesPerSqMiRank, casesPer100kRank }}
 		<tr>
 			<td class="colCounty colText">{county}</td>
-			<td class="colCases colNumber {casesRank}">{cases}</td>
-			<td class="colArea colNumber">{area.toFixed(2).toLocaleString()}</td>
-			<td class="colPerArea colNumber {casesPerSqMiRank}">{casesPerSqMi.toFixed(2)}</td>
 			<td class="colPop colNumber">{population.toLocaleString()}</td>
 			<td class="colPerPop colNumber {casesPer100kRank}">{casesPer100k.toFixed(2)}</td>
 			<td class="colOdds colNumber {casesPer100kRank}">1 in {Math.round(population/cases).toLocaleString()}</td>
+			<td class="colArea colNumber">{area.toFixed(2).toLocaleString()}</td>
+			<td class="colPerArea colNumber {casesPerSqMiRank}">{casesPerSqMi.toFixed(2)}</td>
+			<td class="colCases colNumber {casesRank}">{cases}</td>
 
 		</tr>
 	{/each}
@@ -60,6 +61,7 @@
 
 <style>
 	table.data {
+		box-sizing: initial;
 		border-collapse: collapse;
 	}
 

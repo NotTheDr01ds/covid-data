@@ -3,6 +3,8 @@
   import Attributions from './components/Attributions.svelte';
   import GeorgiaTable from './components/GeorgiaTable.svelte';
   import MoreDetail from './components/MoreDetail.svelte';
+  import DonationRecommendation from './components/DonationRecommendation.svelte';
+
 
   import {getData} from './data.js';
   let dataPromise = getData();
@@ -26,6 +28,7 @@
   {/await}
 
   <Attributions />
+  <DonationRecommendation />
 </main>
 
 <style>
@@ -36,25 +39,6 @@
     justify-items: center;
   }
 
-  :global(.HeadingComponent) {
-    grid-column-start: 3;
-    grid-row-start: 1;
-  }
-  :global(.GeorgiaTableComponent) {
-		grid-column-start: 3;
-		grid-row-start: 2;
-    grid-row-end: 25;
-  }
-  :global(.MoreDetailComponent) {
-    grid-column-start: 2;
-    grid-row-start: 2;
-    place-self: start end;
-  }
-  :global(.AttributionsComponent) {
-    grid-column-start: 2;
-    grid-row-start: 3;
-    place-self: start end;
-  }
 
 	h1.loading {
     grid-column-start: 3;
@@ -82,10 +66,63 @@
   :global(div.detail p:last-child) {
     margin-bottom: 0;
   }
+  @media only screen and (min-device-width: 481px) {
+    :global(.HeadingComponent) {
+      grid-column-start: 3;
+      grid-row-start: 1;
+    }
+    :global(.GeorgiaTableComponent) {
+      grid-column-start: 3;
+      grid-row-start: 2;
+      grid-row-end: 25;
+    }
+    :global(.MoreDetailComponent) {
+      grid-column-start: 2;
+      grid-row-start: 2;
+      place-self: start end;
+    }
+    :global(.AttributionsComponent) {
+      grid-column-start: 2;
+      grid-row-start: 3;
+      place-self: start end;
+    }
+    :global(.DonationRecommendationComponent) {
+      grid-column-start: 2;
+      grid-row-start: 4;
+      place-self: start center;
+    }
+
+  }
 
   @media only screen and (max-device-width: 480px) {
-    :global(div.detail) {
-      max-width: 90%;
+    main {
+      display: grid; 
+      grid-template-columns: 1fr;
+      justify-items: center;
+    }
+
+    :global(.HeadingComponent) {
+      grid-column-start: 1;
+      grid-row-start: 1;
+    }
+    :global(.GeorgiaTableComponent) {
+      grid-column-start: 1;
+      grid-row-start: 3;
+    }
+    :global(.MoreDetailComponent) {
+      grid-column-start: 1;
+      grid-row-start: 2;
+      place-self: start end;
+    }
+    :global(.AttributionsComponent) {
+      grid-column-start: 1;
+      grid-row-start: 4;
+      place-self: start end;
+    }
+    :global(.DonationRecommendationComponent) {
+      grid-column-start: 1;
+      grid-row-start: 5;
+      place-self: start center;
     }
   }
 </style>
