@@ -2,3 +2,4 @@
 .s3cmd_full_cache
 *.xlsx
 *.csv
+.git
