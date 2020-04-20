@@ -1,11 +1,23 @@
 <script>
-	export let caseData;
+	import { georgiaDataStore } from '../georgiaDataStore.js';
+	let caseData = null;
+	let sortedData = [];
+	const unsubscribe = georgiaDataStore.subscribe(data => {
+		if (data) {
+			caseData = data.caseData;
+		} 
+	})
+
 	let lastSort = "cases";
 	let sortAscending = false;
-	sortBy("casesPer100k");
 
-	function sortBy(col) {
-		let data = caseData;
+	$: sortedData = sortBy(caseData,"casesPer100k");
+
+	function sortBy(dataSet,col) {
+		if (!dataSet) {
+			return [];
+		}
+		let data = dataSet;
 		if (col == lastSort) {
 			sortAscending = !sortAscending;
 		} else {
@@ -29,11 +41,14 @@
 	}
 
 	function sortClick(col,event) {
-		caseData = sortBy(col);
+		sortedData = sortBy(caseData,col);
 	}
 
 </script>
 
+{#if !caseData }
+	<h1 class="GeorgiaTableComponent w-100">Loading</h1>
+{:else}
 <table class="GeorgiaTableComponent data w-100">
 	<tr>
 	<th class="colCounty colText" on:click={(event) => sortClick('county')}>County</th>
@@ -44,7 +59,7 @@
 	<th class="colPerArea colNumber" on:click={(event) => sortClick('casesPerSqMi')}>Cases per Square Mile of Land Area</th>
 	<th class="colCases colNumber" on:click={(event) => sortClick('cases')}>Total Confirmed Cases</th>
 	</tr>
-	{#each caseData as { county, cases, population, area, casesPerSqMi, casesPer100k, casesRank, casesPerSqMiRank, casesPer100kRank }}
+	{#each sortedData as { county, cases, population, area, casesPerSqMi, casesPer100k, casesRank, casesPerSqMiRank, casesPer100kRank }}
 		<tr>
 			<td class="colCounty colText">{county}</td>
 			<td class="colPop colNumber">{population.toLocaleString()}</td>
@@ -57,6 +72,7 @@
 		</tr>
 	{/each}
 </table>
+{/if}
 
 
 <style>

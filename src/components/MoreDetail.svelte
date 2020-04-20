@@ -1,17 +1,25 @@
 <script>
 
-//export let unknownCases;
-export let dailyCases;
-export let unknownCases;
+import { georgiaDataStore } from '../georgiaDataStore.js';
+let dailyCases = null;
+let unknownCases = null;
+let today, yesterday, newCases, percentIncrease;
+const unsubscribe = georgiaDataStore.subscribe(data => {
+  if (data) {
+    dailyCases =  data.dailyCases;
+    unknownCases = data.Unknown;
+    today = dailyCases.today;
+    yesterday = dailyCases.yesterday;
+    newCases = today - yesterday;
+    percentIncrease = (newCases / yesterday) * 100;
+  } 
+})
 console.log(unknownCases)
 
-let today = dailyCases.today;
-let yesterday = dailyCases.yesterday;
-let newCases = today - yesterday;
-let percentIncrease = (newCases / yesterday) * 100;
 
 </script>
 
+{#if dailyCases}
 <div class="detail MoreDetailComponent">
 <table class="detailTable">
   <tr>
@@ -36,6 +44,7 @@ let percentIncrease = (newCases / yesterday) * 100;
   </tr>
 </table>
 </div>
+{/if}
 
 <style>
   div.detail {

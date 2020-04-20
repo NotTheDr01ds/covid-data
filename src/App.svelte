@@ -5,9 +5,13 @@
   import MoreDetail from './components/MoreDetail.svelte';
   import DonationRecommendation from './components/DonationRecommendation.svelte';
 
+//  import {getData} from './data.js';
+ // let dataPromise = getData();
+  let query = new URLSearchParams(window.location.search);
+  query.forEach((q) => {
+    console.log(q);
+  })
 
-  import {getData} from './data.js';
-  let dataPromise = getData();
 
 </script>
 
@@ -20,12 +24,8 @@
 <main>
   <Heading />
 
-  {#await dataPromise}
-    <h1 class="loading">Loading ...</h1>
-  {:then data}
-    <GeorgiaTable caseData={data.caseData}/>
-    <MoreDetail unknownCases={data.Unknown} dailyCases={data.dailyCases}/>
-  {/await}
+    <GeorgiaTable />
+    <MoreDetail />
 
   <Attributions />
   <DonationRecommendation />
