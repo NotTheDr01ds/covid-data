@@ -4,13 +4,13 @@
   import GeorgiaTable from './components/GeorgiaTable.svelte';
   import MoreDetail from './components/MoreDetail.svelte';
   import DonationRecommendation from './components/DonationRecommendation.svelte';
+  import Map from "./components/Map.svelte";
 
 //  import {getData} from './data.js';
  // let dataPromise = getData();
   let query = new URLSearchParams(window.location.search);
-  query.forEach((q) => {
-    console.log(q);
-  })
+  let mapQuery = query.get("map");
+  console.log(`mapQuery: ${mapQuery}`);
 
 
 </script>
@@ -22,13 +22,15 @@
 </svelte:head>
 
 <main>
+{#if mapQuery}
+  <Map />
+{:else}
   <Heading />
-
-    <GeorgiaTable />
-    <MoreDetail />
-
+  <GeorgiaTable />
+  <MoreDetail />
   <Attributions />
   <DonationRecommendation />
+{/if}
 </main>
 
 <style>
