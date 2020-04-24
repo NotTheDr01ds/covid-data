@@ -4,7 +4,6 @@
   import { geoPath, geoIdentity, geoAlbersUsa } from 'd3-geo';
   import { scaleSequential, scaleLinear } from 'd3-scale';
   import { interpolateRainbow, interpolateRdBu, interpolateReds,interpolateBlues } from 'd3-scale-chromatic';
-  //import { rollup, group, mean, max, least,  } from 'd3-array'; 
   import * as d3array from 'd3-array';
   import * as d3fetch from 'd3-fetch';
   import { autoType } from 'd3-dsv';
@@ -16,25 +15,11 @@
       .range(['#FFF', '#800', '#F00'])
   }
 
-  async function fetchDataFile(filename) {
-    try {
-      let res = await fetch(filename);
-      if (res.ok) {
-        let data = await res.json();
-        return data;
-      } else {
-        console.log(`Problem retrieving ${filename}`);
-      }
-    } catch (err) {
-      console.log(err)
-    }
-  }
-
 	async function getData(geo) {
     try {
       let [topoData, caseData, populationData] = await Promise.all(
         [
-          fetchDataFile("/data/maps/all_us_states_topo_simplified.json"),
+          d3fetch.json("/data/maps/all_us_states_topo_simplified.json"),
           d3fetch.csv("/data/us-states.csv", (el) => {
             return {
               fips: el.fips,
@@ -47,7 +32,7 @@
         ]
       )
       //let res = await fetch("/data/maps/all_us_counties_topo_simplified.json");
-      console.log(caseData);
+      // Convert topoJSON to geoJSON
       let geoData = feature(topoData, topoData.objects.state_geometry)
 
       let mostRecentDateAvailable = d3array.greatest(
@@ -62,30 +47,6 @@
       //const projection = geoIdentity().reflectY(true).fitSize([640,480],geoData);
       const mapProjection = geoAlbersUsa();
       let mapPathGenerator = geoPath().projection(mapProjection);
-
-
-  /*     const colorScale = scaleSequential()
-        .domain([0, avgCases, maxCases])
-        .interpolator(interpolateReds); */
-
-  /*     const colorScaleAboveAvg = scaleSequential()
-        .domain([avgCases, maxCases]) 
-        .interpolator(interpolateReds)
-
-      const colorScaleBelowAvg = scaleSequential()
-        .domain([0, avgCases]) 
-        .interpolator(interpolateBlues) */
-        
-  /*     const colorScaleAboveAvg = scaleLinear()
-        .domain([avgCases, maxCases]) 
-        .range(['yellow', 'red'])
-
-      const colorScaleBelowAvg = scaleLinear()
-        .domain([0, avgCases]) 
-        .range(['yellow', 'blue']) */
-
-      //let caseCountToday = rollup(caseCountsToday, v => v[0], d => d.fips)
-      //let average = mean(caseCountToday.values(), v => v.cases)
 
       let mapData = new Object(null);
       geoData.features.forEach(geo => {
@@ -151,17 +112,31 @@
         })
 
       Object.keys(mapData).forEach(fips => {
+        // Remove US Territories
         if (mapData[fips].region > 4) {
           delete mapData[fips];
         }
+        // Remove New York
         if (fips == "36") {
-          delete mapData[fips];
+          //delete mapData[fips];
         }
       })
-      console.log(mapData);
-      const statNames = ["totalCases","totalDeaths","perCapitaCases","perCapitaDeaths"];
+
+      const stats = [
+        ["totalCases","Total Cases"],
+        ["totalDeaths","Total Deaths"],
+        ["perCapitaCases","Cases per 100,000 residents"],
+        ["perCapitaDeaths","Deaths per 100,000 residents"]
+      ].reduce((stats, stat) => {
+        console.log(stat);
+        stats[stat[0]] = {
+          description: stat[1]
+        };
+        return stats;
+      }, {})
+      console.log(stats);
       let statsLookup = new Object(null);
-      statNames.forEach(stat => {
+      Object.keys(stats).forEach(stat => {
         let avg = d3array.mean(Object.values(mapData), d => d[stat].value);
         let max = d3array.max(Object.values(mapData), d => d[stat].value);
         let colorScale = getColorScale(0,avg,max);
@@ -174,16 +149,12 @@
 
       Object.keys(mapData)
         .forEach((fips) => {
-          statNames.forEach(stat => {
+          Object.keys(stats).forEach(stat => {
             mapData[fips][stat].color = statsLookup[stat].colorScale(mapData[fips][stat].value);
           })
         })
 
-      console.log(mapData);
-
       return {
-        geoData,
-        caseData,
         mapPathGenerator,
         mapData
       } 
