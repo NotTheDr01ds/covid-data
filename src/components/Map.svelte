@@ -8,11 +8,76 @@
   import * as d3fetch from 'd3-fetch';
   import { autoType } from 'd3-dsv';
   import { feature } from 'topojson';
+  import moment from 'moment';
+
+  let statHoverText = "";
+  let statHoverId = null;
+
+  function hover(geoId, geoName, value) {
+    console.log(geoId);
+    statHoverId = geoId;
+    statHoverText = `${geoName}: ${value}`;
+    console.log(geoName)
+  }
+
+  function hoverOut(geoId) {
+    if (statHoverId == geoId) {
+      statHoverId = null;
+    }
+  }
 
   function getColorScale(min,avg,max) {
     return scaleLinear()
       .domain([min, avg, max])
       .range(['#FFF', '#800', '#F00'])
+  }
+
+  function getStats(caseData, mapData, endDate, startDate) {
+    let stats = new Object(null);
+    let mostRecentDateAvailable = d3array.greatest(
+      caseData,
+      d => d.date
+    ).date
+    let earliestDateAvailable = d3array.least(
+      caseData,
+      d => d.date
+    ).date
+
+    // Not sure if I'm going to use startDate in this function yet, but here for now
+    startDate = startDate ? startDate : earliestDateAvailable;
+    endDate = endDate ? endDate : mostRecentDateAvailable;
+
+    //let dayData = caseData.filter(dayEntry => {
+      //return +dayEntry.date == +endDate;
+    //});
+
+    Object.keys(mapData).forEach(id => {
+      if (!stats.hasOwnProperty(id)) {
+        stats[id] = {};
+      }
+      let totalCases = mapData[id].dailyCasesHistory[endDate];
+      let totalDeaths = mapData[id].dailyDeathsHistory[endDate];
+      let previousDay = endDate.clone().subtract(1,'day')
+      let previousDayCases = mapData[id].dailyCasesHistory[previousDay];
+      let previousDayDeaths = mapData[id].dailyDeathsHistory[previousDay];
+
+      //let newDailyCases = totalCases - 
+      stats[id]["totalCases"] = totalCases;
+      stats[id]["totalDeaths"] = totalDeaths;
+      stats[id]["totalCasesPerCapita"] = totalCases / mapData[id].population;
+      stats[id]["totalDeathsPerCapita"] = totalCases / mapData[id].population;
+
+      let dailyCases = totalCases - previousDayCases;
+      let dailyDeaths = totalDeaths - previousDayDeaths;
+      stats[id]["dailyCases"] = dailyCases;
+      stats[id]["dailyDeaths"] = dailyDeaths;
+      stats[id]["dailyCasesPerCapita"] = dailyCases / mapData[id].population;
+      stats[id]["dailyDeathsPerCapita"] = dailyDeaths / mapData[id].population;
+      //stats[id]["newDailyCases"] = totalCases - 
+
+    })
+
+    return stats;
   }
 
 	async function getData(geo) {
@@ -23,7 +88,7 @@
           d3fetch.csv("/data/us-states.csv", (el) => {
             return {
               fips: el.fips,
-              date: new Date(el.date),
+              date: moment(el.date),
               cases: parseInt(el.cases),
               deaths: parseInt(el.deaths)
             }
@@ -59,8 +124,8 @@
           landArea: null,
 
           geoJson: geo,
-          dailyCases: {},
-          dailyDeaths: {},
+          dailyCasesHistory: {},
+          dailyDeathsHistory: {},
           totalCases: {
             value: null,
             color: null
@@ -99,8 +164,8 @@
       caseData
         .forEach((el) => {
           let fips = el.fips;
-          mapData[fips].dailyCases[el.date] = el.cases;
-          mapData[fips].dailyDeaths[el.date] = el.deaths;
+          mapData[fips].dailyCasesHistory[el.date] = el.cases;
+          mapData[fips].dailyDeathsHistory[el.date] = el.deaths;
           if (+el.date == +mostRecentDateAvailable) {
             mapData[fips].totalCases.value = el.cases;
             mapData[fips].totalDeaths.value = el.deaths;
@@ -122,41 +187,37 @@
         }
       })
 
-      const stats = [
+      let statDetails = getStats(caseData,mapData);
+
+      let statsMeta = new Object(null);
+      [
         ["totalCases","Total Cases"],
         ["totalDeaths","Total Deaths"],
-        ["perCapitaCases","Cases per 100,000 residents"],
-        ["perCapitaDeaths","Deaths per 100,000 residents"]
-      ].reduce((stats, stat) => {
-        console.log(stat);
-        stats[stat[0]] = {
-          description: stat[1]
-        };
-        return stats;
-      }, {})
-      console.log(stats);
-      let statsLookup = new Object(null);
-      Object.keys(stats).forEach(stat => {
-        let avg = d3array.mean(Object.values(mapData), d => d[stat].value);
-        let max = d3array.max(Object.values(mapData), d => d[stat].value);
+        ["totalCasesPerCapita","Cases per 100,000 residents"],
+        ["totalDeathsPerCapita","Deaths per 100,000 residents"],
+        ["dailyCases","New Cases (Day)"],
+        ["dailyDeaths","New Deaths (Day)"],
+        ["dailyCasesPerCapita","Per Capita New Cases (Day)"],
+        ["dailyDeathsPerCapita","Per Capita New Deaths (Day)"]
+      ].forEach((statMeta) => {
+        let statKey = statMeta[0];
+        let avg = d3array.mean(Object.values(statDetails), d => d[statKey]);
+        let max = d3array.max(Object.values(statDetails), d => d[statKey]);
         let colorScale = getColorScale(0,avg,max);
-        statsLookup[stat] = {
+        statsMeta[statKey] = {
+          description: statMeta[1],
           avg,
           max,
           colorScale
         }
-      })
-
-      Object.keys(mapData)
-        .forEach((fips) => {
-          Object.keys(stats).forEach(stat => {
-            mapData[fips][stat].color = statsLookup[stat].colorScale(mapData[fips][stat].value);
-          })
-        })
+      });
 
       return {
         mapPathGenerator,
-        mapData
+        mapData,
+        statDetails,
+        statsMeta,
+        statKey: "dailyCasesPerCapita" // Key of the stat to map
       } 
     } catch (err) {
       console.log(err);
@@ -167,24 +228,52 @@ let dataPromise = getData();
 
 </script>
 
-
+<div class="MapComponent">
 {#await dataPromise}
-<div>Loading</div>
-{:then data}
-<svg class="MapComponent" width="{width}" height="{height}">
-  {#each Object.keys(data.mapData) as fips}
-    <path class="county" d="{data.mapPathGenerator(data.mapData[fips].geoJson)}" fill="{data.mapData[fips].perCapitaDeaths.color}" />
-  {/each}
-
-</svg>
+  <h2>Loading</h2>
+{:then {mapPathGenerator, mapData, statDetails, statsMeta, statKey}}
+  <figure class="map">
+    <svg width="{width}" height="{height}">
+      {#each Object.keys(mapData) as geoId}
+        <path 
+          class="geoFeature" d="{mapPathGenerator(mapData[geoId].geoJson)}"
+          fill="{statsMeta[statKey].colorScale(statDetails[geoId][statKey])}" 
+          on:mouseover={(event) => hover(geoId,mapData[geoId].name,statDetails[geoId][statKey])}
+          on:mouseout={(event) => hoverOut(geoId)}
+        />
+      {/each}
+    </svg>
+    <figcaption>{statsMeta[statKey].description}<br />
+    {statHoverText}</figcaption>
+  </figure>
 {:catch error}
   <p style="color: red">{error.message}</p>
+
 {/await}
+</div>
 
 <style>
-  .county {
-    stroke: #ddd;
-    stroke-width: 1px;
+  .geoFeature {
+    stroke: #888;
+    stroke-width: 0.25px;
     stroke-linejoin: round;
+  }
+  figure.map {
+    display: grid;
+    grid-template-areas:
+      "map map map"
+      ". caption .";
+    grid-template-rows: "100px 1fr 100px";
+    align-items: center;
+  }
+
+  figure>svg {
+    grid-area: map;
+  }
+  figcaption {
+    grid-area: caption;
+    align-self: center;
+    text-align: center;
+    
   }
 </style>
