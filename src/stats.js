@@ -66,7 +66,7 @@ export function getStat(requestData) {
   // So ... double-check.
   Object.keys(requestData).forEach(dataSet => {
     console.log("Not Ready Yet")
-    if (!requestData[dataSet]) { return {} }
+    if (!requestData[dataSet]) { return null }
   })
 
   let { caseData, mapData, censusData, mapName } = requestData;
