@@ -10,19 +10,37 @@
   import { feature } from 'topojson';
   import moment from 'moment';
 
+  import { mapData, censusData, caseData, mapName, statKey } from '../mapDataStore.js';
+
+  import { getStat } from '../stats.js';
+
+  let md = null;
+  let statDetails = null;
+
+  $: md = $mapData;
+  $: statDetails = ($caseData && $mapData && $censusData && $mapName && $statKey) ? 
+    getStat({
+      caseData: $caseData,
+      mapData: $mapData,
+      censusData: $censusData,
+      mapName: $mapName,
+      statKey: $statKey
+    })
+    : null
+  
+
   let statHoverText = "";
   let statHoverId = null;
 
-  function hover(geoId, geoName, value) {
-    console.log(geoId);
+  function hover(geoId, geoName, statKey, value) {
     statHoverId = geoId;
     statHoverText = `${geoName}: ${value}`;
-    console.log(geoName)
   }
 
   function hoverOut(geoId) {
     if (statHoverId == geoId) {
       statHoverId = null;
+      statHoverText = "";
     }
   }
 
@@ -189,27 +207,45 @@
 
       let statDetails = getStats(caseData,mapData);
 
-      let statsMeta = new Object(null);
-      [
-        ["totalCases","Total Cases"],
-        ["totalDeaths","Total Deaths"],
-        ["totalCasesPerCapita","Cases per 100,000 residents"],
-        ["totalDeathsPerCapita","Deaths per 100,000 residents"],
-        ["dailyCases","New Cases (Day)"],
-        ["dailyDeaths","New Deaths (Day)"],
-        ["dailyCasesPerCapita","Per Capita New Cases (Day)"],
-        ["dailyDeathsPerCapita","Per Capita New Deaths (Day)"]
-      ].forEach((statMeta) => {
-        let statKey = statMeta[0];
+      let statsMeta = {
+        totalCases: {
+          description: "Total Cases",
+          format: (value) => {
+            return value.toLocalString();
+          }
+        },
+        totalCases: {
+          description: "Total Cases"
+        },
+        totalDeaths: {
+          description: "Total Deaths"
+        },
+        totalCasesPerCapita: {
+          description: "Cases per 100,000 residents"
+        },
+        totalDeathsPerCapita: {
+          description: "Deaths per 100,000 residents"
+        },
+        dailyCases: {
+          description: "New Cases (Day)"
+        },
+        dailyDeaths: {
+          description: "New Deaths (Day)"
+        },
+        dailyCasesPerCapita: {
+          description: "Per Capita New Cases (Day)"
+        },
+        dailyDeathsPerCapita: {
+          description: "Per Capita New Deaths (Day)"
+        }
+      }
+      Object.keys(statsMeta).forEach((statKey) => {
         let avg = d3array.mean(Object.values(statDetails), d => d[statKey]);
         let max = d3array.max(Object.values(statDetails), d => d[statKey]);
         let colorScale = getColorScale(0,avg,max);
-        statsMeta[statKey] = {
-          description: statMeta[1],
-          avg,
-          max,
-          colorScale
-        }
+        statsMeta[statKey].avg = avg;
+        statsMeta[statKey].max = max;
+        statsMeta[statKey].colorScale = colorScale;
       });
 
       return {
@@ -232,13 +268,14 @@ let dataPromise = getData();
 {#await dataPromise}
   <h2>Loading</h2>
 {:then {mapPathGenerator, mapData, statDetails, statsMeta, statKey}}
+{#if md}
   <figure class="map">
     <svg width="{width}" height="{height}">
-      {#each Object.keys(mapData) as geoId}
+      {#each Object.keys(md) as geoId}
         <path 
-          class="geoFeature" d="{mapPathGenerator(mapData[geoId].geoJson)}"
+          class="geoFeature" d="{mapPathGenerator(md[geoId].geoJSON)}"
           fill="{statsMeta[statKey].colorScale(statDetails[geoId][statKey])}" 
-          on:mouseover={(event) => hover(geoId,mapData[geoId].name,statDetails[geoId][statKey])}
+          on:mouseover={(event) => hover(geoId,mapData[geoId].name,statKey,statDetails[geoId][statKey])}
           on:mouseout={(event) => hoverOut(geoId)}
         />
       {/each}
@@ -246,6 +283,7 @@ let dataPromise = getData();
     <figcaption>{statsMeta[statKey].description}<br />
     {statHoverText}</figcaption>
   </figure>
+{/if}
 {:catch error}
   <p style="color: red">{error.message}</p>
 
