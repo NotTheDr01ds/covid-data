@@ -52,20 +52,6 @@ export const statLookup = {
     description: "Per Capita New Deaths (Day)"
   }
 }
-function getEntriesForDate(casesOrDeaths, caseData, mapData, date) {
-  // First, get the list of cases in the caseData for the specified date
-  let entriesForDate = Object.fromEntries(
-    caseData
-      .filter(d => { return +d.date == +date })
-      .map(d => [d.id, d[casesOrDeaths]])
-  )
-  // Then fill in 0's for any geos not present in the caseData
-  Object.keys(mapData).forEach((geoId) => {
-    entriesForDate[geoId] = entriesForDate[geoId] || 0
-  })
-
-  return entriesForDate;
-}
 
 function getColorScale(min,avg,max) {
   return scaleLinear()
@@ -74,7 +60,6 @@ function getColorScale(min,avg,max) {
 }
 
 export function getStat(requestData) {
-  console.log("getTotalCases");
   // The caller should check to make sure all values are non-null
   // before calling, but since these are reactive variables, it's
   // easily possible to pass in null values before they are ready.
@@ -115,7 +100,7 @@ export function getStat(requestData) {
     caseCollector[id][date] = { cases, deaths }
     return caseCollector;
   }, {})
-  console.log(caseDataLookup)
+
   let statData = {
     caseDataLookup,
     mapData,
@@ -130,8 +115,16 @@ export function getStat(requestData) {
        })
   )
 
-  
+  let avg = d3array.mean(Object.values(statDetail));
+  let max = d3array.max(Object.values(statDetail));
+  let colorScale = getColorScale(0,avg,max);
 
-  console.log(statDetail);
-  return statDetail;
+  let statDetails = {
+    table: statDetail,
+    avg,
+    max,
+    colorScale
+  }
+
+  return statDetails;
 }

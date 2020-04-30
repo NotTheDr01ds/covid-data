@@ -253,7 +253,8 @@
         mapData,
         statDetails,
         statsMeta,
-        statKey: "dailyCasesPerCapita" // Key of the stat to map
+        //statKey: "dailyCasesPerCapita" // Key of the stat to map
+        statKey: "totalCases" // Key of the stat to map
       } 
     } catch (err) {
       console.log(err);
