@@ -24,6 +24,7 @@
   $: caseData = $caseDataStore;
   $: mapName = $mapNameStore;
   $: statKey = $statKeyStore;
+  //$: console.log($statKey)
 
   $: mapPathGenerator = mapName ? mapLookup[mapName].mapPathGenerator : null;
 
@@ -40,16 +41,25 @@
 
   let statHoverText = "";
   let statHoverId = null;
+  let rankHoverText = "";
 
-  function hover(geoId, geoName, statKey, value) {
+  function hover(geoId) {
     statHoverId = geoId;
-    statHoverText = `${geoName}: ${value}`;
+    let geoName = mapData[geoId].name; 
+    let value = statDetails.table[geoId];
+    let format = statLookup[statKey].format;
+    let formattedValue = format ? format(value) : value;
+    statHoverText = `${geoName}: ${formattedValue}`;
+    let rank = statDetails.rankTable[geoId];
+    let outOf = Object.keys(statDetails.rankTable).length;
+    rankHoverText = `Rank: ${rank} of ${outOf}`;
   }
 
   function hoverOut(geoId) {
     if (statHoverId == geoId) {
       statHoverId = null;
       statHoverText = "";
+      rankHoverText = "";
     }
   }
 
@@ -63,13 +73,16 @@
         <path 
           class="geoFeature" d="{mapPathGenerator(mapData[geoId].geoJSON)}"
           fill="{statDetails.colorScale(statDetails.table[geoId])}" 
-          on:mouseover={(event) => hover(geoId,mapData[geoId].name,statKey,statDetails[geoId])}
+          on:mouseover={(event) => hover(geoId,mapData[geoId].name,statKey)}
           on:mouseout={(event) => hoverOut(geoId)}
         />
       {/each}
     </svg>
     <figcaption>{statLookup[statKey].description}<br />
-    {statHoverText}</figcaption>
+      As of {moment(statDetails.endDate).format('dddd, MMMM Do, YYYY')}<br />
+      {statHoverText}<br />
+      {rankHoverText}
+  </figcaption>
   </figure>
 {/if}
 </div>

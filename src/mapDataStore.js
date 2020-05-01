@@ -93,7 +93,7 @@ async function getCaseData(mapName, mapData) {
 }
 
 export const mapName = writable("us-states");
-export const statKey = writable("totalCasesPerCapita");
+export const statKey = writable("dailyCasesPerCapita");
 
 export const mapData = derived(mapName, async ($mapName, set) => {
   set(await getMapData($mapName));
@@ -110,5 +110,3 @@ export const caseData = derived([mapName, mapData], async ([$mapName, $mapData],
     set(await getCaseData($mapName, $mapData))
   }
 }, null);
-
-  

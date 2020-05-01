@@ -5,13 +5,17 @@
   import MoreDetail from './components/MoreDetail.svelte';
   import DonationRecommendation from './components/DonationRecommendation.svelte';
   import Map from "./components/Map.svelte";
+  import { statLookup } from "./stats.js";
+  import { statKey } from "./mapDataStore.js";
 
 //  import {getData} from './data.js';
  // let dataPromise = getData();
   let query = new URLSearchParams(window.location.search);
   let mapQuery = query.get("map");
-  console.log(`mapQuery: ${mapQuery}`);
+  let georgiaTableQuery = query.get("georgia-covid-old");
 
+  let statSelected = "dailyCasesPerCapita";
+  $: statKey.set(statSelected);
 
 </script>
 
@@ -21,20 +25,35 @@
   <meta property="og:image" content="http://covid-data.dougcrozier.com/preview.jpg" />
 </svelte:head>
 
-<main>
-{#if mapQuery}
+
+{#if !georgiaTableQuery}
+<main class="map">
+  <select name="" id="" bind:value={statSelected}>
+    {#each Object.keys(statLookup) as stat}
+      <option value={stat}>{statLookup[stat].description}</option>
+    {/each}} 
+  </select>
   <Map />
+</main>
 {:else}
+<main class="georgia-table">
   <Heading />
   <GeorgiaTable />
   <MoreDetail />
   <Attributions />
   <DonationRecommendation />
-{/if}
 </main>
+{/if}
 
 <style>
-  main {
+  main.map {
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-items: center;
+
+  }
+
+  main.georgia-table {
     display: grid; 
     grid-template-columns: 1fr 350px max-content 1fr;
     grid-template-rows: auto max-content auto;
