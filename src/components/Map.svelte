@@ -24,7 +24,6 @@
   $: caseData = $caseDataStore;
   $: mapName = $mapNameStore;
   $: statKey = $statKeyStore;
-  //$: console.log($statKey)
 
   $: mapPathGenerator = mapName ? mapLookup[mapName].mapPathGenerator : null;
 
@@ -68,7 +67,7 @@
 <div class="MapComponent">
 {#if mapData && statDetails}
   <figure class="map">
-    <svg width="{width}" height="{height}">
+    <svg height="75vh" viewbox="0 0 {width} {height}">
       {#each Object.keys(mapData) as geoId}
         <path 
           class="geoFeature" d="{mapPathGenerator(mapData[geoId].geoJSON)}"
@@ -89,8 +88,8 @@
 
 <style>
   .geoFeature {
-    stroke: #888;
-    stroke-width: 0.25px;
+    stroke: #111;
+    stroke-width: 0.15px;
     stroke-linejoin: round;
   }
   figure.map {

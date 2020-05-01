@@ -14,17 +14,14 @@
   let mapQuery = query.get("map");
   let georgiaTableQuery = query.get("georgia-covid-old");
 
-  let statSelected = "dailyCasesPerCapita";
+  let statSelected = "weeklyCasesPerCapita";
   $: statKey.set(statSelected);
 
 </script>
 
 <svelte:head>
-  <title>Georgia COVID-19</title>
-  <meta property="og:title" content="Georgia County-by-County COVID Statistics" />
-  <meta property="og:image" content="http://covid-data.dougcrozier.com/preview.jpg" />
+  <title>COVID-19 Data Mapping</title>
 </svelte:head>
-
 
 {#if !georgiaTableQuery}
 <main class="map">

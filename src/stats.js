@@ -107,13 +107,13 @@ export const statLookup = {
     description: "New Cases per 1M Residents (7 day)",
     calc: (id, statData) => {
       let dayCases = statData.caseDataLookup[id][statData.endDate].cases;
-      let sevenDaysPrior = statData.endDate.clone().subtract(1, "day");
+      let sevenDaysPrior = statData.endDate.clone().subtract(7, "days");
       let previousWeekCases = statData.caseDataLookup[id][sevenDaysPrior].cases;
       let population = statData.censusData[id].population;
       let newCases = dayCases - previousWeekCases;
       return (newCases / population) * 1000000;
     },
-    format: (value) => { return `${value.toFixed(2).toLocaleString()}`}
+    format: (value) => { return `${value.toLocaleString(undefined, { maximumFractionDigits: 2})}`}
 
   }
 }

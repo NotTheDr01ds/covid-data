@@ -1,5 +1,5 @@
 .s3cmdcache
 .s3cmd_full_cache
 *.xlsx
-*.csv
+./data/*.csv
 .git
