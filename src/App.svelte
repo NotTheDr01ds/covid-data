@@ -6,16 +6,25 @@
   import DonationRecommendation from './components/DonationRecommendation.svelte';
   import Map from "./components/Map.svelte";
   import { statLookup } from "./stats.js";
-  import { statKey } from "./mapDataStore.js";
+  import { statKey, mapName, submapId } from "./mapDataStore.js";
 
 //  import {getData} from './data.js';
  // let dataPromise = getData();
   let query = new URLSearchParams(window.location.search);
   let mapQuery = query.get("map");
+  let submapQuery = query.get("state");
   let georgiaTableQuery = query.get("georgia-covid-old");
 
   let statSelected = "weeklyCasesPerCapita";
   $: statKey.set(statSelected);
+  
+  if (mapQuery) {
+    mapName.set(mapQuery)
+  }
+
+  if (submapQuery) {
+    submapId.set(submapQuery);
+  }
 
 </script>
 

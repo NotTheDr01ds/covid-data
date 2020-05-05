@@ -1,0 +1,1122 @@
+[
+  {
+    "county_resident": "Appling",
+    "Positive": 72,
+    "DEATHS": 5,
+    "HOSPITALIZATION": 11,
+    "case_rate": 387.91
+  },
+  {
+    "county_resident": "Atkinson",
+    "Positive": 11,
+    "DEATHS": 1,
+    "HOSPITALIZATION": 4,
+    "case_rate": 132.05
+  },
+  {
+    "county_resident": "Bacon",
+    "Positive": 27,
+    "DEATHS": 1,
+    "HOSPITALIZATION": 3,
+    "case_rate": 236.76
+  },
+  {
+    "county_resident": "Baker",
+    "Positive": 23,
+    "DEATHS": 2,
+    "HOSPITALIZATION": 8,
+    "case_rate": 738.13
+  },
+  {
+    "county_resident": "Baldwin",
+    "Positive": 236,
+    "DEATHS": 8,
+    "HOSPITALIZATION": 48,
+    "case_rate": 531.2
+  },
+  {
+    "county_resident": "Banks",
+    "Positive": 31,
+    "DEATHS": 0,
+    "HOSPITALIZATION": 7,
+    "case_rate": 155.14
+  },
+  {
+    "county_resident": "Barrow",
+    "Positive": 163,
+    "DEATHS": 4,
+    "HOSPITALIZATION": 44,
+    "case_rate": 188.69
+  },
+  {
+    "county_resident": "Bartow",
+    "Positive": 329,
+    "DEATHS": 31,
+    "HOSPITALIZATION": 119,
+    "case_rate": 297.01
+  },
+  {
+    "county_resident": "Ben Hill",
+    "Positive": 29,
+    "DEATHS": 0,
+    "HOSPITALIZATION": 2,
+    "case_rate": 174.23
+  },
+  {
+    "county_resident": "Berrien",
+    "Positive": 17,
+    "DEATHS": 0,
+    "HOSPITALIZATION": 1,
+    "case_rate": 88.19
+  },
+  {
+    "county_resident": "Bibb",
+    "Positive": 327,
+    "DEATHS": 12,
+    "HOSPITALIZATION": 91,
+    "case_rate": 214.92
+  },
+  {
+    "county_resident": "Bleckley",
+    "Positive": 20,
+    "DEATHS": 0,
+    "HOSPITALIZATION": 0,
+    "case_rate": 155.79
+  },
+  {
+    "county_resident": "Brantley",
+    "Positive": 22,
+    "DEATHS": 2,
+    "HOSPITALIZATION": 1,
+    "case_rate": 114.57
+  },
+  {
+    "county_resident": "Brooks",
+    "Positive": 60,
+    "DEATHS": 7,
+    "HOSPITALIZATION": 4,
+    "case_rate": 381.51
+  },
+  {
+    "county_resident": "Bryan",
+    "Positive": 54,
+    "DEATHS": 3,
+    "HOSPITALIZATION": 17,
+    "case_rate": 137.98
+  },
+  {
+    "county_resident": "Bulloch",
+    "Positive": 42,
+    "DEATHS": 2,
+    "HOSPITALIZATION": 9,
+    "case_rate": 52.85
+  },
+  {
+    "county_resident": "Burke",
+    "Positive": 86,
+    "DEATHS": 3,
+    "HOSPITALIZATION": 15,
+    "case_rate": 384.93
+  },
+  {
+    "county_resident": "Butts",
+    "Positive": 152,
+    "DEATHS": 16,
+    "HOSPITALIZATION": 16,
+    "case_rate": 603.8
+  },
+  {
+    "county_resident": "Calhoun",
+    "Positive": 107,
+    "DEATHS": 4,
+    "HOSPITALIZATION": 7,
+    "case_rate": 1693.84
+  },
+  {
+    "county_resident": "Camden",
+    "Positive": 35,
+    "DEATHS": 1,
+    "HOSPITALIZATION": 6,
+    "case_rate": 64.91
+  },
+  {
+    "county_resident": "Candler",
+    "Positive": 7,
+    "DEATHS": 0,
+    "HOSPITALIZATION": 1,
+    "case_rate": 64.59
+  },
+  {
+    "county_resident": "Carroll",
+    "Positive": 387,
+    "DEATHS": 14,
+    "HOSPITALIZATION": 73,
+    "case_rate": 322.18
+  },
+  {
+    "county_resident": "Catoosa",
+    "Positive": 51,
+    "DEATHS": 0,
+    "HOSPITALIZATION": 5,
+    "case_rate": 74.16
+  },
+  {
+    "county_resident": "Charlton",
+    "Positive": 12,
+    "DEATHS": 0,
+    "HOSPITALIZATION": 3,
+    "case_rate": 90.56
+  },
+  {
+    "county_resident": "Chatham",
+    "Positive": 241,
+    "DEATHS": 9,
+    "HOSPITALIZATION": 58,
+    "case_rate": 82.48
+  },
+  {
+    "county_resident": "Chattahoochee",
+    "Positive": 13,
+    "DEATHS": 0,
+    "HOSPITALIZATION": 5,
+    "case_rate": 120.94
+  },
+  {
+    "county_resident": "Chattooga",
+    "Positive": 15,
+    "DEATHS": 2,
+    "HOSPITALIZATION": 3,
+    "case_rate": 60.57
+  },
+  {
+    "county_resident": "Cherokee",
+    "Positive": 498,
+    "DEATHS": 13,
+    "HOSPITALIZATION": 90,
+    "case_rate": 186.78
+  },
+  {
+    "county_resident": "Clarke",
+    "Positive": 159,
+    "DEATHS": 13,
+    "HOSPITALIZATION": 30,
+    "case_rate": 122.52
+  },
+  {
+    "county_resident": "Clay",
+    "Positive": 25,
+    "DEATHS": 3,
+    "HOSPITALIZATION": 4,
+    "case_rate": 875.66
+  },
+  {
+    "county_resident": "Clayton",
+    "Positive": 802,
+    "DEATHS": 33,
+    "HOSPITALIZATION": 138,
+    "case_rate": 263.09
+  },
+  {
+    "county_resident": "Clinch",
+    "Positive": 9,
+    "DEATHS": 0,
+    "HOSPITALIZATION": 2,
+    "case_rate": 135.22
+  },
+  {
+    "county_resident": "Cobb",
+    "Positive": 1797,
+    "DEATHS": 97,
+    "HOSPITALIZATION": 487,
+    "case_rate": 227.3
+  },
+  {
+    "county_resident": "Coffee",
+    "Positive": 146,
+    "DEATHS": 7,
+    "HOSPITALIZATION": 42,
+    "case_rate": 339.2
+  },
+  {
+    "county_resident": "Colquitt",
+    "Positive": 189,
+    "DEATHS": 10,
+    "HOSPITALIZATION": 11,
+    "case_rate": 416.36
+  },
+  {
+    "county_resident": "Columbia",
+    "Positive": 165,
+    "DEATHS": 4,
+    "HOSPITALIZATION": 25,
+    "case_rate": 104.01
+  },
+  {
+    "county_resident": "Cook",
+    "Positive": 28,
+    "DEATHS": 1,
+    "HOSPITALIZATION": 5,
+    "case_rate": 160.58
+  },
+  {
+    "county_resident": "Coweta",
+    "Positive": 234,
+    "DEATHS": 4,
+    "HOSPITALIZATION": 38,
+    "case_rate": 153.95
+  },
+  {
+    "county_resident": "Crawford",
+    "Positive": 18,
+    "DEATHS": 0,
+    "HOSPITALIZATION": 4,
+    "case_rate": 147.2
+  },
+  {
+    "county_resident": "Crisp",
+    "Positive": 168,
+    "DEATHS": 3,
+    "HOSPITALIZATION": 33,
+    "case_rate": 753.74
+  },
+  {
+    "county_resident": "Dade",
+    "Positive": 16,
+    "DEATHS": 1,
+    "HOSPITALIZATION": 3,
+    "case_rate": 99
+  },
+  {
+    "county_resident": "Dawson",
+    "Positive": 66,
+    "DEATHS": 1,
+    "HOSPITALIZATION": 12,
+    "case_rate": 244.25
+  },
+  {
+    "county_resident": "DeKalb",
+    "Positive": 2242,
+    "DEATHS": 55,
+    "HOSPITALIZATION": 416,
+    "case_rate": 282.67
+  },
+  {
+    "county_resident": "Decatur",
+    "Positive": 91,
+    "DEATHS": 1,
+    "HOSPITALIZATION": 11,
+    "case_rate": 345.72
+  },
+  {
+    "county_resident": "Dodge",
+    "Positive": 29,
+    "DEATHS": 1,
+    "HOSPITALIZATION": 7,
+    "case_rate": 142.26
+  },
+  {
+    "county_resident": "Dooly",
+    "Positive": 132,
+    "DEATHS": 10,
+    "HOSPITALIZATION": 35,
+    "case_rate": 985.07
+  },
+  {
+    "county_resident": "Dougherty",
+    "Positive": 1537,
+    "DEATHS": 125,
+    "HOSPITALIZATION": 317,
+    "case_rate": 1709.58
+  },
+  {
+    "county_resident": "Douglas",
+    "Positive": 341,
+    "DEATHS": 11,
+    "HOSPITALIZATION": 99,
+    "case_rate": 224.48
+  },
+  {
+    "county_resident": "Early",
+    "Positive": 219,
+    "DEATHS": 21,
+    "HOSPITALIZATION": 12,
+    "case_rate": 2158.49
+  },
+  {
+    "county_resident": "Echols",
+    "Positive": 5,
+    "DEATHS": 0,
+    "HOSPITALIZATION": 0,
+    "case_rate": 125.98
+  },
+  {
+    "county_resident": "Effingham",
+    "Positive": 37,
+    "DEATHS": 1,
+    "HOSPITALIZATION": 11,
+    "case_rate": 57.79
+  },
+  {
+    "county_resident": "Elbert",
+    "Positive": 31,
+    "DEATHS": 0,
+    "HOSPITALIZATION": 2,
+    "case_rate": 163.63
+  },
+  {
+    "county_resident": "Emanuel",
+    "Positive": 21,
+    "DEATHS": 0,
+    "HOSPITALIZATION": 3,
+    "case_rate": 92.66
+  },
+  {
+    "county_resident": "Evans",
+    "Positive": 5,
+    "DEATHS": 0,
+    "HOSPITALIZATION": 0,
+    "case_rate": 46.79
+  },
+  {
+    "county_resident": "Fannin",
+    "Positive": 31,
+    "DEATHS": 1,
+    "HOSPITALIZATION": 4,
+    "case_rate": 117.78
+  },
+  {
+    "county_resident": "Fayette",
+    "Positive": 188,
+    "DEATHS": 10,
+    "HOSPITALIZATION": 35,
+    "case_rate": 159.94
+  },
+  {
+    "county_resident": "Floyd",
+    "Positive": 148,
+    "DEATHS": 11,
+    "HOSPITALIZATION": 36,
+    "case_rate": 148.12
+  },
+  {
+    "county_resident": "Forsyth",
+    "Positive": 333,
+    "DEATHS": 10,
+    "HOSPITALIZATION": 46,
+    "case_rate": 131.88
+  },
+  {
+    "county_resident": "Franklin",
+    "Positive": 21,
+    "DEATHS": 1,
+    "HOSPITALIZATION": 5,
+    "case_rate": 90.02
+  },
+  {
+    "county_resident": "Fulton",
+    "Positive": 3035,
+    "DEATHS": 124,
+    "HOSPITALIZATION": 550,
+    "case_rate": 276.11
+  },
+  {
+    "county_resident": "Gilmer",
+    "Positive": 73,
+    "DEATHS": 0,
+    "HOSPITALIZATION": 13,
+    "case_rate": 232.36
+  },
+  {
+    "county_resident": "Glynn",
+    "Positive": 58,
+    "DEATHS": 1,
+    "HOSPITALIZATION": 11,
+    "case_rate": 67.41
+  },
+  {
+    "county_resident": "Gordon",
+    "Positive": 114,
+    "DEATHS": 12,
+    "HOSPITALIZATION": 26,
+    "case_rate": 196.39
+  },
+  {
+    "county_resident": "Grady",
+    "Positive": 63,
+    "DEATHS": 3,
+    "HOSPITALIZATION": 17,
+    "case_rate": 256.72
+  },
+  {
+    "county_resident": "Greene",
+    "Positive": 56,
+    "DEATHS": 3,
+    "HOSPITALIZATION": 17,
+    "case_rate": 299.19
+  },
+  {
+    "county_resident": "Gwinnett",
+    "Positive": 2033,
+    "DEATHS": 59,
+    "HOSPITALIZATION": 362,
+    "case_rate": 209.34
+  },
+  {
+    "county_resident": "Habersham",
+    "Positive": 345,
+    "DEATHS": 9,
+    "HOSPITALIZATION": 51,
+    "case_rate": 753.28
+  },
+  {
+    "county_resident": "Hall",
+    "Positive": 1709,
+    "DEATHS": 23,
+    "HOSPITALIZATION": 216,
+    "case_rate": 828.21
+  },
+  {
+    "county_resident": "Hancock",
+    "Positive": 63,
+    "DEATHS": 2,
+    "HOSPITALIZATION": 9,
+    "case_rate": 768.95
+  },
+  {
+    "county_resident": "Haralson",
+    "Positive": 29,
+    "DEATHS": 1,
+    "HOSPITALIZATION": 7,
+    "case_rate": 94.39
+  },
+  {
+    "county_resident": "Harris",
+    "Positive": 60,
+    "DEATHS": 2,
+    "HOSPITALIZATION": 9,
+    "case_rate": 172.85
+  },
+  {
+    "county_resident": "Hart",
+    "Positive": 12,
+    "DEATHS": 0,
+    "HOSPITALIZATION": 0,
+    "case_rate": 45.96
+  },
+  {
+    "county_resident": "Heard",
+    "Positive": 13,
+    "DEATHS": 1,
+    "HOSPITALIZATION": 4,
+    "case_rate": 105.09
+  },
+  {
+    "county_resident": "Henry",
+    "Positive": 526,
+    "DEATHS": 13,
+    "HOSPITALIZATION": 62,
+    "case_rate": 219.29
+  },
+  {
+    "county_resident": "Houston",
+    "Positive": 245,
+    "DEATHS": 14,
+    "HOSPITALIZATION": 76,
+    "case_rate": 156.01
+  },
+  {
+    "county_resident": "Irwin",
+    "Positive": 18,
+    "DEATHS": 1,
+    "HOSPITALIZATION": 2,
+    "case_rate": 190.82
+  },
+  {
+    "county_resident": "Jackson",
+    "Positive": 107,
+    "DEATHS": 2,
+    "HOSPITALIZATION": 18,
+    "case_rate": 143.24
+  },
+  {
+    "county_resident": "Jasper",
+    "Positive": 25,
+    "DEATHS": 0,
+    "HOSPITALIZATION": 3,
+    "case_rate": 176.07
+  },
+  {
+    "county_resident": "Jeff Davis",
+    "Positive": 22,
+    "DEATHS": 1,
+    "HOSPITALIZATION": 4,
+    "case_rate": 145.23
+  },
+  {
+    "county_resident": "Jefferson",
+    "Positive": 15,
+    "DEATHS": 1,
+    "HOSPITALIZATION": 3,
+    "case_rate": 97.96
+  },
+  {
+    "county_resident": "Jenkins",
+    "Positive": 17,
+    "DEATHS": 1,
+    "HOSPITALIZATION": 4,
+    "case_rate": 198.23
+  },
+  {
+    "county_resident": "Johnson",
+    "Positive": 59,
+    "DEATHS": 2,
+    "HOSPITALIZATION": 10,
+    "case_rate": 610.7
+  },
+  {
+    "county_resident": "Jones",
+    "Positive": 29,
+    "DEATHS": 0,
+    "HOSPITALIZATION": 4,
+    "case_rate": 101.43
+  },
+  {
+    "county_resident": "Lamar",
+    "Positive": 40,
+    "DEATHS": 1,
+    "HOSPITALIZATION": 4,
+    "case_rate": 206.75
+  },
+  {
+    "county_resident": "Lanier",
+    "Positive": 10,
+    "DEATHS": 1,
+    "HOSPITALIZATION": 4,
+    "case_rate": 96.61
+  },
+  {
+    "county_resident": "Laurens",
+    "Positive": 65,
+    "DEATHS": 1,
+    "HOSPITALIZATION": 12,
+    "case_rate": 137.43
+  },
+  {
+    "county_resident": "Lee",
+    "Positive": 328,
+    "DEATHS": 20,
+    "HOSPITALIZATION": 46,
+    "case_rate": 1094.39
+  },
+  {
+    "county_resident": "Liberty",
+    "Positive": 38,
+    "DEATHS": 0,
+    "HOSPITALIZATION": 11,
+    "case_rate": 61.39
+  },
+  {
+    "county_resident": "Lincoln",
+    "Positive": 12,
+    "DEATHS": 0,
+    "HOSPITALIZATION": 5,
+    "case_rate": 147.69
+  },
+  {
+    "county_resident": "Long",
+    "Positive": 5,
+    "DEATHS": 0,
+    "HOSPITALIZATION": 2,
+    "case_rate": 25.11
+  },
+  {
+    "county_resident": "Lowndes",
+    "Positive": 157,
+    "DEATHS": 4,
+    "HOSPITALIZATION": 28,
+    "case_rate": 133.19
+  },
+  {
+    "county_resident": "Lumpkin",
+    "Positive": 63,
+    "DEATHS": 2,
+    "HOSPITALIZATION": 12,
+    "case_rate": 186.38
+  },
+  {
+    "county_resident": "Macon",
+    "Positive": 81,
+    "DEATHS": 3,
+    "HOSPITALIZATION": 28,
+    "case_rate": 623.65
+  },
+  {
+    "county_resident": "Madison",
+    "Positive": 25,
+    "DEATHS": 1,
+    "HOSPITALIZATION": 5,
+    "case_rate": 82.84
+  },
+  {
+    "county_resident": "Marion",
+    "Positive": 40,
+    "DEATHS": 1,
+    "HOSPITALIZATION": 8,
+    "case_rate": 482.33
+  },
+  {
+    "county_resident": "McDuffie",
+    "Positive": 46,
+    "DEATHS": 4,
+    "HOSPITALIZATION": 14,
+    "case_rate": 212.99
+  },
+  {
+    "county_resident": "McIntosh",
+    "Positive": 6,
+    "DEATHS": 0,
+    "HOSPITALIZATION": 2,
+    "case_rate": 41.19
+  },
+  {
+    "county_resident": "Meriwether",
+    "Positive": 54,
+    "DEATHS": 0,
+    "HOSPITALIZATION": 9,
+    "case_rate": 256.9
+  },
+  {
+    "county_resident": "Miller",
+    "Positive": 33,
+    "DEATHS": 0,
+    "HOSPITALIZATION": 1,
+    "case_rate": 572.52
+  },
+  {
+    "county_resident": "Mitchell",
+    "Positive": 318,
+    "DEATHS": 30,
+    "HOSPITALIZATION": 68,
+    "case_rate": 1441.78
+  },
+  {
+    "county_resident": "Monroe",
+    "Positive": 25,
+    "DEATHS": 3,
+    "HOSPITALIZATION": 7,
+    "case_rate": 90.16
+  },
+  {
+    "county_resident": "Montgomery",
+    "Positive": 2,
+    "DEATHS": 0,
+    "HOSPITALIZATION": 1,
+    "case_rate": 21.68
+  },
+  {
+    "county_resident": "Morgan",
+    "Positive": 29,
+    "DEATHS": 0,
+    "HOSPITALIZATION": 3,
+    "case_rate": 151.53
+  },
+  {
+    "county_resident": "Murray",
+    "Positive": 33,
+    "DEATHS": 1,
+    "HOSPITALIZATION": 5,
+    "case_rate": 81.97
+  },
+  {
+    "county_resident": "Muscogee",
+    "Positive": 336,
+    "DEATHS": 7,
+    "HOSPITALIZATION": 63,
+    "case_rate": 175.34
+  },
+  {
+    "county_resident": "Newton",
+    "Positive": 215,
+    "DEATHS": 7,
+    "HOSPITALIZATION": 35,
+    "case_rate": 191.36
+  },
+  {
+    "county_resident": "Non-Georgia Resident",
+    "Positive": 1069,
+    "DEATHS": 14,
+    "HOSPITALIZATION": 67,
+    "case_rate": 0
+  },
+  {
+    "county_resident": "Oconee",
+    "Positive": 65,
+    "DEATHS": 0,
+    "HOSPITALIZATION": 9,
+    "case_rate": 155.74
+  },
+  {
+    "county_resident": "Oglethorpe",
+    "Positive": 50,
+    "DEATHS": 3,
+    "HOSPITALIZATION": 11,
+    "case_rate": 328.08
+  },
+  {
+    "county_resident": "Paulding",
+    "Positive": 203,
+    "DEATHS": 9,
+    "HOSPITALIZATION": 53,
+    "case_rate": 117.65
+  },
+  {
+    "county_resident": "Peach",
+    "Positive": 56,
+    "DEATHS": 2,
+    "HOSPITALIZATION": 15,
+    "case_rate": 204.57
+  },
+  {
+    "county_resident": "Pickens",
+    "Positive": 29,
+    "DEATHS": 2,
+    "HOSPITALIZATION": 8,
+    "case_rate": 86.49
+  },
+  {
+    "county_resident": "Pierce",
+    "Positive": 51,
+    "DEATHS": 3,
+    "HOSPITALIZATION": 15,
+    "case_rate": 260.94
+  },
+  {
+    "county_resident": "Pike",
+    "Positive": 40,
+    "DEATHS": 2,
+    "HOSPITALIZATION": 7,
+    "case_rate": 212.09
+  },
+  {
+    "county_resident": "Polk",
+    "Positive": 59,
+    "DEATHS": 0,
+    "HOSPITALIZATION": 11,
+    "case_rate": 135.69
+  },
+  {
+    "county_resident": "Pulaski",
+    "Positive": 33,
+    "DEATHS": 1,
+    "HOSPITALIZATION": 7,
+    "case_rate": 302.95
+  },
+  {
+    "county_resident": "Putnam",
+    "Positive": 42,
+    "DEATHS": 5,
+    "HOSPITALIZATION": 8,
+    "case_rate": 191.91
+  },
+  {
+    "county_resident": "Quitman",
+    "Positive": 8,
+    "DEATHS": 1,
+    "HOSPITALIZATION": 3,
+    "case_rate": 348.74
+  },
+  {
+    "county_resident": "Rabun",
+    "Positive": 13,
+    "DEATHS": 0,
+    "HOSPITALIZATION": 5,
+    "case_rate": 76.53
+  },
+  {
+    "county_resident": "Randolph",
+    "Positive": 164,
+    "DEATHS": 19,
+    "HOSPITALIZATION": 27,
+    "case_rate": 2428.19
+  },
+  {
+    "county_resident": "Richmond",
+    "Positive": 419,
+    "DEATHS": 16,
+    "HOSPITALIZATION": 120,
+    "case_rate": 207.18
+  },
+  {
+    "county_resident": "Rockdale",
+    "Positive": 196,
+    "DEATHS": 6,
+    "HOSPITALIZATION": 44,
+    "case_rate": 206.4
+  },
+  {
+    "county_resident": "Schley",
+    "Positive": 16,
+    "DEATHS": 1,
+    "HOSPITALIZATION": 7,
+    "case_rate": 303.32
+  },
+  {
+    "county_resident": "Screven",
+    "Positive": 15,
+    "DEATHS": 1,
+    "HOSPITALIZATION": 6,
+    "case_rate": 107.91
+  },
+  {
+    "county_resident": "Seminole",
+    "Positive": 31,
+    "DEATHS": 2,
+    "HOSPITALIZATION": 7,
+    "case_rate": 380.84
+  },
+  {
+    "county_resident": "Spalding",
+    "Positive": 222,
+    "DEATHS": 10,
+    "HOSPITALIZATION": 36,
+    "case_rate": 321.23
+  },
+  {
+    "county_resident": "Stephens",
+    "Positive": 87,
+    "DEATHS": 1,
+    "HOSPITALIZATION": 21,
+    "case_rate": 330.45
+  },
+  {
+    "county_resident": "Stewart",
+    "Positive": 25,
+    "DEATHS": 0,
+    "HOSPITALIZATION": 7,
+    "case_rate": 407.9
+  },
+  {
+    "county_resident": "Sumter",
+    "Positive": 389,
+    "DEATHS": 28,
+    "HOSPITALIZATION": 99,
+    "case_rate": 1323.17
+  },
+  {
+    "county_resident": "Talbot",
+    "Positive": 25,
+    "DEATHS": 1,
+    "HOSPITALIZATION": 12,
+    "case_rate": 405.98
+  },
+  {
+    "county_resident": "Taliaferro",
+    "Positive": 1,
+    "DEATHS": 0,
+    "HOSPITALIZATION": 0,
+    "case_rate": 61.27
+  },
+  {
+    "county_resident": "Tattnall",
+    "Positive": 9,
+    "DEATHS": 0,
+    "HOSPITALIZATION": 1,
+    "case_rate": 35.42
+  },
+  {
+    "county_resident": "Taylor",
+    "Positive": 18,
+    "DEATHS": 2,
+    "HOSPITALIZATION": 8,
+    "case_rate": 226.19
+  },
+  {
+    "county_resident": "Telfair",
+    "Positive": 29,
+    "DEATHS": 0,
+    "HOSPITALIZATION": 5,
+    "case_rate": 185.37
+  },
+  {
+    "county_resident": "Terrell",
+    "Positive": 188,
+    "DEATHS": 21,
+    "HOSPITALIZATION": 32,
+    "case_rate": 2220.39
+  },
+  {
+    "county_resident": "Thomas",
+    "Positive": 189,
+    "DEATHS": 18,
+    "HOSPITALIZATION": 44,
+    "case_rate": 425.38
+  },
+  {
+    "county_resident": "Tift",
+    "Positive": 132,
+    "DEATHS": 5,
+    "HOSPITALIZATION": 37,
+    "case_rate": 323.29
+  },
+  {
+    "county_resident": "Toombs",
+    "Positive": 34,
+    "DEATHS": 3,
+    "HOSPITALIZATION": 9,
+    "case_rate": 126.01
+  },
+  {
+    "county_resident": "Towns",
+    "Positive": 20,
+    "DEATHS": 1,
+    "HOSPITALIZATION": 7,
+    "case_rate": 166.2
+  },
+  {
+    "county_resident": "Treutlen",
+    "Positive": 3,
+    "DEATHS": 0,
+    "HOSPITALIZATION": 0,
+    "case_rate": 43.93
+  },
+  {
+    "county_resident": "Troup",
+    "Positive": 155,
+    "DEATHS": 4,
+    "HOSPITALIZATION": 45,
+    "case_rate": 220.13
+  },
+  {
+    "county_resident": "Turner",
+    "Positive": 69,
+    "DEATHS": 9,
+    "HOSPITALIZATION": 10,
+    "case_rate": 854.38
+  },
+  {
+    "county_resident": "Twiggs",
+    "Positive": 8,
+    "DEATHS": 0,
+    "HOSPITALIZATION": 3,
+    "case_rate": 98.94
+  },
+  {
+    "county_resident": "Union",
+    "Positive": 31,
+    "DEATHS": 1,
+    "HOSPITALIZATION": 10,
+    "case_rate": 122.36
+  },
+  {
+    "county_resident": "Unknown",
+    "Positive": 698,
+    "DEATHS": 0,
+    "HOSPITALIZATION": 42,
+    "case_rate": null
+  },
+  {
+    "county_resident": "Upson",
+    "Positive": 243,
+    "DEATHS": 20,
+    "HOSPITALIZATION": 23,
+    "case_rate": 924.76
+  },
+  {
+    "county_resident": "Walker",
+    "Positive": 59,
+    "DEATHS": 0,
+    "HOSPITALIZATION": 1,
+    "case_rate": 84.76
+  },
+  {
+    "county_resident": "Walton",
+    "Positive": 133,
+    "DEATHS": 4,
+    "HOSPITALIZATION": 21,
+    "case_rate": 138.81
+  },
+  {
+    "county_resident": "Ware",
+    "Positive": 132,
+    "DEATHS": 11,
+    "HOSPITALIZATION": 37,
+    "case_rate": 368.17
+  },
+  {
+    "county_resident": "Warren",
+    "Positive": 13,
+    "DEATHS": 0,
+    "HOSPITALIZATION": 3,
+    "case_rate": 249.52
+  },
+  {
+    "county_resident": "Washington",
+    "Positive": 44,
+    "DEATHS": 1,
+    "HOSPITALIZATION": 5,
+    "case_rate": 216.73
+  },
+  {
+    "county_resident": "Wayne",
+    "Positive": 13,
+    "DEATHS": 0,
+    "HOSPITALIZATION": 2,
+    "case_rate": 43.37
+  },
+  {
+    "county_resident": "Webster",
+    "Positive": 10,
+    "DEATHS": 2,
+    "HOSPITALIZATION": 5,
+    "case_rate": 392.16
+  },
+  {
+    "county_resident": "Wheeler",
+    "Positive": 5,
+    "DEATHS": 0,
+    "HOSPITALIZATION": 0,
+    "case_rate": 63.22
+  },
+  {
+    "county_resident": "White",
+    "Positive": 78,
+    "DEATHS": 0,
+    "HOSPITALIZATION": 19,
+    "case_rate": 245.61
+  },
+  {
+    "county_resident": "Whitfield",
+    "Positive": 120,
+    "DEATHS": 5,
+    "HOSPITALIZATION": 15,
+    "case_rate": 114.64
+  },
+  {
+    "county_resident": "Wilcox",
+    "Positive": 90,
+    "DEATHS": 9,
+    "HOSPITALIZATION": 15,
+    "case_rate": 1023.89
+  },
+  {
+    "county_resident": "Wilkes",
+    "Positive": 25,
+    "DEATHS": 0,
+    "HOSPITALIZATION": 5,
+    "case_rate": 249.65
+  },
+  {
+    "county_resident": "Wilkinson",
+    "Positive": 36,
+    "DEATHS": 2,
+    "HOSPITALIZATION": 13,
+    "case_rate": 403.63
+  },
+  {
+    "county_resident": "Worth",
+    "Positive": 166,
+    "DEATHS": 11,
+    "HOSPITALIZATION": 32,
+    "case_rate": 824.15
+  }
+]

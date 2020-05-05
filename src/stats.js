@@ -17,7 +17,8 @@ export const statLookup = {
     description: "Total Cases",
     format: (value) => { return value.toLocaleString() },
     calc: (id, statData) => {
-      return statData.caseDataLookup[id][statData.endDate].cases;
+      let totalCases = getDayData(statData.caseDataLookup, id, statData.endDate).cases;
+      return totalCases;
     }
 
   },
@@ -25,15 +26,16 @@ export const statLookup = {
     description: "Total Deaths",
     format: (value) => { return value.toLocaleString() },
     calc: (id, statData) => {
-      return statData.caseDataLookup[id][statData.endDate].deaths;
+      let totalDeaths = getDayData(statData.caseDataLookup, id, statData.endDate).deaths;
+      return totalDeaths;
     }
   },
   totalCasesPerCapita: {
     description: "Total Cases per 100,000 Residents",
     calc: (id, statData) => {
       let population = statData.censusData[id].population;
-      let cases = statData.caseDataLookup[id][statData.endDate].cases;
-      return (cases / population) * 100000;
+      let totalCases = getDayData(statData.caseDataLookup, id, statData.endDate).cases;
+      return (totalCases / population) * 100000;
     },
     format: (value) => { return `${value.toFixed(2)}`}
   },
@@ -41,17 +43,17 @@ export const statLookup = {
     description: "Total Deaths per 100,000 Residents",
     calc: (id, statData) => {
       let population = statData.censusData[id].population;
-      let deaths = statData.caseDataLookup[id][statData.endDate].deaths;
-      return (deaths / population) * 100000;
+      let totalDeaths = getDayData(statData.caseDataLookup, id, statData.endDate).deaths;
+      return (totalDeaths / population) * 100000;
     },
     format: (value) => { return `${value.toFixed(2)}`}
   },
   dailyCases: {
     description: "New Cases (Day)",
     calc: (id, statData) => {
-      let dayCases = statData.caseDataLookup[id][statData.endDate].cases;
       let previousDay = statData.endDate.clone().subtract(1, "day");
-      let previousDayCases = statData.caseDataLookup[id][previousDay].cases;
+      let dayCases = getDayData(statData.caseDataLookup, id, statData.endDate).cases;
+      let previousDayCases = getDayData(statData.caseDataLookup, id, previousDay).cases;
       return (dayCases - previousDayCases);
     },
     format: (value) => { return value.toLocaleString() }
@@ -59,9 +61,9 @@ export const statLookup = {
   dailyDeaths: {
     description: "New Deaths (Day)",
     calc: (id, statData) => {
-      let dayDeaths = statData.caseDataLookup[id][statData.endDate].deaths;
       let previousDay = statData.endDate.clone().subtract(1, "day");
-      let previousDayDeaths = statData.caseDataLookup[id][previousDay].deaths;
+      let dayDeaths = getDayData(statData.caseDataLookup, id, statData.endDate).deaths;
+      let previousDayDeaths = getDayData(statData.caseDataLookup, id, previousDay).deaths;
       return (dayDeaths - previousDayDeaths);
     },
     format: (value) => { return value.toLocaleString() }
@@ -69,9 +71,9 @@ export const statLookup = {
   dailyCasesPerCapita: {
     description: "New Cases per 1M Residents (1 Day)",
     calc: (id, statData) => {
-      let dayCases = statData.caseDataLookup[id][statData.endDate].cases;
       let previousDay = statData.endDate.clone().subtract(1, "day");
-      let previousDayCases = statData.caseDataLookup[id][previousDay].cases;
+      let dayCases = getDayData(statData.caseDataLookup, id, statData.endDate).cases;
+      let previousDayCases = getDayData(statData.caseDataLookup, id, previousDay).cases;
       let population = statData.censusData[id].population;
       let newCases = dayCases - previousDayCases;
       return (newCases / population) * 1000000;
@@ -82,9 +84,9 @@ export const statLookup = {
   dailyDeathsPerCapita: {
     description: "Deaths per 1M Residents (1 Day)",
     calc: (id, statData) => {
-      let dayDeaths = statData.caseDataLookup[id][statData.endDate].deaths;
       let previousDay = statData.endDate.clone().subtract(1, "day");
-      let previousDayDeaths = statData.caseDataLookup[id][previousDay].deaths;
+      let dayDeaths = getDayData(statData.caseDataLookup, id, statData.endDate).deaths;
+      let previousDayDeaths = getDayData(statData.caseDataLookup, id, previousDay).deaths;
       let population = statData.censusData[id].population;
       let newDeaths = dayDeaths - previousDayDeaths;
       return (newDeaths / population) * 1000000;
@@ -94,9 +96,9 @@ export const statLookup = {
   weeklyCases: {
     description: "New Cases (7 day)",
     calc: (id, statData) => {
-      let dayCases = statData.caseDataLookup[id][statData.endDate].cases;
       let sevenDaysPrior = statData.endDate.clone().subtract(1, "week");
-      let previousWeekCases = statData.caseDataLookup[id][sevenDaysPrior].cases;
+      let dayCases = getDayData(statData.caseDataLookup, id, statData.endDate).cases;
+      let previousWeekCases = getDayData(statData.caseDataLookup, id, sevenDaysPrior).cases;
       let newCases = dayCases - previousWeekCases;
       return newCases
     },
@@ -106,9 +108,11 @@ export const statLookup = {
   weeklyCasesPerCapita: {
     description: "New Cases per 1M Residents (7 day)",
     calc: (id, statData) => {
-      let dayCases = statData.caseDataLookup[id][statData.endDate].cases;
+      //let dayCases = statData.caseDataLookup[id][statData.endDate].cases;
+      let dayCases = getDayData(statData.caseDataLookup, id, statData.endDate).cases;
       let sevenDaysPrior = statData.endDate.clone().subtract(7, "days");
-      let previousWeekCases = statData.caseDataLookup[id][sevenDaysPrior].cases;
+      //let previousWeekCases = statData.caseDataLookup[id][sevenDaysPrior].cases;
+      let previousWeekCases = getDayData(statData.caseDataLookup, id, sevenDaysPrior).cases;
       let population = statData.censusData[id].population;
       let newCases = dayCases - previousWeekCases;
       return (newCases / population) * 1000000;
@@ -118,6 +122,13 @@ export const statLookup = {
   }
 }
 
+function getDayData(caseDataLookup,id,endDate) {
+  if (caseDataLookup[id] && caseDataLookup[id][endDate]) {
+    return caseDataLookup[id][endDate];
+  } else {
+    return { cases: 0, deaths: 0 }
+  }
+}
 function getColorScale(min,avg,max) {
   return scaleLinear()
     .domain([min, avg, max])
@@ -135,6 +146,7 @@ export function getStat(requestData) {
   })
 
   let { caseData, mapData, censusData, mapName } = requestData;
+  console.log(requestData);
   
   // if endDate isn't in the requestData, use date of the most 
   // recent data available in the caseData

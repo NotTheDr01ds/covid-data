@@ -1,0 +1,310 @@
+[
+  {
+    "comorbidity": "Missing/Unknown status on all conditions",
+    "sex": "Female",
+    "percent": "30.81%",
+    "missing": "undefined%",
+    "Count": 8278
+  },
+  {
+    "comorbidity": "Missing/Unknown status on all conditions",
+    "sex": "Male",
+    "percent": "25.48%",
+    "missing": "undefined%",
+    "Count": 6847
+  },
+  {
+    "comorbidity": "Missing/Unknown status on all conditions",
+    "sex": "Total",
+    "percent": "56.29%",
+    "missing": "undefined%",
+    "Count": 15125
+  },
+  {
+    "comorbidity": "Total with completed information",
+    "sex": "Female",
+    "percent": "24.81%",
+    "missing": "undefined%",
+    "Count": 6666
+  },
+  {
+    "comorbidity": "Total with completed information",
+    "sex": "Male",
+    "percent": "18.9%",
+    "missing": "undefined%",
+    "Count": 5078
+  },
+  {
+    "comorbidity": "Total with completed information",
+    "sex": "Total",
+    "percent": "43.71%",
+    "missing": "undefined%",
+    "Count": 11744
+  },
+  {
+    "comorbidity": "Diabetes Mellitus",
+    "sex": "Female",
+    "percent": "6.02%",
+    "missing": "undefined%",
+    "Count": 1618
+  },
+  {
+    "comorbidity": "Diabetes Mellitus",
+    "sex": "Male",
+    "percent": "4.82%",
+    "missing": "undefined%",
+    "Count": 1295
+  },
+  {
+    "comorbidity": "Diabetes Mellitus",
+    "sex": "Total",
+    "percent": "10.84%",
+    "missing": "undefined%",
+    "Count": 2913
+  },
+  {
+    "comorbidity": "Chronic Lung Disease",
+    "sex": "Female",
+    "percent": "4.5%",
+    "missing": "undefined%",
+    "Count": 1209
+  },
+  {
+    "comorbidity": "Chronic Lung Disease",
+    "sex": "Male",
+    "percent": "2.61%",
+    "missing": "undefined%",
+    "Count": 701
+  },
+  {
+    "comorbidity": "Chronic Lung Disease",
+    "sex": "Total",
+    "percent": "7.11%",
+    "missing": "undefined%",
+    "Count": 1910
+  },
+  {
+    "comorbidity": "Cardiovascular Disease",
+    "sex": "Female",
+    "percent": "6.44%",
+    "missing": "undefined%",
+    "Count": 1731
+  },
+  {
+    "comorbidity": "Cardiovascular Disease",
+    "sex": "Male",
+    "percent": "5.23%",
+    "missing": "undefined%",
+    "Count": 1404
+  },
+  {
+    "comorbidity": "Cardiovascular Disease",
+    "sex": "Total",
+    "percent": "11.67%",
+    "missing": "undefined%",
+    "Count": 3135
+  },
+  {
+    "comorbidity": "Immunocompromised Condition",
+    "sex": "Female",
+    "percent": "1.97%",
+    "missing": "undefined%",
+    "Count": 530
+  },
+  {
+    "comorbidity": "Immunocompromised Condition",
+    "sex": "Male",
+    "percent": "1.39%",
+    "missing": "undefined%",
+    "Count": 373
+  },
+  {
+    "comorbidity": "Immunocompromised Condition",
+    "sex": "Total",
+    "percent": "3.36%",
+    "missing": "undefined%",
+    "Count": 903
+  },
+  {
+    "comorbidity": "Chronic Renal Disease",
+    "sex": "Female",
+    "percent": "1.59%",
+    "missing": "undefined%",
+    "Count": 428
+  },
+  {
+    "comorbidity": "Chronic Renal Disease",
+    "sex": "Male",
+    "percent": "1.73%",
+    "missing": "undefined%",
+    "Count": 466
+  },
+  {
+    "comorbidity": "Chronic Renal Disease",
+    "sex": "Total",
+    "percent": "3.33%",
+    "missing": "undefined%",
+    "Count": 894
+  },
+  {
+    "comorbidity": "Currently Pregnancy",
+    "sex": "Female",
+    "percent": "0.42%",
+    "missing": "undefined%",
+    "Count": 112
+  },
+  {
+    "comorbidity": "Currently Pregnancy",
+    "sex": "Total",
+    "percent": "0.42%",
+    "missing": "undefined%",
+    "Count": 112
+  },
+  {
+    "comorbidity": "Neurologic/Nerodevelopmental",
+    "sex": "Female",
+    "percent": "1.48%",
+    "missing": "undefined%",
+    "Count": 398
+  },
+  {
+    "comorbidity": "Neurologic/Nerodevelopmental",
+    "sex": "Male",
+    "percent": "1.22%",
+    "missing": "undefined%",
+    "Count": 328
+  },
+  {
+    "comorbidity": "Neurologic/Nerodevelopmental",
+    "sex": "Total",
+    "percent": "2.7%",
+    "missing": "undefined%",
+    "Count": 726
+  },
+  {
+    "comorbidity": "Chronic Liver Disease",
+    "sex": "Female",
+    "percent": "0.28%",
+    "missing": "undefined%",
+    "Count": 76
+  },
+  {
+    "comorbidity": "Chronic Liver Disease",
+    "sex": "Male",
+    "percent": "0.2%",
+    "missing": "undefined%",
+    "Count": 53
+  },
+  {
+    "comorbidity": "Chronic Liver Disease",
+    "sex": "Total",
+    "percent": "0.48%",
+    "missing": "undefined%",
+    "Count": 129
+  },
+  {
+    "comorbidity": "Other chronic diseases",
+    "sex": "Female",
+    "percent": "3.41%",
+    "missing": "undefined%",
+    "Count": 916
+  },
+  {
+    "comorbidity": "Other chronic diseases",
+    "sex": "Male",
+    "percent": "2.47%",
+    "missing": "undefined%",
+    "Count": 665
+  },
+  {
+    "comorbidity": "Other chronic diseases",
+    "sex": "Total",
+    "percent": "5.88%",
+    "missing": "undefined%",
+    "Count": 1581
+  },
+  {
+    "comorbidity": "Smoker",
+    "sex": "Female",
+    "percent": "3.14%",
+    "missing": "undefined%",
+    "Count": 844
+  },
+  {
+    "comorbidity": "Smoker",
+    "sex": "Male",
+    "percent": "3.68%",
+    "missing": "undefined%",
+    "Count": 990
+  },
+  {
+    "comorbidity": "Smoker",
+    "sex": "Total",
+    "percent": "6.83%",
+    "missing": "undefined%",
+    "Count": 1834
+  },
+  {
+    "comorbidity": "ICU",
+    "sex": "Female",
+    "percent": "2.19%",
+    "missing": "undefined%",
+    "Count": 588
+  },
+  {
+    "comorbidity": "ICU",
+    "sex": "Male",
+    "percent": "2.37%",
+    "missing": "undefined%",
+    "Count": 638
+  },
+  {
+    "comorbidity": "ICU",
+    "sex": "Total",
+    "percent": "4.56%",
+    "missing": "undefined%",
+    "Count": 1226
+  },
+  {
+    "comorbidity": "Any Chronic Condition",
+    "sex": "Female",
+    "percent": "15.92%",
+    "missing": "undefined%",
+    "Count": 4277
+  },
+  {
+    "comorbidity": "Any Chronic Condition",
+    "sex": "Male",
+    "percent": "12.45%",
+    "missing": "undefined%",
+    "Count": 3345
+  },
+  {
+    "comorbidity": "Any Chronic Condition",
+    "sex": "Total",
+    "percent": "28.37%",
+    "missing": "undefined%",
+    "Count": 7622
+  },
+  {
+    "comorbidity": "NoNOT IN of the above conditions",
+    "sex": "Female",
+    "percent": "20.86%",
+    "missing": "undefined%",
+    "Count": 5605
+  },
+  {
+    "comorbidity": "NoNOT IN of the above conditions",
+    "sex": "Male",
+    "percent": "15.49%",
+    "missing": "undefined%",
+    "Count": 4161
+  },
+  {
+    "comorbidity": "NoNOT IN of the above conditions",
+    "sex": "Total",
+    "percent": "36.35%",
+    "missing": "undefined%",
+    "Count": 9766
+  }
+]

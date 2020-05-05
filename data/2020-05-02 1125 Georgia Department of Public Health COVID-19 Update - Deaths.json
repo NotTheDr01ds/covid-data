@@ -1,0 +1,7028 @@
+[
+  {
+    "age": 71,
+    "Gender": "MALE",
+    "County": "Appling",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 82,
+    "Gender": "MALE",
+    "County": "Appling",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 83,
+    "Gender": "MALE",
+    "County": "Appling",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 79,
+    "Gender": "MALE",
+    "County": "Appling",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 71,
+    "Gender": "MALE",
+    "County": "Appling",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 69,
+    "Gender": "MALE",
+    "County": "Appling",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 70,
+    "Gender": "FEMALE",
+    "County": "Atkinson",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 70,
+    "Gender": "MALE",
+    "County": "Bacon",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 95,
+    "Gender": "MALE",
+    "County": "Baker",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 65,
+    "Gender": "FEMALE",
+    "County": "Baker",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 53,
+    "Gender": "MALE",
+    "County": "Baldwin",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 56,
+    "Gender": "FEMALE",
+    "County": "Baldwin",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 93,
+    "Gender": "MALE",
+    "County": "Baldwin",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 57,
+    "Gender": "MALE",
+    "County": "Baldwin",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 66,
+    "Gender": "MALE",
+    "County": "Baldwin",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 81,
+    "Gender": "MALE",
+    "County": "Baldwin",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 89,
+    "Gender": "MALE",
+    "County": "Baldwin",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 65,
+    "Gender": "MALE",
+    "County": "Baldwin",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 66,
+    "Gender": "MALE",
+    "County": "Barrow",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 91,
+    "Gender": "FEMALE",
+    "County": "Barrow",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 64,
+    "Gender": "MALE",
+    "County": "Barrow",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 84,
+    "Gender": "FEMALE",
+    "County": "Barrow",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 56,
+    "Gender": "MALE",
+    "County": "Bartow",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 69,
+    "Gender": "MALE",
+    "County": "Bartow",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 90,
+    "Gender": "MALE",
+    "County": "Bartow",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 72,
+    "Gender": "MALE",
+    "County": "Bartow",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 66,
+    "Gender": "MALE",
+    "County": "Bartow",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 78,
+    "Gender": "MALE",
+    "County": "Bartow",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 77,
+    "Gender": "FEMALE",
+    "County": "Bartow",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 88,
+    "Gender": "MALE",
+    "County": "Bartow",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 90,
+    "Gender": "MALE",
+    "County": "Bartow",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 85,
+    "Gender": "FEMALE",
+    "County": "Bartow",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 90,
+    "Gender": "FEMALE",
+    "County": "Bartow",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 85,
+    "Gender": "MALE",
+    "County": "Bartow",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 86,
+    "Gender": "MALE",
+    "County": "Bartow",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 88,
+    "Gender": "MALE",
+    "County": "Bartow",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 80,
+    "Gender": "MALE",
+    "County": "Bartow",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 87,
+    "Gender": "FEMALE",
+    "County": "Bartow",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 70,
+    "Gender": "FEMALE",
+    "County": "Bartow",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 92,
+    "Gender": "MALE",
+    "County": "Bartow",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 94,
+    "Gender": "FEMALE",
+    "County": "Bartow",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 84,
+    "Gender": "MALE",
+    "County": "Bartow",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 87,
+    "Gender": "FEMALE",
+    "County": "Bartow",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 79,
+    "Gender": "MALE",
+    "County": "Bartow",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 92,
+    "Gender": "FEMALE",
+    "County": "Bartow",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 74,
+    "Gender": "MALE",
+    "County": "Bartow",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 65,
+    "Gender": "MALE",
+    "County": "Bartow",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 90,
+    "Gender": "FEMALE",
+    "County": "Bartow",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 78,
+    "Gender": "FEMALE",
+    "County": "Bartow",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 95,
+    "Gender": "FEMALE",
+    "County": "Bartow",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 81,
+    "Gender": "MALE",
+    "County": "Bartow",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 77,
+    "Gender": "FEMALE",
+    "County": "Bartow",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 79,
+    "Gender": "MALE",
+    "County": "Bartow",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 71,
+    "Gender": "MALE",
+    "County": "Bibb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 96,
+    "Gender": "FEMALE",
+    "County": "Bibb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 68,
+    "Gender": "FEMALE",
+    "County": "Bibb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 65,
+    "Gender": "MALE",
+    "County": "Bibb",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 85,
+    "Gender": "MALE",
+    "County": "Bibb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 96,
+    "Gender": "FEMALE",
+    "County": "Bibb",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 87,
+    "Gender": "MALE",
+    "County": "Bibb",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": null,
+    "Gender": "MALE",
+    "County": "Bibb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 70,
+    "Gender": "FEMALE",
+    "County": "Bibb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 60,
+    "Gender": "MALE",
+    "County": "Bibb",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 78,
+    "Gender": "FEMALE",
+    "County": "Brantley",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 79,
+    "Gender": "FEMALE",
+    "County": "Brantley",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 88,
+    "Gender": "FEMALE",
+    "County": "Brooks",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 73,
+    "Gender": "MALE",
+    "County": "Brooks",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 87,
+    "Gender": "MALE",
+    "County": "Brooks",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 87,
+    "Gender": "MALE",
+    "County": "Brooks",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 91,
+    "Gender": "FEMALE",
+    "County": "Brooks",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 92,
+    "Gender": "FEMALE",
+    "County": "Brooks",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 70,
+    "Gender": "FEMALE",
+    "County": "Bryan",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 63,
+    "Gender": "MALE",
+    "County": "Bryan",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 61,
+    "Gender": "FEMALE",
+    "County": "Bryan",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 65,
+    "Gender": "MALE",
+    "County": "Bulloch",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 42,
+    "Gender": "FEMALE",
+    "County": "Bulloch",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 82,
+    "Gender": "MALE",
+    "County": "Burke",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 67,
+    "Gender": "FEMALE",
+    "County": "Burke",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 83,
+    "Gender": "MALE",
+    "County": "Burke",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 70,
+    "Gender": "MALE",
+    "County": "Butts",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 67,
+    "Gender": "MALE",
+    "County": "Butts",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 80,
+    "Gender": "FEMALE",
+    "County": "Butts",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 76,
+    "Gender": "FEMALE",
+    "County": "Butts",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 74,
+    "Gender": "FEMALE",
+    "County": "Butts",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 86,
+    "Gender": "MALE",
+    "County": "Butts",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 93,
+    "Gender": "FEMALE",
+    "County": "Butts",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 78,
+    "Gender": "FEMALE",
+    "County": "Butts",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 79,
+    "Gender": "MALE",
+    "County": "Butts",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 88,
+    "Gender": "MALE",
+    "County": "Butts",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 96,
+    "Gender": "FEMALE",
+    "County": "Butts",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 62,
+    "Gender": "MALE",
+    "County": "Butts",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 44,
+    "Gender": "MALE",
+    "County": "Butts",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 83,
+    "Gender": "UNKNOWN",
+    "County": "Butts",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 85,
+    "Gender": "FEMALE",
+    "County": "Butts",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 82,
+    "Gender": "MALE",
+    "County": "Butts",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 59,
+    "Gender": "FEMALE",
+    "County": "Calhoun",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 61,
+    "Gender": "FEMALE",
+    "County": "Calhoun",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 98,
+    "Gender": "MALE",
+    "County": "Calhoun",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 67,
+    "Gender": "MALE",
+    "County": "Calhoun",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 45,
+    "Gender": "MALE",
+    "County": "Camden",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 64,
+    "Gender": "MALE",
+    "County": "Carroll",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 75,
+    "Gender": "FEMALE",
+    "County": "Carroll",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 76,
+    "Gender": "MALE",
+    "County": "Carroll",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 86,
+    "Gender": "MALE",
+    "County": "Carroll",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 80,
+    "Gender": "MALE",
+    "County": "Carroll",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 71,
+    "Gender": "FEMALE",
+    "County": "Carroll",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 79,
+    "Gender": "FEMALE",
+    "County": "Carroll",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 80,
+    "Gender": "MALE",
+    "County": "Carroll",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 86,
+    "Gender": "MALE",
+    "County": "Carroll",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 87,
+    "Gender": "FEMALE",
+    "County": "Carroll",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 83,
+    "Gender": "FEMALE",
+    "County": "Carroll",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 73,
+    "Gender": "MALE",
+    "County": "Carroll",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 85,
+    "Gender": "FEMALE",
+    "County": "Carroll",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 92,
+    "Gender": "FEMALE",
+    "County": "Carroll",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 83,
+    "Gender": "MALE",
+    "County": "Chatham",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 84,
+    "Gender": "FEMALE",
+    "County": "Chatham",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 80,
+    "Gender": "FEMALE",
+    "County": "Chatham",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 61,
+    "Gender": "MALE",
+    "County": "Chatham",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 58,
+    "Gender": "MALE",
+    "County": "Chatham",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 57,
+    "Gender": "MALE",
+    "County": "Chatham",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 74,
+    "Gender": "MALE",
+    "County": "Chatham",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 53,
+    "Gender": "MALE",
+    "County": "Chatham",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 92,
+    "Gender": "MALE",
+    "County": "Chatham",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 82,
+    "Gender": "MALE",
+    "County": "Chattooga",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 65,
+    "Gender": "MALE",
+    "County": "Chattooga",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 67,
+    "Gender": "FEMALE",
+    "County": "Cherokee",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 69,
+    "Gender": "MALE",
+    "County": "Cherokee",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 78,
+    "Gender": "FEMALE",
+    "County": "Cherokee",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 81,
+    "Gender": "MALE",
+    "County": "Cherokee",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 94,
+    "Gender": "FEMALE",
+    "County": "Cherokee",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 73,
+    "Gender": "MALE",
+    "County": "Cherokee",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 78,
+    "Gender": "FEMALE",
+    "County": "Cherokee",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 96,
+    "Gender": "MALE",
+    "County": "Cherokee",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 90,
+    "Gender": "MALE",
+    "County": "Cherokee",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 90,
+    "Gender": "FEMALE",
+    "County": "Cherokee",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 69,
+    "Gender": "MALE",
+    "County": "Cherokee",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 89,
+    "Gender": "FEMALE",
+    "County": "Cherokee",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 96,
+    "Gender": "FEMALE",
+    "County": "Cherokee",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 78,
+    "Gender": "FEMALE",
+    "County": "Clarke",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 79,
+    "Gender": "MALE",
+    "County": "Clarke",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 60,
+    "Gender": "MALE",
+    "County": "Clarke",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 79,
+    "Gender": "MALE",
+    "County": "Clarke",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 72,
+    "Gender": "MALE",
+    "County": "Clarke",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 78,
+    "Gender": "FEMALE",
+    "County": "Clarke",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 89,
+    "Gender": "FEMALE",
+    "County": "Clarke",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 68,
+    "Gender": "MALE",
+    "County": "Clarke",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 97,
+    "Gender": "MALE",
+    "County": "Clarke",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 76,
+    "Gender": "MALE",
+    "County": "Clarke",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 65,
+    "Gender": "FEMALE",
+    "County": "Clarke",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 85,
+    "Gender": "MALE",
+    "County": "Clarke",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 90,
+    "Gender": "MALE",
+    "County": "Clarke",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 81,
+    "Gender": "MALE",
+    "County": "Clay",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 65,
+    "Gender": "MALE",
+    "County": "Clay",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 80,
+    "Gender": "MALE",
+    "County": "Clay",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 51,
+    "Gender": "FEMALE",
+    "County": "Clayton",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 67,
+    "Gender": "FEMALE",
+    "County": "Clayton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 47,
+    "Gender": "MALE",
+    "County": "Clayton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 82,
+    "Gender": "MALE",
+    "County": "Clayton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 70,
+    "Gender": "MALE",
+    "County": "Clayton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 50,
+    "Gender": "MALE",
+    "County": "Clayton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 76,
+    "Gender": "MALE",
+    "County": "Clayton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 63,
+    "Gender": "MALE",
+    "County": "Clayton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 82,
+    "Gender": "MALE",
+    "County": "Clayton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 71,
+    "Gender": "FEMALE",
+    "County": "Clayton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 83,
+    "Gender": "FEMALE",
+    "County": "Clayton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 54,
+    "Gender": "MALE",
+    "County": "Clayton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 49,
+    "Gender": "FEMALE",
+    "County": "Clayton",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 38,
+    "Gender": "MALE",
+    "County": "Clayton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 63,
+    "Gender": "FEMALE",
+    "County": "Clayton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 57,
+    "Gender": "FEMALE",
+    "County": "Clayton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 56,
+    "Gender": "MALE",
+    "County": "Clayton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 63,
+    "Gender": "FEMALE",
+    "County": "Clayton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 49,
+    "Gender": "FEMALE",
+    "County": "Clayton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 60,
+    "Gender": "MALE",
+    "County": "Clayton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 67,
+    "Gender": "MALE",
+    "County": "Clayton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 52,
+    "Gender": "MALE",
+    "County": "Clayton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 63,
+    "Gender": "FEMALE",
+    "County": "Clayton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 55,
+    "Gender": "FEMALE",
+    "County": "Clayton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 84,
+    "Gender": "FEMALE",
+    "County": "Clayton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 64,
+    "Gender": "MALE",
+    "County": "Clayton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 89,
+    "Gender": "MALE",
+    "County": "Clayton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 55,
+    "Gender": "MALE",
+    "County": "Clayton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 86,
+    "Gender": "FEMALE",
+    "County": "Clayton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 77,
+    "Gender": "MALE",
+    "County": "Clayton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 70,
+    "Gender": "FEMALE",
+    "County": "Clayton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 39,
+    "Gender": "FEMALE",
+    "County": "Clayton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 75,
+    "Gender": "FEMALE",
+    "County": "Clayton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 67,
+    "Gender": "FEMALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 67,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 77,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 86,
+    "Gender": "FEMALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 32,
+    "Gender": "FEMALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 87,
+    "Gender": "FEMALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 56,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 65,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 82,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 76,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 29,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 97,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 87,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 68,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 71,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 75,
+    "Gender": "FEMALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 86,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 65,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 67,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 75,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 82,
+    "Gender": "FEMALE",
+    "County": "Cobb",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 36,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 92,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 82,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 33,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 71,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 66,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 63,
+    "Gender": "FEMALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 73,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 71,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 75,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 76,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 51,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 75,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 64,
+    "Gender": "FEMALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 77,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 83,
+    "Gender": "FEMALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 66,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 78,
+    "Gender": "FEMALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 80,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 70,
+    "Gender": "FEMALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 75,
+    "Gender": "FEMALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 78,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 54,
+    "Gender": "FEMALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 89,
+    "Gender": "FEMALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 77,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 73,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 77,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 81,
+    "Gender": "FEMALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 98,
+    "Gender": "FEMALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 82,
+    "Gender": "FEMALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 57,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 81,
+    "Gender": "FEMALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 85,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 78,
+    "Gender": "FEMALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 83,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 87,
+    "Gender": "FEMALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 75,
+    "Gender": "FEMALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 83,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 61,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 70,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 75,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 70,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 50,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 51,
+    "Gender": "FEMALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 73,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 76,
+    "Gender": "FEMALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 90,
+    "Gender": "FEMALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 78,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 94,
+    "Gender": "FEMALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 87,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 78,
+    "Gender": "FEMALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 71,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 94,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 75,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 76,
+    "Gender": "FEMALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 88,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 85,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 81,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 64,
+    "Gender": "FEMALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 57,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 94,
+    "Gender": "FEMALE",
+    "County": "Cobb",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 84,
+    "Gender": "FEMALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 60,
+    "Gender": "FEMALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 79,
+    "Gender": "FEMALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 84,
+    "Gender": "FEMALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 65,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 85,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 83,
+    "Gender": "FEMALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 71,
+    "Gender": "FEMALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 76,
+    "Gender": "FEMALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 78,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 94,
+    "Gender": "FEMALE",
+    "County": "Cobb",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 95,
+    "Gender": "FEMALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 75,
+    "Gender": "MALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 99,
+    "Gender": "FEMALE",
+    "County": "Cobb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 48,
+    "Gender": "FEMALE",
+    "County": "Coffee",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 55,
+    "Gender": "FEMALE",
+    "County": "Coffee",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 66,
+    "Gender": "MALE",
+    "County": "Coffee",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 64,
+    "Gender": "MALE",
+    "County": "Coffee",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 84,
+    "Gender": "FEMALE",
+    "County": "Coffee",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 72,
+    "Gender": "FEMALE",
+    "County": "Coffee",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 88,
+    "Gender": "FEMALE",
+    "County": "Coffee",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 53,
+    "Gender": "MALE",
+    "County": "Colquitt",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 51,
+    "Gender": "MALE",
+    "County": "Colquitt",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 83,
+    "Gender": "FEMALE",
+    "County": "Colquitt",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 76,
+    "Gender": "FEMALE",
+    "County": "Colquitt",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 52,
+    "Gender": "MALE",
+    "County": "Colquitt",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 81,
+    "Gender": "MALE",
+    "County": "Colquitt",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 50,
+    "Gender": "FEMALE",
+    "County": "Colquitt",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 90,
+    "Gender": "FEMALE",
+    "County": "Colquitt",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 45,
+    "Gender": "MALE",
+    "County": "Colquitt",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 59,
+    "Gender": "MALE",
+    "County": "Columbia",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 50,
+    "Gender": "FEMALE",
+    "County": "Columbia",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 77,
+    "Gender": "FEMALE",
+    "County": "Columbia",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 89,
+    "Gender": "MALE",
+    "County": "Columbia",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 77,
+    "Gender": "FEMALE",
+    "County": "Cook",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 77,
+    "Gender": "MALE",
+    "County": "Coweta",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 42,
+    "Gender": "FEMALE",
+    "County": "Coweta",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 58,
+    "Gender": "FEMALE",
+    "County": "Coweta",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 84,
+    "Gender": "FEMALE",
+    "County": "Coweta",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 71,
+    "Gender": "MALE",
+    "County": "Crisp",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 93,
+    "Gender": "MALE",
+    "County": "Crisp",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 75,
+    "Gender": "FEMALE",
+    "County": "Crisp",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 79,
+    "Gender": "FEMALE",
+    "County": "Dade",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 80,
+    "Gender": "MALE",
+    "County": "Dawson",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 31,
+    "Gender": "MALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 65,
+    "Gender": "MALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 81,
+    "Gender": "MALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 91,
+    "Gender": "FEMALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 69,
+    "Gender": "MALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 65,
+    "Gender": "FEMALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 89,
+    "Gender": "FEMALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 81,
+    "Gender": "MALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 68,
+    "Gender": "FEMALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 66,
+    "Gender": "FEMALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 74,
+    "Gender": "MALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 66,
+    "Gender": "MALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 70,
+    "Gender": "MALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 62,
+    "Gender": "FEMALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 84,
+    "Gender": "FEMALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 88,
+    "Gender": "FEMALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 65,
+    "Gender": "MALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 75,
+    "Gender": "MALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 91,
+    "Gender": "MALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 82,
+    "Gender": "FEMALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 11,
+    "Gender": "MALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 90,
+    "Gender": "FEMALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 66,
+    "Gender": "MALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 54,
+    "Gender": "MALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 96,
+    "Gender": "FEMALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 43,
+    "Gender": "MALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 79,
+    "Gender": "FEMALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 84,
+    "Gender": "FEMALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 99,
+    "Gender": "FEMALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 94,
+    "Gender": "FEMALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 56,
+    "Gender": "MALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 56,
+    "Gender": "MALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 68,
+    "Gender": "MALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 83,
+    "Gender": "FEMALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 78,
+    "Gender": "FEMALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 94,
+    "Gender": "FEMALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 81,
+    "Gender": "FEMALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 82,
+    "Gender": "MALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 86,
+    "Gender": "FEMALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 91,
+    "Gender": "FEMALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 79,
+    "Gender": "MALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 77,
+    "Gender": "MALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 46,
+    "Gender": "FEMALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 89,
+    "Gender": "FEMALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 81,
+    "Gender": "MALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 85,
+    "Gender": "MALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 84,
+    "Gender": "FEMALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 91,
+    "Gender": "MALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 63,
+    "Gender": "MALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 74,
+    "Gender": "FEMALE",
+    "County": "DeKalb",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 71,
+    "Gender": "FEMALE",
+    "County": "Decatur",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 62,
+    "Gender": "FEMALE",
+    "County": "Dodge",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 67,
+    "Gender": "MALE",
+    "County": "Dooly",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 68,
+    "Gender": "MALE",
+    "County": "Dooly",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 65,
+    "Gender": "MALE",
+    "County": "Dooly",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 59,
+    "Gender": "FEMALE",
+    "County": "Dooly",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 71,
+    "Gender": "FEMALE",
+    "County": "Dooly",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 54,
+    "Gender": "FEMALE",
+    "County": "Dooly",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 92,
+    "Gender": "MALE",
+    "County": "Dooly",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 69,
+    "Gender": "MALE",
+    "County": "Dooly",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 76,
+    "Gender": "MALE",
+    "County": "Dooly",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 69,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 42,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 66,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 43,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 79,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 34,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 67,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 78,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 47,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 60,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 87,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 85,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 98,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 53,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 84,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 66,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 66,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 68,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 68,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 65,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 71,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 92,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 92,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 61,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 70,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 73,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 63,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 73,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 65,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 45,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 69,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 65,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 82,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 86,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 63,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 48,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 75,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 61,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 78,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 75,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 81,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 97,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 76,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 74,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 85,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 66,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 87,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 63,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 54,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 68,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 79,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 70,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 76,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 90,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 82,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 79,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 76,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 81,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 68,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 46,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 65,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 38,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 75,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 43,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 85,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 66,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 76,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 70,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 77,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 71,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 84,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 81,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 70,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 74,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 85,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 58,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 71,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 75,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 48,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 85,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 64,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 86,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 62,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 73,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 61,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 64,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 54,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 70,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 86,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 74,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 62,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 65,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 67,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 91,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 78,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 83,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 68,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 54,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 73,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 85,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 65,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 51,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 88,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 61,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 96,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 55,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 79,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 90,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 86,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 53,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 91,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 84,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 67,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 61,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 89,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 94,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 83,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 72,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 84,
+    "Gender": "MALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 68,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 31,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 31,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 73,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 72,
+    "Gender": "FEMALE",
+    "County": "Dougherty",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 66,
+    "Gender": "MALE",
+    "County": "Douglas",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 78,
+    "Gender": "MALE",
+    "County": "Douglas",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 84,
+    "Gender": "MALE",
+    "County": "Douglas",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 32,
+    "Gender": "MALE",
+    "County": "Douglas",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 56,
+    "Gender": "MALE",
+    "County": "Douglas",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 58,
+    "Gender": "FEMALE",
+    "County": "Douglas",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 85,
+    "Gender": "MALE",
+    "County": "Douglas",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 66,
+    "Gender": "FEMALE",
+    "County": "Douglas",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 81,
+    "Gender": "FEMALE",
+    "County": "Douglas",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 89,
+    "Gender": "MALE",
+    "County": "Douglas",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 76,
+    "Gender": "MALE",
+    "County": "Douglas",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 48,
+    "Gender": "FEMALE",
+    "County": "Early",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 68,
+    "Gender": "FEMALE",
+    "County": "Early",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 54,
+    "Gender": "MALE",
+    "County": "Early",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 63,
+    "Gender": "FEMALE",
+    "County": "Early",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 58,
+    "Gender": "MALE",
+    "County": "Early",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 79,
+    "Gender": "MALE",
+    "County": "Early",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 65,
+    "Gender": "MALE",
+    "County": "Early",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 92,
+    "Gender": "FEMALE",
+    "County": "Early",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 80,
+    "Gender": "FEMALE",
+    "County": "Early",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 71,
+    "Gender": "FEMALE",
+    "County": "Early",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 85,
+    "Gender": "MALE",
+    "County": "Early",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 79,
+    "Gender": "MALE",
+    "County": "Early",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 71,
+    "Gender": "MALE",
+    "County": "Early",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 90,
+    "Gender": "FEMALE",
+    "County": "Early",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 78,
+    "Gender": "FEMALE",
+    "County": "Early",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 83,
+    "Gender": "FEMALE",
+    "County": "Early",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 83,
+    "Gender": "FEMALE",
+    "County": "Early",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 90,
+    "Gender": "FEMALE",
+    "County": "Early",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 79,
+    "Gender": "FEMALE",
+    "County": "Early",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 69,
+    "Gender": "FEMALE",
+    "County": "Early",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 56,
+    "Gender": "MALE",
+    "County": "Effingham",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 84,
+    "Gender": "FEMALE",
+    "County": "Fannin",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 79,
+    "Gender": "MALE",
+    "County": "Fayette",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 73,
+    "Gender": "MALE",
+    "County": "Fayette",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 83,
+    "Gender": "MALE",
+    "County": "Fayette",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 76,
+    "Gender": "MALE",
+    "County": "Fayette",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 77,
+    "Gender": "FEMALE",
+    "County": "Fayette",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 73,
+    "Gender": "MALE",
+    "County": "Fayette",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 85,
+    "Gender": "FEMALE",
+    "County": "Fayette",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 69,
+    "Gender": "FEMALE",
+    "County": "Fayette",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 64,
+    "Gender": "FEMALE",
+    "County": "Fayette",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 89,
+    "Gender": "MALE",
+    "County": "Fayette",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 75,
+    "Gender": "MALE",
+    "County": "Floyd",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 65,
+    "Gender": "FEMALE",
+    "County": "Floyd",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 62,
+    "Gender": "MALE",
+    "County": "Floyd",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 75,
+    "Gender": "FEMALE",
+    "County": "Floyd",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 72,
+    "Gender": "FEMALE",
+    "County": "Floyd",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 70,
+    "Gender": "MALE",
+    "County": "Floyd",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 80,
+    "Gender": "MALE",
+    "County": "Floyd",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 73,
+    "Gender": "FEMALE",
+    "County": "Floyd",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 67,
+    "Gender": "FEMALE",
+    "County": "Floyd",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 75,
+    "Gender": "MALE",
+    "County": "Floyd",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 80,
+    "Gender": "FEMALE",
+    "County": "Floyd",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 87,
+    "Gender": "MALE",
+    "County": "Forsyth",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 74,
+    "Gender": "FEMALE",
+    "County": "Forsyth",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 85,
+    "Gender": "MALE",
+    "County": "Forsyth",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 69,
+    "Gender": "FEMALE",
+    "County": "Forsyth",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 73,
+    "Gender": "MALE",
+    "County": "Forsyth",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 60,
+    "Gender": "MALE",
+    "County": "Forsyth",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 81,
+    "Gender": "FEMALE",
+    "County": "Forsyth",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 71,
+    "Gender": "FEMALE",
+    "County": "Forsyth",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 59,
+    "Gender": "MALE",
+    "County": "Forsyth",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 83,
+    "Gender": "MALE",
+    "County": "Forsyth",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 78,
+    "Gender": "MALE",
+    "County": "Franklin",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 68,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 62,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 64,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 78,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 69,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 58,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 68,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 70,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 66,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 67,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 67,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 33,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 89,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 70,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 50,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 59,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 70,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 63,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 64,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 89,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 83,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 53,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 89,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 78,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 78,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 81,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 73,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 77,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 73,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 85,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 75,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 86,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 62,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 85,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 84,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 75,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 78,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 45,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 80,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 53,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 68,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 87,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 31,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 92,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 85,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 80,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 36,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 73,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 88,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 76,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 72,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 83,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 97,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 88,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 78,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 87,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 57,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 93,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 82,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 66,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 68,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 54,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 73,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 89,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 81,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 85,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 69,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 91,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 95,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 76,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 74,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 77,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 61,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 94,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 90,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 87,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 90,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 87,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 96,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 96,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 96,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 60,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 100,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 76,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 59,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 62,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 101,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 89,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 97,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 78,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 87,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 80,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 75,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 70,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 60,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 66,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 63,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 92,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 95,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 95,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 82,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 61,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 60,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 78,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 97,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 71,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 82,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 89,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 74,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 89,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 61,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 61,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 86,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 77,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 68,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 87,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 76,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 100,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": null,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 98,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 80,
+    "Gender": "FEMALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 65,
+    "Gender": "MALE",
+    "County": "Fulton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 76,
+    "Gender": "MALE",
+    "County": "Glynn",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 78,
+    "Gender": "MALE",
+    "County": "Gordon",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 70,
+    "Gender": "FEMALE",
+    "County": "Gordon",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 68,
+    "Gender": "MALE",
+    "County": "Gordon",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 74,
+    "Gender": "MALE",
+    "County": "Gordon",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 93,
+    "Gender": "FEMALE",
+    "County": "Gordon",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 86,
+    "Gender": "MALE",
+    "County": "Gordon",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 63,
+    "Gender": "MALE",
+    "County": "Gordon",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 66,
+    "Gender": "FEMALE",
+    "County": "Gordon",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 79,
+    "Gender": "MALE",
+    "County": "Gordon",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 91,
+    "Gender": "FEMALE",
+    "County": "Gordon",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 89,
+    "Gender": "FEMALE",
+    "County": "Gordon",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 77,
+    "Gender": "MALE",
+    "County": "Gordon",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 57,
+    "Gender": "FEMALE",
+    "County": "Grady",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 59,
+    "Gender": "MALE",
+    "County": "Grady",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 85,
+    "Gender": "FEMALE",
+    "County": "Grady",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 64,
+    "Gender": "MALE",
+    "County": "Grady",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 100,
+    "Gender": "FEMALE",
+    "County": "Greene",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 99,
+    "Gender": "MALE",
+    "County": "Greene",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 85,
+    "Gender": "FEMALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 44,
+    "Gender": "MALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 66,
+    "Gender": "MALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 63,
+    "Gender": "FEMALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 69,
+    "Gender": "FEMALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 81,
+    "Gender": "MALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 61,
+    "Gender": "MALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 81,
+    "Gender": "MALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 85,
+    "Gender": "MALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 82,
+    "Gender": "MALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 73,
+    "Gender": "MALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 74,
+    "Gender": "FEMALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 80,
+    "Gender": "MALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 78,
+    "Gender": "MALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 72,
+    "Gender": "FEMALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 81,
+    "Gender": "FEMALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 81,
+    "Gender": "MALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 31,
+    "Gender": "FEMALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 94,
+    "Gender": "MALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 81,
+    "Gender": "FEMALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 78,
+    "Gender": "MALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 90,
+    "Gender": "MALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 66,
+    "Gender": "FEMALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 70,
+    "Gender": "MALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 66,
+    "Gender": "FEMALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 58,
+    "Gender": "FEMALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 63,
+    "Gender": "MALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 86,
+    "Gender": "FEMALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 74,
+    "Gender": "FEMALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 85,
+    "Gender": "FEMALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 82,
+    "Gender": "FEMALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 82,
+    "Gender": "FEMALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 68,
+    "Gender": "FEMALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 72,
+    "Gender": "FEMALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 91,
+    "Gender": "FEMALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 87,
+    "Gender": "FEMALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 89,
+    "Gender": "FEMALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 59,
+    "Gender": "FEMALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 48,
+    "Gender": "MALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 81,
+    "Gender": "MALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 72,
+    "Gender": "FEMALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 75,
+    "Gender": "FEMALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 96,
+    "Gender": "FEMALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 73,
+    "Gender": "FEMALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 89,
+    "Gender": "FEMALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 82,
+    "Gender": "MALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 59,
+    "Gender": "MALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 72,
+    "Gender": "FEMALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 88,
+    "Gender": "MALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 82,
+    "Gender": "MALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 83,
+    "Gender": "MALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 84,
+    "Gender": "MALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 93,
+    "Gender": "FEMALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 73,
+    "Gender": "FEMALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 89,
+    "Gender": "FEMALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 80,
+    "Gender": "FEMALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 94,
+    "Gender": "FEMALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 84,
+    "Gender": "FEMALE",
+    "County": "Gwinnett",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 79,
+    "Gender": "FEMALE",
+    "County": "Habersham",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 74,
+    "Gender": "MALE",
+    "County": "Habersham",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 40,
+    "Gender": "FEMALE",
+    "County": "Habersham",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 63,
+    "Gender": "FEMALE",
+    "County": "Habersham",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 87,
+    "Gender": "MALE",
+    "County": "Habersham",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 99,
+    "Gender": "FEMALE",
+    "County": "Habersham",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 38,
+    "Gender": "FEMALE",
+    "County": "Habersham",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 51,
+    "Gender": "FEMALE",
+    "County": "Habersham",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 75,
+    "Gender": "MALE",
+    "County": "Hall",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 45,
+    "Gender": "MALE",
+    "County": "Hall",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 73,
+    "Gender": "MALE",
+    "County": "Hall",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 76,
+    "Gender": "MALE",
+    "County": "Hall",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 72,
+    "Gender": "MALE",
+    "County": "Hall",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 68,
+    "Gender": "MALE",
+    "County": "Hall",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 76,
+    "Gender": "MALE",
+    "County": "Hall",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 58,
+    "Gender": "MALE",
+    "County": "Hall",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 63,
+    "Gender": "MALE",
+    "County": "Hall",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 89,
+    "Gender": "FEMALE",
+    "County": "Hall",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 50,
+    "Gender": "MALE",
+    "County": "Hall",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 53,
+    "Gender": "FEMALE",
+    "County": "Hall",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 89,
+    "Gender": "MALE",
+    "County": "Hall",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 84,
+    "Gender": "FEMALE",
+    "County": "Hall",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 93,
+    "Gender": "FEMALE",
+    "County": "Hall",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 78,
+    "Gender": "MALE",
+    "County": "Hall",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 88,
+    "Gender": "MALE",
+    "County": "Hall",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 82,
+    "Gender": "MALE",
+    "County": "Hall",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 93,
+    "Gender": "FEMALE",
+    "County": "Hall",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 88,
+    "Gender": "MALE",
+    "County": "Hall",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 94,
+    "Gender": "FEMALE",
+    "County": "Hall",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 92,
+    "Gender": "FEMALE",
+    "County": "Hall",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 77,
+    "Gender": "FEMALE",
+    "County": "Hancock",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 94,
+    "Gender": "FEMALE",
+    "County": "Hancock",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 72,
+    "Gender": "FEMALE",
+    "County": "Haralson",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 92,
+    "Gender": "FEMALE",
+    "County": "Harris",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 69,
+    "Gender": "FEMALE",
+    "County": "Harris",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 76,
+    "Gender": "FEMALE",
+    "County": "Heard",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 80,
+    "Gender": "MALE",
+    "County": "Henry",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 73,
+    "Gender": "MALE",
+    "County": "Henry",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 63,
+    "Gender": "FEMALE",
+    "County": "Henry",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 68,
+    "Gender": "MALE",
+    "County": "Henry",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 36,
+    "Gender": "MALE",
+    "County": "Henry",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 64,
+    "Gender": "MALE",
+    "County": "Henry",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 72,
+    "Gender": "FEMALE",
+    "County": "Henry",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 55,
+    "Gender": "MALE",
+    "County": "Henry",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 73,
+    "Gender": "MALE",
+    "County": "Henry",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 82,
+    "Gender": "MALE",
+    "County": "Henry",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 79,
+    "Gender": "FEMALE",
+    "County": "Henry",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 82,
+    "Gender": "MALE",
+    "County": "Henry",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 89,
+    "Gender": "FEMALE",
+    "County": "Henry",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 64,
+    "Gender": "MALE",
+    "County": "Houston",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 84,
+    "Gender": "MALE",
+    "County": "Houston",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 85,
+    "Gender": "MALE",
+    "County": "Houston",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 75,
+    "Gender": "MALE",
+    "County": "Houston",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 90,
+    "Gender": "MALE",
+    "County": "Houston",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 75,
+    "Gender": "FEMALE",
+    "County": "Houston",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 64,
+    "Gender": "MALE",
+    "County": "Houston",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 68,
+    "Gender": "MALE",
+    "County": "Houston",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 78,
+    "Gender": "MALE",
+    "County": "Houston",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 74,
+    "Gender": "FEMALE",
+    "County": "Houston",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 62,
+    "Gender": "MALE",
+    "County": "Houston",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 71,
+    "Gender": "FEMALE",
+    "County": "Houston",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 29,
+    "Gender": "FEMALE",
+    "County": "Houston",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 84,
+    "Gender": "FEMALE",
+    "County": "Houston",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 80,
+    "Gender": "FEMALE",
+    "County": "Irwin",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 53,
+    "Gender": "FEMALE",
+    "County": "Jackson",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 77,
+    "Gender": "FEMALE",
+    "County": "Jackson",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 89,
+    "Gender": "FEMALE",
+    "County": "Jeff Davis",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 50,
+    "Gender": "FEMALE",
+    "County": "Jefferson",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 92,
+    "Gender": "MALE",
+    "County": "Jenkins",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 93,
+    "Gender": "MALE",
+    "County": "Johnson",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 67,
+    "Gender": "MALE",
+    "County": "Johnson",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 81,
+    "Gender": "FEMALE",
+    "County": "Lamar",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 75,
+    "Gender": "FEMALE",
+    "County": "Lanier",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 83,
+    "Gender": "MALE",
+    "County": "Laurens",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 58,
+    "Gender": "MALE",
+    "County": "Lee",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 64,
+    "Gender": "FEMALE",
+    "County": "Lee",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 63,
+    "Gender": "MALE",
+    "County": "Lee",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 55,
+    "Gender": "FEMALE",
+    "County": "Lee",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 70,
+    "Gender": "MALE",
+    "County": "Lee",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 49,
+    "Gender": "MALE",
+    "County": "Lee",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 64,
+    "Gender": "MALE",
+    "County": "Lee",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 54,
+    "Gender": "MALE",
+    "County": "Lee",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 27,
+    "Gender": "FEMALE",
+    "County": "Lee",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 63,
+    "Gender": "MALE",
+    "County": "Lee",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 67,
+    "Gender": "FEMALE",
+    "County": "Lee",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 70,
+    "Gender": "FEMALE",
+    "County": "Lee",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 34,
+    "Gender": "FEMALE",
+    "County": "Lee",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 57,
+    "Gender": "MALE",
+    "County": "Lee",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 49,
+    "Gender": "FEMALE",
+    "County": "Lee",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 81,
+    "Gender": "FEMALE",
+    "County": "Lee",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 73,
+    "Gender": "FEMALE",
+    "County": "Lee",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 89,
+    "Gender": "FEMALE",
+    "County": "Lee",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 98,
+    "Gender": "MALE",
+    "County": "Lee",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 81,
+    "Gender": "MALE",
+    "County": "Lee",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 66,
+    "Gender": "MALE",
+    "County": "Lowndes",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 90,
+    "Gender": "FEMALE",
+    "County": "Lowndes",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 87,
+    "Gender": "FEMALE",
+    "County": "Lowndes",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 74,
+    "Gender": "FEMALE",
+    "County": "Lowndes",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 86,
+    "Gender": "FEMALE",
+    "County": "Lumpkin",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 58,
+    "Gender": "MALE",
+    "County": "Lumpkin",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 68,
+    "Gender": "MALE",
+    "County": "Macon",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 49,
+    "Gender": "MALE",
+    "County": "Macon",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 67,
+    "Gender": "MALE",
+    "County": "Macon",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 71,
+    "Gender": "MALE",
+    "County": "Madison",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 81,
+    "Gender": "FEMALE",
+    "County": "Marion",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 45,
+    "Gender": "MALE",
+    "County": "McDuffie",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 73,
+    "Gender": "FEMALE",
+    "County": "McDuffie",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 46,
+    "Gender": "FEMALE",
+    "County": "McDuffie",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 77,
+    "Gender": "FEMALE",
+    "County": "McDuffie",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 91,
+    "Gender": "FEMALE",
+    "County": "Mitchell",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 85,
+    "Gender": "FEMALE",
+    "County": "Mitchell",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 89,
+    "Gender": "FEMALE",
+    "County": "Mitchell",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 83,
+    "Gender": "FEMALE",
+    "County": "Mitchell",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 73,
+    "Gender": "MALE",
+    "County": "Mitchell",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 68,
+    "Gender": "MALE",
+    "County": "Mitchell",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 61,
+    "Gender": "FEMALE",
+    "County": "Mitchell",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 44,
+    "Gender": "MALE",
+    "County": "Mitchell",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 106,
+    "Gender": "MALE",
+    "County": "Mitchell",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 55,
+    "Gender": "FEMALE",
+    "County": "Mitchell",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 54,
+    "Gender": "MALE",
+    "County": "Mitchell",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 97,
+    "Gender": "FEMALE",
+    "County": "Mitchell",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 79,
+    "Gender": "MALE",
+    "County": "Mitchell",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 89,
+    "Gender": "FEMALE",
+    "County": "Mitchell",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 55,
+    "Gender": "FEMALE",
+    "County": "Mitchell",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 56,
+    "Gender": "FEMALE",
+    "County": "Mitchell",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 88,
+    "Gender": "FEMALE",
+    "County": "Mitchell",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 59,
+    "Gender": "FEMALE",
+    "County": "Mitchell",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 72,
+    "Gender": "MALE",
+    "County": "Mitchell",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 81,
+    "Gender": "MALE",
+    "County": "Mitchell",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 76,
+    "Gender": "FEMALE",
+    "County": "Mitchell",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 96,
+    "Gender": "FEMALE",
+    "County": "Mitchell",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 48,
+    "Gender": "MALE",
+    "County": "Mitchell",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 82,
+    "Gender": "FEMALE",
+    "County": "Mitchell",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 72,
+    "Gender": "MALE",
+    "County": "Mitchell",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 92,
+    "Gender": "FEMALE",
+    "County": "Mitchell",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 65,
+    "Gender": "MALE",
+    "County": "Mitchell",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 47,
+    "Gender": "MALE",
+    "County": "Mitchell",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 67,
+    "Gender": "MALE",
+    "County": "Mitchell",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 68,
+    "Gender": "MALE",
+    "County": "Mitchell",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 75,
+    "Gender": "MALE",
+    "County": "Mitchell",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 77,
+    "Gender": "MALE",
+    "County": "Monroe",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 52,
+    "Gender": "MALE",
+    "County": "Monroe",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 62,
+    "Gender": "FEMALE",
+    "County": "Monroe",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 83,
+    "Gender": "MALE",
+    "County": "Murray",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 85,
+    "Gender": "MALE",
+    "County": "Muscogee",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 65,
+    "Gender": "FEMALE",
+    "County": "Muscogee",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 22,
+    "Gender": "FEMALE",
+    "County": "Muscogee",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 72,
+    "Gender": "FEMALE",
+    "County": "Muscogee",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 73,
+    "Gender": "MALE",
+    "County": "Muscogee",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 63,
+    "Gender": "MALE",
+    "County": "Muscogee",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 89,
+    "Gender": "MALE",
+    "County": "Muscogee",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 61,
+    "Gender": "MALE",
+    "County": "Newton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 77,
+    "Gender": "MALE",
+    "County": "Newton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 84,
+    "Gender": "MALE",
+    "County": "Newton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 52,
+    "Gender": "MALE",
+    "County": "Newton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 58,
+    "Gender": "FEMALE",
+    "County": "Newton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 66,
+    "Gender": "MALE",
+    "County": "Newton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 62,
+    "Gender": "FEMALE",
+    "County": "Newton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 83,
+    "Gender": "MALE",
+    "County": "Oglethorpe",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 94,
+    "Gender": "MALE",
+    "County": "Oglethorpe",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 85,
+    "Gender": "MALE",
+    "County": "Oglethorpe",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 73,
+    "Gender": "MALE",
+    "County": "Paulding",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 67,
+    "Gender": "FEMALE",
+    "County": "Paulding",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 71,
+    "Gender": "MALE",
+    "County": "Paulding",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 74,
+    "Gender": "MALE",
+    "County": "Paulding",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 87,
+    "Gender": "FEMALE",
+    "County": "Paulding",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 64,
+    "Gender": "FEMALE",
+    "County": "Paulding",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 85,
+    "Gender": "MALE",
+    "County": "Paulding",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 73,
+    "Gender": "FEMALE",
+    "County": "Paulding",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 29,
+    "Gender": "FEMALE",
+    "County": "Peach",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 57,
+    "Gender": "FEMALE",
+    "County": "Peach",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 70,
+    "Gender": "MALE",
+    "County": "Pickens",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 76,
+    "Gender": "FEMALE",
+    "County": "Pickens",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 67,
+    "Gender": "FEMALE",
+    "County": "Pierce",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 83,
+    "Gender": "MALE",
+    "County": "Pierce",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 62,
+    "Gender": "MALE",
+    "County": "Pierce",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 46,
+    "Gender": "MALE",
+    "County": "Pike",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 77,
+    "Gender": "MALE",
+    "County": "Pike",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 63,
+    "Gender": "MALE",
+    "County": "Pulaski",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 72,
+    "Gender": "MALE",
+    "County": "Putnam",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 61,
+    "Gender": "MALE",
+    "County": "Putnam",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 73,
+    "Gender": "MALE",
+    "County": "Putnam",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 63,
+    "Gender": "MALE",
+    "County": "Putnam",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 93,
+    "Gender": "FEMALE",
+    "County": "Putnam",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 61,
+    "Gender": "MALE",
+    "County": "Quitman",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 66,
+    "Gender": "FEMALE",
+    "County": "Randolph",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 69,
+    "Gender": "MALE",
+    "County": "Randolph",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 62,
+    "Gender": "FEMALE",
+    "County": "Randolph",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 65,
+    "Gender": "FEMALE",
+    "County": "Randolph",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 83,
+    "Gender": "FEMALE",
+    "County": "Randolph",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 84,
+    "Gender": "FEMALE",
+    "County": "Randolph",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 91,
+    "Gender": "MALE",
+    "County": "Randolph",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 55,
+    "Gender": "MALE",
+    "County": "Randolph",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 82,
+    "Gender": "FEMALE",
+    "County": "Randolph",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 92,
+    "Gender": "FEMALE",
+    "County": "Randolph",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 78,
+    "Gender": "FEMALE",
+    "County": "Randolph",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 78,
+    "Gender": "FEMALE",
+    "County": "Randolph",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 99,
+    "Gender": "FEMALE",
+    "County": "Randolph",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 66,
+    "Gender": "MALE",
+    "County": "Randolph",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 66,
+    "Gender": "FEMALE",
+    "County": "Randolph",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 85,
+    "Gender": "MALE",
+    "County": "Randolph",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 71,
+    "Gender": "MALE",
+    "County": "Randolph",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 50,
+    "Gender": "MALE",
+    "County": "Randolph",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 85,
+    "Gender": "MALE",
+    "County": "Randolph",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 81,
+    "Gender": "FEMALE",
+    "County": "Richmond",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 87,
+    "Gender": "FEMALE",
+    "County": "Richmond",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 50,
+    "Gender": "FEMALE",
+    "County": "Richmond",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 70,
+    "Gender": "FEMALE",
+    "County": "Richmond",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 82,
+    "Gender": "FEMALE",
+    "County": "Richmond",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 62,
+    "Gender": "MALE",
+    "County": "Richmond",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 72,
+    "Gender": "FEMALE",
+    "County": "Richmond",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 62,
+    "Gender": "FEMALE",
+    "County": "Richmond",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 83,
+    "Gender": "MALE",
+    "County": "Richmond",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 84,
+    "Gender": "FEMALE",
+    "County": "Richmond",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 33,
+    "Gender": "FEMALE",
+    "County": "Richmond",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 67,
+    "Gender": "FEMALE",
+    "County": "Richmond",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 90,
+    "Gender": "FEMALE",
+    "County": "Richmond",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 84,
+    "Gender": "MALE",
+    "County": "Richmond",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 90,
+    "Gender": "FEMALE",
+    "County": "Richmond",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 33,
+    "Gender": "FEMALE",
+    "County": "Richmond",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 57,
+    "Gender": "FEMALE",
+    "County": "Rockdale",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 40,
+    "Gender": "FEMALE",
+    "County": "Rockdale",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 44,
+    "Gender": "FEMALE",
+    "County": "Rockdale",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 63,
+    "Gender": "MALE",
+    "County": "Rockdale",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 77,
+    "Gender": "FEMALE",
+    "County": "Rockdale",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 73,
+    "Gender": "MALE",
+    "County": "Rockdale",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 61,
+    "Gender": "MALE",
+    "County": "Schley",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 67,
+    "Gender": "FEMALE",
+    "County": "Screven",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 69,
+    "Gender": "FEMALE",
+    "County": "Seminole",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 89,
+    "Gender": "FEMALE",
+    "County": "Seminole",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 73,
+    "Gender": "MALE",
+    "County": "Spalding",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 50,
+    "Gender": "MALE",
+    "County": "Spalding",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 85,
+    "Gender": "MALE",
+    "County": "Spalding",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 68,
+    "Gender": "FEMALE",
+    "County": "Spalding",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 33,
+    "Gender": "MALE",
+    "County": "Spalding",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 52,
+    "Gender": "MALE",
+    "County": "Spalding",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 85,
+    "Gender": "FEMALE",
+    "County": "Spalding",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 75,
+    "Gender": "FEMALE",
+    "County": "Spalding",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 95,
+    "Gender": "FEMALE",
+    "County": "Spalding",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 80,
+    "Gender": "FEMALE",
+    "County": "Spalding",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 87,
+    "Gender": "MALE",
+    "County": "Stephens",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 66,
+    "Gender": "FEMALE",
+    "County": "Sumter",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 73,
+    "Gender": "MALE",
+    "County": "Sumter",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 63,
+    "Gender": "MALE",
+    "County": "Sumter",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 72,
+    "Gender": "MALE",
+    "County": "Sumter",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 71,
+    "Gender": "FEMALE",
+    "County": "Sumter",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 68,
+    "Gender": "FEMALE",
+    "County": "Sumter",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 85,
+    "Gender": "MALE",
+    "County": "Sumter",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 87,
+    "Gender": "FEMALE",
+    "County": "Sumter",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 63,
+    "Gender": "MALE",
+    "County": "Sumter",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 79,
+    "Gender": "FEMALE",
+    "County": "Sumter",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 68,
+    "Gender": "MALE",
+    "County": "Sumter",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 88,
+    "Gender": "MALE",
+    "County": "Sumter",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 28,
+    "Gender": "MALE",
+    "County": "Sumter",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 72,
+    "Gender": "MALE",
+    "County": "Sumter",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 62,
+    "Gender": "MALE",
+    "County": "Sumter",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 66,
+    "Gender": "MALE",
+    "County": "Sumter",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 65,
+    "Gender": "MALE",
+    "County": "Sumter",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 54,
+    "Gender": "FEMALE",
+    "County": "Sumter",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 79,
+    "Gender": "MALE",
+    "County": "Sumter",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 79,
+    "Gender": "FEMALE",
+    "County": "Sumter",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 63,
+    "Gender": "MALE",
+    "County": "Sumter",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 63,
+    "Gender": "MALE",
+    "County": "Sumter",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 65,
+    "Gender": "MALE",
+    "County": "Sumter",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 45,
+    "Gender": "MALE",
+    "County": "Sumter",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 86,
+    "Gender": "MALE",
+    "County": "Sumter",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 81,
+    "Gender": "FEMALE",
+    "County": "Sumter",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 60,
+    "Gender": "FEMALE",
+    "County": "Sumter",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 87,
+    "Gender": "FEMALE",
+    "County": "Sumter",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 74,
+    "Gender": "MALE",
+    "County": "Talbot",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 60,
+    "Gender": "FEMALE",
+    "County": "Taylor",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 83,
+    "Gender": "FEMALE",
+    "County": "Taylor",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 73,
+    "Gender": "FEMALE",
+    "County": "Terrell",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 75,
+    "Gender": "MALE",
+    "County": "Terrell",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 68,
+    "Gender": "FEMALE",
+    "County": "Terrell",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 81,
+    "Gender": "MALE",
+    "County": "Terrell",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 96,
+    "Gender": "FEMALE",
+    "County": "Terrell",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 88,
+    "Gender": "FEMALE",
+    "County": "Terrell",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 77,
+    "Gender": "MALE",
+    "County": "Terrell",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 58,
+    "Gender": "MALE",
+    "County": "Terrell",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 74,
+    "Gender": "MALE",
+    "County": "Terrell",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 78,
+    "Gender": "MALE",
+    "County": "Terrell",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 84,
+    "Gender": "FEMALE",
+    "County": "Terrell",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 79,
+    "Gender": "MALE",
+    "County": "Terrell",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 55,
+    "Gender": "FEMALE",
+    "County": "Terrell",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 60,
+    "Gender": "MALE",
+    "County": "Terrell",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 79,
+    "Gender": "FEMALE",
+    "County": "Terrell",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 58,
+    "Gender": "FEMALE",
+    "County": "Terrell",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 81,
+    "Gender": "FEMALE",
+    "County": "Terrell",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 68,
+    "Gender": "MALE",
+    "County": "Terrell",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 82,
+    "Gender": "MALE",
+    "County": "Terrell",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 59,
+    "Gender": "MALE",
+    "County": "Thomas",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 87,
+    "Gender": "FEMALE",
+    "County": "Thomas",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 82,
+    "Gender": "MALE",
+    "County": "Thomas",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 75,
+    "Gender": "FEMALE",
+    "County": "Thomas",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 90,
+    "Gender": "MALE",
+    "County": "Thomas",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 84,
+    "Gender": "FEMALE",
+    "County": "Thomas",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 77,
+    "Gender": "FEMALE",
+    "County": "Thomas",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 89,
+    "Gender": "FEMALE",
+    "County": "Thomas",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 75,
+    "Gender": "FEMALE",
+    "County": "Thomas",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 75,
+    "Gender": "MALE",
+    "County": "Thomas",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 82,
+    "Gender": "MALE",
+    "County": "Thomas",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 95,
+    "Gender": "FEMALE",
+    "County": "Thomas",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 63,
+    "Gender": "MALE",
+    "County": "Thomas",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 84,
+    "Gender": "FEMALE",
+    "County": "Thomas",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 77,
+    "Gender": "FEMALE",
+    "County": "Thomas",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 84,
+    "Gender": "MALE",
+    "County": "Thomas",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 73,
+    "Gender": "MALE",
+    "County": "Thomas",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 70,
+    "Gender": "MALE",
+    "County": "Thomas",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 85,
+    "Gender": "MALE",
+    "County": "Thomas",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 62,
+    "Gender": "FEMALE",
+    "County": "Tift",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 91,
+    "Gender": "MALE",
+    "County": "Tift",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 80,
+    "Gender": "MALE",
+    "County": "Tift",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 77,
+    "Gender": "FEMALE",
+    "County": "Tift",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 86,
+    "Gender": "MALE",
+    "County": "Tift",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 77,
+    "Gender": "MALE",
+    "County": "Toombs",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 82,
+    "Gender": "FEMALE",
+    "County": "Toombs",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 69,
+    "Gender": "MALE",
+    "County": "Toombs",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 53,
+    "Gender": "FEMALE",
+    "County": "Towns",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 61,
+    "Gender": "FEMALE",
+    "County": "Troup",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 66,
+    "Gender": "FEMALE",
+    "County": "Troup",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 37,
+    "Gender": "FEMALE",
+    "County": "Troup",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 82,
+    "Gender": "FEMALE",
+    "County": "Troup",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 69,
+    "Gender": "MALE",
+    "County": "Turner",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 83,
+    "Gender": "MALE",
+    "County": "Turner",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 75,
+    "Gender": "FEMALE",
+    "County": "Turner",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 63,
+    "Gender": "MALE",
+    "County": "Turner",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 63,
+    "Gender": "MALE",
+    "County": "Turner",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 85,
+    "Gender": "FEMALE",
+    "County": "Turner",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 90,
+    "Gender": "FEMALE",
+    "County": "Turner",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 84,
+    "Gender": "MALE",
+    "County": "Turner",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 79,
+    "Gender": "MALE",
+    "County": "Union",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 82,
+    "Gender": "MALE",
+    "County": "Non-Georgia Resident",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 72,
+    "Gender": "FEMALE",
+    "County": "Non-Georgia Resident",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 92,
+    "Gender": "FEMALE",
+    "County": "Non-Georgia Resident",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 53,
+    "Gender": "MALE",
+    "County": "Non-Georgia Resident",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 30,
+    "Gender": "MALE",
+    "County": "Non-Georgia Resident",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 83,
+    "Gender": "MALE",
+    "County": "Non-Georgia Resident",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 93,
+    "Gender": "FEMALE",
+    "County": "Non-Georgia Resident",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 68,
+    "Gender": "MALE",
+    "County": "Non-Georgia Resident",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 77,
+    "Gender": "MALE",
+    "County": "Non-Georgia Resident",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 84,
+    "Gender": "FEMALE",
+    "County": "Non-Georgia Resident",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 68,
+    "Gender": "FEMALE",
+    "County": "Non-Georgia Resident",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 79,
+    "Gender": "FEMALE",
+    "County": "Non-Georgia Resident",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 71,
+    "Gender": "MALE",
+    "County": "Non-Georgia Resident",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 58,
+    "Gender": "FEMALE",
+    "County": "Non-Georgia Resident",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 74,
+    "Gender": "MALE",
+    "County": "Upson",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 83,
+    "Gender": "FEMALE",
+    "County": "Upson",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 91,
+    "Gender": "FEMALE",
+    "County": "Upson",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 74,
+    "Gender": "FEMALE",
+    "County": "Upson",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 75,
+    "Gender": "MALE",
+    "County": "Upson",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 81,
+    "Gender": "FEMALE",
+    "County": "Upson",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 61,
+    "Gender": "MALE",
+    "County": "Upson",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 70,
+    "Gender": "FEMALE",
+    "County": "Upson",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 84,
+    "Gender": "FEMALE",
+    "County": "Upson",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 62,
+    "Gender": "MALE",
+    "County": "Upson",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 60,
+    "Gender": "FEMALE",
+    "County": "Upson",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 78,
+    "Gender": "FEMALE",
+    "County": "Upson",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 82,
+    "Gender": "MALE",
+    "County": "Upson",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 89,
+    "Gender": "MALE",
+    "County": "Upson",
+    "Chronic_Condition": "No"
+  },
+  {
+    "age": 83,
+    "Gender": "MALE",
+    "County": "Upson",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 88,
+    "Gender": "FEMALE",
+    "County": "Upson",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 58,
+    "Gender": "FEMALE",
+    "County": "Upson",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 76,
+    "Gender": "FEMALE",
+    "County": "Upson",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 74,
+    "Gender": "MALE",
+    "County": "Walton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 75,
+    "Gender": "MALE",
+    "County": "Walton",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 87,
+    "Gender": "MALE",
+    "County": "Walton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 56,
+    "Gender": "MALE",
+    "County": "Walton",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 75,
+    "Gender": "MALE",
+    "County": "Ware",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 58,
+    "Gender": "FEMALE",
+    "County": "Ware",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 44,
+    "Gender": "MALE",
+    "County": "Ware",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 82,
+    "Gender": "FEMALE",
+    "County": "Ware",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 81,
+    "Gender": "MALE",
+    "County": "Ware",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 62,
+    "Gender": "FEMALE",
+    "County": "Ware",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 71,
+    "Gender": "MALE",
+    "County": "Ware",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 64,
+    "Gender": "MALE",
+    "County": "Ware",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 72,
+    "Gender": "MALE",
+    "County": "Ware",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 71,
+    "Gender": "FEMALE",
+    "County": "Ware",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 58,
+    "Gender": "FEMALE",
+    "County": "Ware",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 66,
+    "Gender": "MALE",
+    "County": "Washington",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 66,
+    "Gender": "MALE",
+    "County": "Washington",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 59,
+    "Gender": "MALE",
+    "County": "Webster",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 59,
+    "Gender": "MALE",
+    "County": "Webster",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 93,
+    "Gender": "MALE",
+    "County": "Whitfield",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 81,
+    "Gender": "MALE",
+    "County": "Whitfield",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 78,
+    "Gender": "MALE",
+    "County": "Whitfield",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 75,
+    "Gender": "MALE",
+    "County": "Whitfield",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 79,
+    "Gender": "MALE",
+    "County": "Wilcox",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 61,
+    "Gender": "FEMALE",
+    "County": "Wilcox",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 79,
+    "Gender": "MALE",
+    "County": "Wilcox",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 77,
+    "Gender": "MALE",
+    "County": "Wilcox",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 65,
+    "Gender": "FEMALE",
+    "County": "Wilcox",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 68,
+    "Gender": "FEMALE",
+    "County": "Wilcox",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 82,
+    "Gender": "MALE",
+    "County": "Wilcox",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 84,
+    "Gender": "MALE",
+    "County": "Wilcox",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 84,
+    "Gender": "MALE",
+    "County": "Wilcox",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 63,
+    "Gender": "MALE",
+    "County": "Wilkinson",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 54,
+    "Gender": "FEMALE",
+    "County": "Wilkinson",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 48,
+    "Gender": "MALE",
+    "County": "Worth",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 60,
+    "Gender": "MALE",
+    "County": "Worth",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 77,
+    "Gender": "MALE",
+    "County": "Worth",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 88,
+    "Gender": "FEMALE",
+    "County": "Worth",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 75,
+    "Gender": "MALE",
+    "County": "Worth",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 62,
+    "Gender": "MALE",
+    "County": "Worth",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 67,
+    "Gender": "FEMALE",
+    "County": "Worth",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 69,
+    "Gender": "MALE",
+    "County": "Worth",
+    "Chronic_Condition": "Yes"
+  },
+  {
+    "age": 79,
+    "Gender": "MALE",
+    "County": "Worth",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 71,
+    "Gender": "MALE",
+    "County": "Worth",
+    "Chronic_Condition": "Unknown"
+  },
+  {
+    "age": 56,
+    "Gender": "FEMALE",
+    "County": "Worth",
+    "Chronic_Condition": "Unknown"
+  }
+]

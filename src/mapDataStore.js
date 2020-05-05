@@ -8,22 +8,61 @@ import { geoPath, geoIdentity, geoAlbersUsa } from 'd3-geo';
 
 export const mapLookup = {
   "us-states": {
-    mapFilePath: "/data/maps/all_us_states_topo_simplified.json",
+    mapFilePath: () => { return "/data/maps/all_us_states_topo_simplified.json" },
     censusFilePath: "/data/state_population.json",
-    caseDataFilePath: "/data/us-states.csv",
+    caseDataFilePath: () => { return "/data/us-states.csv" },
     geoDataAccessor: (topoData) => { return topoData.objects.state_geometry },
     idAccessor: (geo) => { return geo.properties.STATE },
     regionAccessor: (geo) => { return geo.properties.REGION },
+
     keysToRemoveAccessor: (mapData) => { return Object.keys(mapData).filter(geoId => {
       return mapData[geoId].region > 4;
     })},
-    mapPathGenerator: geoPath().projection(geoAlbersUsa())
+
+    mapPathGenerator: () => { return geoPath().projection(geoAlbersUsa())},
+
+    censusDataMapOverride: (element) => {
+      let stateCode = element[2];
+      let population = element[1];
+      return [stateCode, population];
+    }
+
   },
+  // Not ready
   "us-counties": {
+    mapFilePath: () => { return "/data/maps/all_us_counties_topo_simplified.json" },
+    censusFilePath: "/data/county_population.json",
+    caseDataFilePath: () => { return "/data/us-counties.csv" },
+    geoDataAccessor: (topoData) => { return topoData.objects.all_us_counties_geo },
+    idAccessor: (geo) => { return geo.properties.GEOID },
+    mapPathGenerator: () => { return geoPath().projection(geoAlbersUsa())}
 
   },
   "state-counties": {
+    mapFilePath: (stateId) => { return `/data/maps/${stateId}_topo_simplified.json`},
+    censusFilePath: "/data/county_population.json",
+    caseDataFilePath: (stateId) => { return `/data/${stateId}.csv` },
+    geoDataAccessor: (topoData,stateId) => { return topoData.objects[stateId]},
+    idAccessor: (geo) => { return geo.properties.GEOID },
+    mapPathGenerator: (mapData) => { 
+      console.log(`mapdata: ${mapData}`);
+      return geoPath().projection(geoIdentity()
+        .reflectY(true)
+        .fitSize([960,540], { 
+        type: "FeatureCollection", 
+        features: Object.keys(mapData).map(id => {
+          return mapData[id].geoJSON
+        })}
+      )) 
+    },
+    //mapPathGenerator: geoPath().projection(geoAlbersUsa()),
 
+    censusDataMapOverride: (element) => {
+      let stateCode = element[2];
+      let countyCode = element[3];
+      let population = element[1];
+      return [stateCode.concat(countyCode), population]
+    }
   }
 }
 
@@ -40,10 +79,15 @@ function accessor(mapName, propertyName) {
   }
 }
 
-async function getMapData(mapName) {
-  let topoData = await d3fetch.json(mapLookup[mapName].mapFilePath);
+async function getMapData(mapName,submapId) {
+  let topoData;
+  try {
+    topoData = await d3fetch.json(mapLookup[mapName].mapFilePath(submapId));
+  } catch (err) {
+    console.log(err);
+  }
   //let geoData = await feature(topoData, maps[mapName].geoDataAccessor(topoData));
-  let geoData = await feature(topoData, accessor(mapName,"geoData")(topoData));
+  let geoData = await feature(topoData, accessor(mapName,"geoData")(topoData,submapId));
   let md = new Object(null);
   geoData.features.forEach(geo => {
     let id = accessor(mapName,"id")(geo);
@@ -64,10 +108,16 @@ async function getMapData(mapName) {
 }
 
 async function getCensusData(mapName, mapData) {
-  let censusDataArray = await d3fetch.json(mapLookup[mapName].censusFilePath,autoType);
+  let censusDataParseOverride = mapLookup[mapName]["censusDataMapOverride"] || ((d) => {return d});
+  let censusDataArray = (await d3fetch.json(mapLookup[mapName].censusFilePath))
+    .slice(1)
+    .map(censusDataParseOverride)
+    .filter(el => { 
+      return Object.keys(mapData).includes(el[0]);
+    });
   let population = {};
-  censusDataArray.slice(1).forEach(el => {
-    population[el[2]] = el[1];
+  censusDataArray.forEach(el => {
+    population[el[0]] = el[1];
   })
   let censusData = new Object(null);
   Object.keys(mapData).forEach(geoId => {
@@ -78,8 +128,8 @@ async function getCensusData(mapName, mapData) {
   return censusData;
 }
 
-async function getCaseData(mapName, mapData) {
-  let caseData = (await d3fetch.csv(mapLookup[mapName].caseDataFilePath, (el) => {
+async function getCaseData(mapName, mapData, submapId) {
+  let caseData = (await d3fetch.csv(mapLookup[mapName].caseDataFilePath(submapId), (el) => {
     return {
       id: el.fips,
       date: moment(el.date),
@@ -93,10 +143,11 @@ async function getCaseData(mapName, mapData) {
 }
 
 export const mapName = writable("us-states");
+export const submapId = writable(null);
 export const statKey = writable("dailyCasesPerCapita");
 
-export const mapData = derived(mapName, async ($mapName, set) => {
-  set(await getMapData($mapName));
+export const mapData = derived([mapName, submapId], async ([$mapName, $submapId], set) => {
+  set(await getMapData($mapName,$submapId));
 }, null);
 
 export const censusData = derived([mapName, mapData], async ([$mapName, $mapData], set) => {
@@ -105,8 +156,8 @@ export const censusData = derived([mapName, mapData], async ([$mapName, $mapData
   }
 }, null);
 
-export const caseData = derived([mapName, mapData], async ([$mapName, $mapData], set) => {
+export const caseData = derived([mapName, mapData, submapId], async ([$mapName, $mapData, $submapId], set) => {
   if ($mapData) {
-    set(await getCaseData($mapName, $mapData))
+    set(await getCaseData($mapName, $mapData, $submapId))
   }
 }, null);

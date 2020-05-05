@@ -25,7 +25,13 @@
   $: mapName = $mapNameStore;
   $: statKey = $statKeyStore;
 
-  $: mapPathGenerator = mapName ? mapLookup[mapName].mapPathGenerator : null;
+  let mapPathGenerator;
+  //$: mapPathGenerator = mapName ? mapLookup[mapName].mapPathGenerator(mapData) : null;
+  $: {
+    if (mapName && mapData) {
+      mapPathGenerator = (mapLookup[mapName].mapPathGenerator)(mapData);
+    }
+  }
 
   $: statDetails = (caseData && mapData && censusData && mapName && statKey) ? 
     getStat({

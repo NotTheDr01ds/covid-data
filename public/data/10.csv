@@ -1,0 +1,150 @@
+date,county,state,fips,cases,deaths
+2020-03-11,New Castle,Delaware,10003,1,0
+2020-03-12,New Castle,Delaware,10003,4,0
+2020-03-13,New Castle,Delaware,10003,4,0
+2020-03-14,New Castle,Delaware,10003,4,0
+2020-03-15,New Castle,Delaware,10003,7,0
+2020-03-16,New Castle,Delaware,10003,8,0
+2020-03-17,New Castle,Delaware,10003,15,0
+2020-03-17,Sussex,Delaware,10005,1,0
+2020-03-18,Kent,Delaware,10001,3,0
+2020-03-18,New Castle,Delaware,10003,20,0
+2020-03-18,Sussex,Delaware,10005,3,0
+2020-03-19,Kent,Delaware,10001,4,0
+2020-03-19,New Castle,Delaware,10003,23,0
+2020-03-19,Sussex,Delaware,10005,3,0
+2020-03-20,Kent,Delaware,10001,4,0
+2020-03-20,New Castle,Delaware,10003,28,0
+2020-03-20,Sussex,Delaware,10005,7,0
+2020-03-21,Kent,Delaware,10001,5,0
+2020-03-21,New Castle,Delaware,10003,32,0
+2020-03-21,Sussex,Delaware,10005,8,0
+2020-03-22,Kent,Delaware,10001,5,0
+2020-03-22,New Castle,Delaware,10003,39,0
+2020-03-22,Sussex,Delaware,10005,12,0
+2020-03-23,Kent,Delaware,10001,9,0
+2020-03-23,New Castle,Delaware,10003,58,0
+2020-03-23,Sussex,Delaware,10005,20,0
+2020-03-24,Kent,Delaware,10001,10,0
+2020-03-24,New Castle,Delaware,10003,71,0
+2020-03-24,Sussex,Delaware,10005,23,0
+2020-03-25,Kent,Delaware,10001,14,0
+2020-03-25,New Castle,Delaware,10003,79,0
+2020-03-25,Sussex,Delaware,10005,26,0
+2020-03-26,Kent,Delaware,10001,19,0
+2020-03-26,New Castle,Delaware,10003,91,0
+2020-03-26,Sussex,Delaware,10005,33,1
+2020-03-27,Kent,Delaware,10001,21,0
+2020-03-27,New Castle,Delaware,10003,106,1
+2020-03-27,Sussex,Delaware,10005,38,1
+2020-03-28,Kent,Delaware,10001,25,2
+2020-03-28,New Castle,Delaware,10003,130,2
+2020-03-28,Sussex,Delaware,10005,59,1
+2020-03-29,Kent,Delaware,10001,25,2
+2020-03-29,New Castle,Delaware,10003,141,3
+2020-03-29,Sussex,Delaware,10005,66,1
+2020-03-30,Kent,Delaware,10001,27,2
+2020-03-30,New Castle,Delaware,10003,156,3
+2020-03-30,Sussex,Delaware,10005,81,2
+2020-03-31,Kent,Delaware,10001,34,2
+2020-03-31,New Castle,Delaware,10003,197,6
+2020-03-31,Sussex,Delaware,10005,88,2
+2020-04-01,Kent,Delaware,10001,41,2
+2020-04-01,New Castle,Delaware,10003,226,6
+2020-04-01,Sussex,Delaware,10005,101,3
+2020-04-02,Kent,Delaware,10001,43,2
+2020-04-02,New Castle,Delaware,10003,245,7
+2020-04-02,Sussex,Delaware,10005,105,3
+2020-04-03,Kent,Delaware,10001,54,2
+2020-04-03,New Castle,Delaware,10003,279,9
+2020-04-03,Sussex,Delaware,10005,117,3
+2020-04-04,Kent,Delaware,10001,68,2
+2020-04-04,New Castle,Delaware,10003,400,9
+2020-04-04,Sussex,Delaware,10005,125,3
+2020-04-05,Kent,Delaware,10001,86,2
+2020-04-05,New Castle,Delaware,10003,436,9
+2020-04-05,Sussex,Delaware,10005,151,3
+2020-04-06,Kent,Delaware,10001,128,3
+2020-04-06,New Castle,Delaware,10003,496,9
+2020-04-06,Sussex,Delaware,10005,159,3
+2020-04-07,Kent,Delaware,10001,147,3
+2020-04-07,New Castle,Delaware,10003,571,9
+2020-04-07,Sussex,Delaware,10005,210,4
+2020-04-08,Kent,Delaware,10001,201,3
+2020-04-08,New Castle,Delaware,10003,636,11
+2020-04-08,Sussex,Delaware,10005,279,5
+2020-04-09,Kent,Delaware,10001,214,3
+2020-04-09,New Castle,Delaware,10003,701,13
+2020-04-09,Sussex,Delaware,10005,294,7
+2020-04-10,Kent,Delaware,10001,230,3
+2020-04-10,New Castle,Delaware,10003,751,19
+2020-04-10,Sussex,Delaware,10005,336,10
+2020-04-11,Kent,Delaware,10001,255,4
+2020-04-11,New Castle,Delaware,10003,807,19
+2020-04-11,Sussex,Delaware,10005,404,10
+2020-04-12,Kent,Delaware,10001,281,4
+2020-04-12,New Castle,Delaware,10003,880,19
+2020-04-12,Sussex,Delaware,10005,464,12
+2020-04-13,Kent,Delaware,10001,288,6
+2020-04-13,New Castle,Delaware,10003,919,20
+2020-04-13,Sussex,Delaware,10005,551,15
+2020-04-14,Kent,Delaware,10001,329,7
+2020-04-14,New Castle,Delaware,10003,947,20
+2020-04-14,Sussex,Delaware,10005,639,16
+2020-04-15,Kent,Delaware,10001,345,8
+2020-04-15,New Castle,Delaware,10003,974,21
+2020-04-15,Sussex,Delaware,10005,678,17
+2020-04-16,Kent,Delaware,10001,352,9
+2020-04-16,New Castle,Delaware,10003,1003,25
+2020-04-16,Sussex,Delaware,10005,698,18
+2020-04-17,Kent,Delaware,10001,384,9
+2020-04-17,New Castle,Delaware,10003,1100,30
+2020-04-17,Sussex,Delaware,10005,811,22
+2020-04-18,Kent,Delaware,10001,417,10
+2020-04-18,New Castle,Delaware,10003,1205,32
+2020-04-18,Sussex,Delaware,10005,886,25
+2020-04-19,Kent,Delaware,10001,417,10
+2020-04-19,New Castle,Delaware,10003,1205,32
+2020-04-19,Sussex,Delaware,10005,886,25
+2020-04-20,Kent,Delaware,10001,430,13
+2020-04-20,New Castle,Delaware,10003,1229,33
+2020-04-20,Sussex,Delaware,10005,1055,26
+2020-04-21,Kent,Delaware,10001,459,14
+2020-04-21,New Castle,Delaware,10003,1303,36
+2020-04-21,Sussex,Delaware,10005,1139,32
+2020-04-22,Kent,Delaware,10001,503,15
+2020-04-22,New Castle,Delaware,10003,1352,38
+2020-04-22,Sussex,Delaware,10005,1317,36
+2020-04-23,Kent,Delaware,10001,539,15
+2020-04-23,New Castle,Delaware,10003,1389,40
+2020-04-23,Sussex,Delaware,10005,1377,37
+2020-04-24,Kent,Delaware,10001,558,15
+2020-04-24,New Castle,Delaware,10003,1486,45
+2020-04-24,Sussex,Delaware,10005,1394,40
+2020-04-25,Kent,Delaware,10001,579,18
+2020-04-25,New Castle,Delaware,10003,1504,52
+2020-04-25,Sussex,Delaware,10005,1490,42
+2020-04-26,Kent,Delaware,10001,625,22
+2020-04-26,New Castle,Delaware,10003,1599,55
+2020-04-26,Sussex,Delaware,10005,1801,43
+2020-04-27,Kent,Delaware,10001,652,23
+2020-04-27,New Castle,Delaware,10003,1629,57
+2020-04-27,Sussex,Delaware,10005,1870,45
+2020-04-28,Kent,Delaware,10001,728,23
+2020-04-28,New Castle,Delaware,10003,1701,63
+2020-04-28,Sussex,Delaware,10005,2114,51
+2020-04-29,Kent,Delaware,10001,743,25
+2020-04-29,New Castle,Delaware,10003,1717,65
+2020-04-29,Sussex,Delaware,10005,2169,54
+2020-04-30,Kent,Delaware,10001,759,26
+2020-04-30,New Castle,Delaware,10003,1734,68
+2020-04-30,Sussex,Delaware,10005,2216,58
+2020-05-01,Kent,Delaware,10001,773,27
+2020-05-01,New Castle,Delaware,10003,1829,70
+2020-05-01,Sussex,Delaware,10005,2292,62
+2020-05-02,Kent,Delaware,10001,793,29
+2020-05-02,New Castle,Delaware,10003,1864,76
+2020-05-02,Sussex,Delaware,10005,2359,63
+2020-05-03,Kent,Delaware,10001,821,30
+2020-05-03,New Castle,Delaware,10003,1903,79
+2020-05-03,Sussex,Delaware,10005,2461,68
