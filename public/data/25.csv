@@ -764,3 +764,17 @@ date,county,state,fips,cases,deaths
 2020-05-03,Plymouth,Massachusetts,25023,5507,323
 2020-05-03,Suffolk,Massachusetts,25025,13777,588
 2020-05-03,Worcester,Massachusetts,25027,6288,312
+2020-05-04,Barnstable,Massachusetts,25001,961,47
+2020-05-04,Berkshire,Massachusetts,25003,453,36
+2020-05-04,Bristol,Massachusetts,25005,4103,205
+2020-05-04,Dukes,Massachusetts,25007,21,1
+2020-05-04,Essex,Massachusetts,25009,9773,512
+2020-05-04,Franklin,Massachusetts,25011,273,37
+2020-05-04,Hampden,Massachusetts,25013,4114,408
+2020-05-04,Hampshire,Massachusetts,25015,563,36
+2020-05-04,Middlesex,Massachusetts,25017,15757,997
+2020-05-04,Nantucket,Massachusetts,25019,11,0
+2020-05-04,Norfolk,Massachusetts,25021,6382,555
+2020-05-04,Plymouth,Massachusetts,25023,5602,333
+2020-05-04,Suffolk,Massachusetts,25025,13941,596
+2020-05-04,Worcester,Massachusetts,25027,6471,320

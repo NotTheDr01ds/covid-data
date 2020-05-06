@@ -2884,3 +2884,57 @@ date,county,state,fips,cases,deaths
 2020-05-03,Ventura,California,06111,566,19
 2020-05-03,Yolo,California,06113,171,18
 2020-05-03,Yuba,California,06115,19,1
+2020-05-04,Alameda,California,06001,1797,65
+2020-05-04,Alpine,California,06003,2,0
+2020-05-04,Amador,California,06005,7,0
+2020-05-04,Butte,California,06007,17,0
+2020-05-04,Calaveras,California,06009,13,0
+2020-05-04,Colusa,California,06011,3,0
+2020-05-04,Contra Costa,California,06013,947,28
+2020-05-04,Del Norte,California,06015,3,0
+2020-05-04,El Dorado,California,06017,53,0
+2020-05-04,Fresno,California,06019,672,9
+2020-05-04,Glenn,California,06021,5,0
+2020-05-04,Humboldt,California,06023,54,0
+2020-05-04,Imperial,California,06025,379,8
+2020-05-04,Inyo,California,06027,20,1
+2020-05-04,Kern,California,06029,1025,8
+2020-05-04,Kings,California,06031,172,1
+2020-05-04,Lake,California,06033,7,0
+2020-05-04,Los Angeles,California,06037,26217,1256
+2020-05-04,Madera,California,06039,54,2
+2020-05-04,Marin,California,06041,243,13
+2020-05-04,Mariposa,California,06043,14,0
+2020-05-04,Mendocino,California,06045,12,0
+2020-05-04,Merced,California,06047,146,3
+2020-05-04,Mono,California,06051,26,1
+2020-05-04,Monterey,California,06053,235,6
+2020-05-04,Napa,California,06055,75,2
+2020-05-04,Nevada,California,06057,41,1
+2020-05-04,Orange,California,06059,2859,57
+2020-05-04,Placer,California,06061,162,8
+2020-05-04,Plumas,California,06063,4,0
+2020-05-04,Riverside,California,06065,4354,181
+2020-05-04,Sacramento,California,06067,1126,47
+2020-05-04,San Benito,California,06069,52,2
+2020-05-04,San Bernardino,California,06071,2182,99
+2020-05-04,San Diego,California,06073,4083,150
+2020-05-04,San Francisco,California,06075,1692,30
+2020-05-04,San Joaquin,California,06077,574,26
+2020-05-04,San Luis Obispo,California,06079,202,1
+2020-05-04,San Mateo,California,06081,1281,53
+2020-05-04,Santa Barbara,California,06083,526,8
+2020-05-04,Santa Clara,California,06085,2244,118
+2020-05-04,Santa Cruz,California,06087,137,2
+2020-05-04,Shasta,California,06089,31,4
+2020-05-04,Siskiyou,California,06093,5,0
+2020-05-04,Solano,California,06095,325,6
+2020-05-04,Sonoma,California,06097,261,4
+2020-05-04,Stanislaus,California,06099,428,15
+2020-05-04,Sutter,California,06101,31,2
+2020-05-04,Tehama,California,06103,1,1
+2020-05-04,Tulare,California,06107,757,40
+2020-05-04,Tuolumne,California,06109,4,0
+2020-05-04,Ventura,California,06111,583,19
+2020-05-04,Yolo,California,06113,171,19
+2020-05-04,Yuba,California,06115,19,1

@@ -4,7 +4,7 @@ import * as d3fetch from 'd3-fetch';
 import { autoType } from 'd3-dsv';
 import moment from 'moment';
 import { feature } from 'topojson';
-import { geoPath, geoIdentity, geoAlbersUsa } from 'd3-geo';
+import { geoPath, geoIdentity, geoAlbersUsa, geoAlbers, geoMercator } from 'd3-geo';
 
 export const mapLookup = {
   "us-states": {
@@ -45,9 +45,9 @@ export const mapLookup = {
     geoDataAccessor: (topoData,stateId) => { return topoData.objects[stateId]},
     idAccessor: (geo) => { return geo.properties.GEOID },
     mapPathGenerator: (mapData) => { 
-      console.log(`mapdata: ${mapData}`);
-      return geoPath().projection(geoIdentity()
-        .reflectY(true)
+      return geoPath().projection(geoMercator()
+      //return geoPath().projection(geoIdentity()
+        //.reflectY(true)
         .fitSize([960,540], { 
         type: "FeatureCollection", 
         features: Object.keys(mapData).map(id => {

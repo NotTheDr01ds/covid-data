@@ -1272,3 +1272,36 @@ date,county,state,fips,cases,deaths
 2020-05-03,Twin Falls,Idaho,16083,164,11
 2020-05-03,Valley,Idaho,16085,2,0
 2020-05-03,Washington,Idaho,16087,1,0
+2020-05-04,Ada,Idaho,16001,669,17
+2020-05-04,Adams,Idaho,16003,3,0
+2020-05-04,Bannock,Idaho,16005,7,0
+2020-05-04,Bingham,Idaho,16011,4,0
+2020-05-04,Blaine,Idaho,16013,488,5
+2020-05-04,Bonner,Idaho,16017,4,0
+2020-05-04,Bonneville,Idaho,16019,17,0
+2020-05-04,Camas,Idaho,16025,1,0
+2020-05-04,Canyon,Idaho,16027,248,7
+2020-05-04,Caribou,Idaho,16029,1,0
+2020-05-04,Cassia,Idaho,16031,13,1
+2020-05-04,Custer,Idaho,16037,2,0
+2020-05-04,Elmore,Idaho,16039,29,2
+2020-05-04,Fremont,Idaho,16043,2,0
+2020-05-04,Gem,Idaho,16045,11,0
+2020-05-04,Gooding,Idaho,16047,11,0
+2020-05-04,Idaho,Idaho,16049,3,0
+2020-05-04,Jefferson,Idaho,16051,4,0
+2020-05-04,Jerome,Idaho,16053,47,2
+2020-05-04,Kootenai,Idaho,16055,61,0
+2020-05-04,Latah,Idaho,16057,5,0
+2020-05-04,Lemhi,Idaho,16059,1,0
+2020-05-04,Lincoln,Idaho,16063,26,0
+2020-05-04,Madison,Idaho,16065,7,0
+2020-05-04,Minidoka,Idaho,16067,8,0
+2020-05-04,Nez Perce,Idaho,16069,65,18
+2020-05-04,Owyhee,Idaho,16073,8,0
+2020-05-04,Payette,Idaho,16075,14,1
+2020-05-04,Power,Idaho,16077,2,0
+2020-05-04,Teton,Idaho,16081,8,0
+2020-05-04,Twin Falls,Idaho,16083,175,11
+2020-05-04,Valley,Idaho,16085,2,0
+2020-05-04,Washington,Idaho,16087,1,0

@@ -395,3 +395,11 @@ date,county,state,fips,cases,deaths
 2020-05-03,New London,Connecticut,09011,623,43
 2020-05-03,Tolland,Connecticut,09013,461,39
 2020-05-03,Windham,Connecticut,09015,211,2
+2020-05-04,Fairfield,Connecticut,09001,12245,910
+2020-05-04,Hartford,Connecticut,09003,6173,773
+2020-05-04,Litchfield,Connecticut,09005,1047,94
+2020-05-04,Middlesex,Connecticut,09007,713,93
+2020-05-04,New Haven,Connecticut,09009,8110,595
+2020-05-04,New London,Connecticut,09011,641,45
+2020-05-04,Tolland,Connecticut,09013,464,40
+2020-05-04,Windham,Connecticut,09015,217,3

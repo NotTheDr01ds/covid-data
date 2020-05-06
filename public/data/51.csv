@@ -4856,3 +4856,131 @@ date,county,state,fips,cases,deaths
 2020-05-03,Wise,Virginia,51195,22,1
 2020-05-03,Wythe,Virginia,51197,12,1
 2020-05-03,York,Virginia,51199,47,1
+2020-05-04,Accomack,Virginia,51001,425,6
+2020-05-04,Albemarle,Virginia,51003,110,4
+2020-05-04,Alexandria city,Virginia,51510,940,26
+2020-05-04,Alleghany,Virginia,51005,6,0
+2020-05-04,Amelia,Virginia,51007,16,1
+2020-05-04,Amherst,Virginia,51009,14,0
+2020-05-04,Appomattox,Virginia,51011,21,0
+2020-05-04,Arlington,Virginia,51013,1139,47
+2020-05-04,Augusta,Virginia,51015,47,1
+2020-05-04,Bedford,Virginia,51019,35,0
+2020-05-04,Botetourt,Virginia,51023,28,3
+2020-05-04,Bristol city,Virginia,51520,2,0
+2020-05-04,Brunswick,Virginia,51025,15,0
+2020-05-04,Buchanan,Virginia,51027,16,0
+2020-05-04,Buckingham,Virginia,51029,137,0
+2020-05-04,Buena Vista city,Virginia,51530,6,0
+2020-05-04,Campbell,Virginia,51031,13,0
+2020-05-04,Caroline,Virginia,51033,32,1
+2020-05-04,Carroll,Virginia,51035,19,0
+2020-05-04,Charles City,Virginia,51036,17,1
+2020-05-04,Charlotte,Virginia,51037,10,0
+2020-05-04,Charlottesville city,Virginia,51540,63,2
+2020-05-04,Chesapeake city,Virginia,51550,284,9
+2020-05-04,Chesterfield,Virginia,51041,601,24
+2020-05-04,Clarke,Virginia,51043,10,0
+2020-05-04,Colonial Heights city,Virginia,51570,57,6
+2020-05-04,Craig,Virginia,51045,3,0
+2020-05-04,Culpeper,Virginia,51047,196,3
+2020-05-04,Cumberland,Virginia,51049,12,0
+2020-05-04,Danville city,Virginia,51590,37,1
+2020-05-04,Dinwiddie,Virginia,51053,23,0
+2020-05-04,Emporia city,Virginia,51595,46,3
+2020-05-04,Essex,Virginia,51057,16,0
+2020-05-04,Fairfax,Virginia,51059,4615,198
+2020-05-04,Fairfax city,Virginia,51600,33,2
+2020-05-04,Falls Church city,Virginia,51610,36,4
+2020-05-04,Fauquier,Virginia,51061,140,3
+2020-05-04,Floyd,Virginia,51063,3,0
+2020-05-04,Fluvanna,Virginia,51065,76,6
+2020-05-04,Franklin,Virginia,51067,23,0
+2020-05-04,Franklin city,Virginia,51620,23,1
+2020-05-04,Frederick,Virginia,51069,126,1
+2020-05-04,Fredericksburg city,Virginia,51630,45,0
+2020-05-04,Galax city,Virginia,51640,25,0
+2020-05-04,Giles,Virginia,51071,4,0
+2020-05-04,Gloucester,Virginia,51073,27,1
+2020-05-04,Goochland,Virginia,51075,80,5
+2020-05-04,Grayson,Virginia,51077,4,0
+2020-05-04,Greene,Virginia,51079,12,1
+2020-05-04,Greensville,Virginia,51081,41,7
+2020-05-04,Halifax,Virginia,51083,19,0
+2020-05-04,Hampton city,Virginia,51650,128,1
+2020-05-04,Hanover,Virginia,51085,141,12
+2020-05-04,Harrisonburg city,Virginia,51660,497,16
+2020-05-04,Henrico,Virginia,51087,964,105
+2020-05-04,Henry,Virginia,51089,19,1
+2020-05-04,Highland,Virginia,51091,2,0
+2020-05-04,Hopewell city,Virginia,51670,31,0
+2020-05-04,Isle of Wight,Virginia,51093,99,2
+2020-05-04,James City,Virginia,51095,167,13
+2020-05-04,King George,Virginia,51099,35,4
+2020-05-04,King William,Virginia,51101,9,1
+2020-05-04,King and Queen,Virginia,51097,3,0
+2020-05-04,Lancaster,Virginia,51103,5,0
+2020-05-04,Lee,Virginia,51105,10,0
+2020-05-04,Lexington city,Virginia,51678,6,0
+2020-05-04,Loudoun,Virginia,51107,961,18
+2020-05-04,Louisa,Virginia,51109,49,0
+2020-05-04,Lunenburg,Virginia,51111,4,0
+2020-05-04,Lynchburg city,Virginia,51680,64,1
+2020-05-04,Madison,Virginia,51113,16,1
+2020-05-04,Manassas Park city,Virginia,51685,88,2
+2020-05-04,Manassas city,Virginia,51683,273,1
+2020-05-04,Mathews,Virginia,51115,4,0
+2020-05-04,Mecklenburg,Virginia,51117,106,10
+2020-05-04,Middlesex,Virginia,51119,7,0
+2020-05-04,Montgomery,Virginia,51121,59,1
+2020-05-04,Nelson,Virginia,51125,9,0
+2020-05-04,New Kent,Virginia,51127,26,1
+2020-05-04,Newport News city,Virginia,51700,132,9
+2020-05-04,Norfolk city,Virginia,51710,239,4
+2020-05-04,Northampton,Virginia,51131,139,1
+2020-05-04,Northumberland,Virginia,51133,9,0
+2020-05-04,Norton city,Virginia,51720,2,0
+2020-05-04,Nottoway,Virginia,51135,14,0
+2020-05-04,Orange,Virginia,51137,39,0
+2020-05-04,Page,Virginia,51139,113,2
+2020-05-04,Patrick,Virginia,51141,2,0
+2020-05-04,Petersburg city,Virginia,51730,39,2
+2020-05-04,Pittsylvania,Virginia,51143,15,1
+2020-05-04,Poquoson city,Virginia,51735,6,0
+2020-05-04,Portsmouth city,Virginia,51740,183,8
+2020-05-04,Powhatan,Virginia,51145,15,0
+2020-05-04,Prince Edward,Virginia,51147,55,2
+2020-05-04,Prince George,Virginia,51149,40,0
+2020-05-04,Prince William,Virginia,51153,2146,32
+2020-05-04,Pulaski,Virginia,51155,9,0
+2020-05-04,Radford city,Virginia,51750,3,0
+2020-05-04,Rappahannock,Virginia,51157,6,0
+2020-05-04,Richmond,Virginia,51159,145,0
+2020-05-04,Richmond city,Virginia,51760,419,16
+2020-05-04,Roanoke,Virginia,51161,57,0
+2020-05-04,Roanoke city,Virginia,51770,81,0
+2020-05-04,Rockbridge,Virginia,51163,7,0
+2020-05-04,Rockingham,Virginia,51165,269,1
+2020-05-04,Russell,Virginia,51167,5,0
+2020-05-04,Salem city,Virginia,51775,27,0
+2020-05-04,Scott,Virginia,51169,7,1
+2020-05-04,Shenandoah,Virginia,51171,149,2
+2020-05-04,Smyth,Virginia,51173,13,0
+2020-05-04,Southampton,Virginia,51175,127,1
+2020-05-04,Spotsylvania,Virginia,51177,195,4
+2020-05-04,Stafford,Virginia,51179,288,2
+2020-05-04,Staunton city,Virginia,51790,13,0
+2020-05-04,Suffolk city,Virginia,51800,190,14
+2020-05-04,Surry,Virginia,51181,4,1
+2020-05-04,Sussex,Virginia,51183,32,1
+2020-05-04,Tazewell,Virginia,51185,6,0
+2020-05-04,Virginia Beach city,Virginia,51810,439,15
+2020-05-04,Warren,Virginia,51187,63,0
+2020-05-04,Washington,Virginia,51191,39,3
+2020-05-04,Waynesboro city,Virginia,51820,14,0
+2020-05-04,Westmoreland,Virginia,51193,31,0
+2020-05-04,Williamsburg city,Virginia,51830,23,2
+2020-05-04,Winchester city,Virginia,51840,50,0
+2020-05-04,Wise,Virginia,51195,22,1
+2020-05-04,Wythe,Virginia,51197,12,1
+2020-05-04,York,Virginia,51199,47,1

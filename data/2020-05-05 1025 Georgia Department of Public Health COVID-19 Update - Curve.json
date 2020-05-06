@@ -1,0 +1,706 @@
+[
+  {
+    "test_date": "2020-02-01",
+    "POSITIVES": 2,
+    "seven_day": 0.3,
+    "cum_positives": 2,
+    "cum_deaths": 0,
+    "deaths": 0
+  },
+  {
+    "test_date": "2020-02-02",
+    "POSITIVES": 3,
+    "seven_day": 0.7,
+    "cum_positives": 5,
+    "cum_deaths": 0,
+    "deaths": 0
+  },
+  {
+    "test_date": "2020-02-03",
+    "POSITIVES": 1,
+    "seven_day": 0.9,
+    "cum_positives": 6,
+    "cum_deaths": 0,
+    "deaths": 0
+  },
+  {
+    "test_date": "2020-02-06",
+    "POSITIVES": 1,
+    "seven_day": 1,
+    "cum_positives": 7,
+    "cum_deaths": 0,
+    "deaths": 0
+  },
+  {
+    "test_date": "2020-02-07",
+    "POSITIVES": 1,
+    "seven_day": 1.1,
+    "cum_positives": 8,
+    "cum_deaths": 0,
+    "deaths": 0
+  },
+  {
+    "test_date": "2020-02-08",
+    "POSITIVES": 1,
+    "seven_day": 1.3,
+    "cum_positives": 9,
+    "cum_deaths": 0,
+    "deaths": 0
+  },
+  {
+    "test_date": "2020-02-10",
+    "POSITIVES": 1,
+    "seven_day": 1.4,
+    "cum_positives": 10,
+    "cum_deaths": 0,
+    "deaths": 0
+  },
+  {
+    "test_date": "2020-02-13",
+    "POSITIVES": 1,
+    "seven_day": 1.3,
+    "cum_positives": 11,
+    "cum_deaths": 0,
+    "deaths": 0
+  },
+  {
+    "test_date": "2020-02-15",
+    "POSITIVES": 2,
+    "seven_day": 1.1,
+    "cum_positives": 13,
+    "cum_deaths": 0,
+    "deaths": 0
+  },
+  {
+    "test_date": "2020-02-17",
+    "POSITIVES": 1,
+    "seven_day": 1.1,
+    "cum_positives": 14,
+    "cum_deaths": 0,
+    "deaths": 0
+  },
+  {
+    "test_date": "2020-02-18",
+    "POSITIVES": 3,
+    "seven_day": 1.4,
+    "cum_positives": 17,
+    "cum_deaths": 0,
+    "deaths": 0
+  },
+  {
+    "test_date": "2020-02-19",
+    "POSITIVES": 3,
+    "seven_day": 1.7,
+    "cum_positives": 20,
+    "cum_deaths": 0,
+    "deaths": 0
+  },
+  {
+    "test_date": "2020-02-20",
+    "POSITIVES": 3,
+    "seven_day": 2,
+    "cum_positives": 23,
+    "cum_deaths": 0,
+    "deaths": 0
+  },
+  {
+    "test_date": "2020-02-21",
+    "POSITIVES": 2,
+    "seven_day": 2.1,
+    "cum_positives": 25,
+    "cum_deaths": 0,
+    "deaths": 0
+  },
+  {
+    "test_date": "2020-02-22",
+    "POSITIVES": 3,
+    "seven_day": 2.4,
+    "cum_positives": 28,
+    "cum_deaths": 0,
+    "deaths": 0
+  },
+  {
+    "test_date": "2020-02-23",
+    "POSITIVES": 8,
+    "seven_day": 3.3,
+    "cum_positives": 36,
+    "cum_deaths": 0,
+    "deaths": 0
+  },
+  {
+    "test_date": "2020-02-24",
+    "POSITIVES": 7,
+    "seven_day": 4.1,
+    "cum_positives": 43,
+    "cum_deaths": 0,
+    "deaths": 0
+  },
+  {
+    "test_date": "2020-02-25",
+    "POSITIVES": 7,
+    "seven_day": 4.7,
+    "cum_positives": 50,
+    "cum_deaths": 0,
+    "deaths": 0
+  },
+  {
+    "test_date": "2020-02-26",
+    "POSITIVES": 9,
+    "seven_day": 5.6,
+    "cum_positives": 59,
+    "cum_deaths": 0,
+    "deaths": 0
+  },
+  {
+    "test_date": "2020-02-27",
+    "POSITIVES": 10,
+    "seven_day": 6.6,
+    "cum_positives": 69,
+    "cum_deaths": 0,
+    "deaths": 0
+  },
+  {
+    "test_date": "2020-02-28",
+    "POSITIVES": 12,
+    "seven_day": 8,
+    "cum_positives": 81,
+    "cum_deaths": 0,
+    "deaths": 0
+  },
+  {
+    "test_date": "2020-02-29",
+    "POSITIVES": 11,
+    "seven_day": 9.1,
+    "cum_positives": 92,
+    "cum_deaths": 0,
+    "deaths": 0
+  },
+  {
+    "test_date": "2020-03-01",
+    "POSITIVES": 60,
+    "seven_day": 16.6,
+    "cum_positives": 152,
+    "cum_deaths": 0,
+    "deaths": 0
+  },
+  {
+    "test_date": "2020-03-02",
+    "POSITIVES": 40,
+    "seven_day": 21.3,
+    "cum_positives": 192,
+    "cum_deaths": 0,
+    "deaths": 0
+  },
+  {
+    "test_date": "2020-03-03",
+    "POSITIVES": 38,
+    "seven_day": 25.7,
+    "cum_positives": 230,
+    "cum_deaths": 0,
+    "deaths": 0
+  },
+  {
+    "test_date": "2020-03-04",
+    "POSITIVES": 46,
+    "seven_day": 31,
+    "cum_positives": 276,
+    "cum_deaths": 0,
+    "deaths": 0
+  },
+  {
+    "test_date": "2020-03-05",
+    "POSITIVES": 40,
+    "seven_day": 35.3,
+    "cum_positives": 316,
+    "cum_deaths": 1,
+    "deaths": 1
+  },
+  {
+    "test_date": "2020-03-06",
+    "POSITIVES": 55,
+    "seven_day": 41.4,
+    "cum_positives": 371,
+    "cum_deaths": 1,
+    "deaths": 0
+  },
+  {
+    "test_date": "2020-03-07",
+    "POSITIVES": 58,
+    "seven_day": 48.1,
+    "cum_positives": 429,
+    "cum_deaths": 1,
+    "deaths": 0
+  },
+  {
+    "test_date": "2020-03-08",
+    "POSITIVES": 72,
+    "seven_day": 49.9,
+    "cum_positives": 501,
+    "cum_deaths": 1,
+    "deaths": 0
+  },
+  {
+    "test_date": "2020-03-09",
+    "POSITIVES": 116,
+    "seven_day": 60.7,
+    "cum_positives": 617,
+    "cum_deaths": 1,
+    "deaths": 0
+  },
+  {
+    "test_date": "2020-03-10",
+    "POSITIVES": 133,
+    "seven_day": 74.3,
+    "cum_positives": 750,
+    "cum_deaths": 1,
+    "deaths": 0
+  },
+  {
+    "test_date": "2020-03-11",
+    "POSITIVES": 152,
+    "seven_day": 89.4,
+    "cum_positives": 902,
+    "cum_deaths": 1,
+    "deaths": 0
+  },
+  {
+    "test_date": "2020-03-12",
+    "POSITIVES": 172,
+    "seven_day": 108.3,
+    "cum_positives": 1074,
+    "cum_deaths": 2,
+    "deaths": 1
+  },
+  {
+    "test_date": "2020-03-13",
+    "POSITIVES": 251,
+    "seven_day": 136.3,
+    "cum_positives": 1325,
+    "cum_deaths": 2,
+    "deaths": 0
+  },
+  {
+    "test_date": "2020-03-14",
+    "POSITIVES": 210,
+    "seven_day": 158,
+    "cum_positives": 1535,
+    "cum_deaths": 4,
+    "deaths": 2
+  },
+  {
+    "test_date": "2020-03-15",
+    "POSITIVES": 252,
+    "seven_day": 183.7,
+    "cum_positives": 1787,
+    "cum_deaths": 8,
+    "deaths": 4
+  },
+  {
+    "test_date": "2020-03-16",
+    "POSITIVES": 394,
+    "seven_day": 223.4,
+    "cum_positives": 2181,
+    "cum_deaths": 10,
+    "deaths": 2
+  },
+  {
+    "test_date": "2020-03-17",
+    "POSITIVES": 391,
+    "seven_day": 260.3,
+    "cum_positives": 2572,
+    "cum_deaths": 12,
+    "deaths": 2
+  },
+  {
+    "test_date": "2020-03-18",
+    "POSITIVES": 419,
+    "seven_day": 298.4,
+    "cum_positives": 2991,
+    "cum_deaths": 21,
+    "deaths": 9
+  },
+  {
+    "test_date": "2020-03-19",
+    "POSITIVES": 395,
+    "seven_day": 330.3,
+    "cum_positives": 3386,
+    "cum_deaths": 26,
+    "deaths": 5
+  },
+  {
+    "test_date": "2020-03-20",
+    "POSITIVES": 465,
+    "seven_day": 360.9,
+    "cum_positives": 3851,
+    "cum_deaths": 31,
+    "deaths": 5
+  },
+  {
+    "test_date": "2020-03-21",
+    "POSITIVES": 302,
+    "seven_day": 374,
+    "cum_positives": 4153,
+    "cum_deaths": 49,
+    "deaths": 18
+  },
+  {
+    "test_date": "2020-03-22",
+    "POSITIVES": 324,
+    "seven_day": 384.3,
+    "cum_positives": 4477,
+    "cum_deaths": 58,
+    "deaths": 9
+  },
+  {
+    "test_date": "2020-03-23",
+    "POSITIVES": 560,
+    "seven_day": 408,
+    "cum_positives": 5037,
+    "cum_deaths": 68,
+    "deaths": 10
+  },
+  {
+    "test_date": "2020-03-24",
+    "POSITIVES": 513,
+    "seven_day": 425.4,
+    "cum_positives": 5550,
+    "cum_deaths": 83,
+    "deaths": 15
+  },
+  {
+    "test_date": "2020-03-25",
+    "POSITIVES": 568,
+    "seven_day": 446.7,
+    "cum_positives": 6118,
+    "cum_deaths": 102,
+    "deaths": 19
+  },
+  {
+    "test_date": "2020-03-26",
+    "POSITIVES": 515,
+    "seven_day": 463.9,
+    "cum_positives": 6633,
+    "cum_deaths": 116,
+    "deaths": 14
+  },
+  {
+    "test_date": "2020-03-27",
+    "POSITIVES": 527,
+    "seven_day": 472.7,
+    "cum_positives": 7160,
+    "cum_deaths": 128,
+    "deaths": 12
+  },
+  {
+    "test_date": "2020-03-28",
+    "POSITIVES": 428,
+    "seven_day": 490.7,
+    "cum_positives": 7588,
+    "cum_deaths": 149,
+    "deaths": 21
+  },
+  {
+    "test_date": "2020-03-29",
+    "POSITIVES": 380,
+    "seven_day": 498.7,
+    "cum_positives": 7968,
+    "cum_deaths": 176,
+    "deaths": 27
+  },
+  {
+    "test_date": "2020-03-30",
+    "POSITIVES": 712,
+    "seven_day": 520.4,
+    "cum_positives": 8680,
+    "cum_deaths": 200,
+    "deaths": 24
+  },
+  {
+    "test_date": "2020-03-31",
+    "POSITIVES": 543,
+    "seven_day": 524.7,
+    "cum_positives": 9223,
+    "cum_deaths": 227,
+    "deaths": 27
+  },
+  {
+    "test_date": "2020-04-01",
+    "POSITIVES": 727,
+    "seven_day": 547.4,
+    "cum_positives": 9950,
+    "cum_deaths": 256,
+    "deaths": 29
+  },
+  {
+    "test_date": "2020-04-02",
+    "POSITIVES": 635,
+    "seven_day": 564.6,
+    "cum_positives": 10585,
+    "cum_deaths": 291,
+    "deaths": 35
+  },
+  {
+    "test_date": "2020-04-03",
+    "POSITIVES": 687,
+    "seven_day": 587.4,
+    "cum_positives": 11272,
+    "cum_deaths": 333,
+    "deaths": 42
+  },
+  {
+    "test_date": "2020-04-04",
+    "POSITIVES": 443,
+    "seven_day": 589.6,
+    "cum_positives": 11715,
+    "cum_deaths": 373,
+    "deaths": 40
+  },
+  {
+    "test_date": "2020-04-05",
+    "POSITIVES": 399,
+    "seven_day": 592.3,
+    "cum_positives": 12114,
+    "cum_deaths": 403,
+    "deaths": 30
+  },
+  {
+    "test_date": "2020-04-06",
+    "POSITIVES": 885,
+    "seven_day": 617,
+    "cum_positives": 12999,
+    "cum_deaths": 444,
+    "deaths": 41
+  },
+  {
+    "test_date": "2020-04-07",
+    "POSITIVES": 703,
+    "seven_day": 639.9,
+    "cum_positives": 13702,
+    "cum_deaths": 476,
+    "deaths": 32
+  },
+  {
+    "test_date": "2020-04-08",
+    "POSITIVES": 771,
+    "seven_day": 646.1,
+    "cum_positives": 14473,
+    "cum_deaths": 509,
+    "deaths": 33
+  },
+  {
+    "test_date": "2020-04-09",
+    "POSITIVES": 851,
+    "seven_day": 677,
+    "cum_positives": 15324,
+    "cum_deaths": 542,
+    "deaths": 33
+  },
+  {
+    "test_date": "2020-04-10",
+    "POSITIVES": 868,
+    "seven_day": 702.9,
+    "cum_positives": 16192,
+    "cum_deaths": 579,
+    "deaths": 37
+  },
+  {
+    "test_date": "2020-04-11",
+    "POSITIVES": 540,
+    "seven_day": 716.7,
+    "cum_positives": 16732,
+    "cum_deaths": 605,
+    "deaths": 26
+  },
+  {
+    "test_date": "2020-04-12",
+    "POSITIVES": 393,
+    "seven_day": 715.9,
+    "cum_positives": 17125,
+    "cum_deaths": 634,
+    "deaths": 29
+  },
+  {
+    "test_date": "2020-04-13",
+    "POSITIVES": 857,
+    "seven_day": 711.9,
+    "cum_positives": 17982,
+    "cum_deaths": 662,
+    "deaths": 28
+  },
+  {
+    "test_date": "2020-04-14",
+    "POSITIVES": 877,
+    "seven_day": 736.7,
+    "cum_positives": 18859,
+    "cum_deaths": 709,
+    "deaths": 47
+  },
+  {
+    "test_date": "2020-04-15",
+    "POSITIVES": 750,
+    "seven_day": 733.7,
+    "cum_positives": 19609,
+    "cum_deaths": 739,
+    "deaths": 30
+  },
+  {
+    "test_date": "2020-04-16",
+    "POSITIVES": 824,
+    "seven_day": 729.9,
+    "cum_positives": 20433,
+    "cum_deaths": 787,
+    "deaths": 48
+  },
+  {
+    "test_date": "2020-04-17",
+    "POSITIVES": 863,
+    "seven_day": 729.1,
+    "cum_positives": 21296,
+    "cum_deaths": 816,
+    "deaths": 29
+  },
+  {
+    "test_date": "2020-04-18",
+    "POSITIVES": 457,
+    "seven_day": 717.3,
+    "cum_positives": 21753,
+    "cum_deaths": 846,
+    "deaths": 30
+  },
+  {
+    "test_date": "2020-04-19",
+    "POSITIVES": 554,
+    "seven_day": 740.3,
+    "cum_positives": 22307,
+    "cum_deaths": 884,
+    "deaths": 38
+  },
+  {
+    "test_date": "2020-04-20",
+    "POSITIVES": 905,
+    "seven_day": 747.1,
+    "cum_positives": 23212,
+    "cum_deaths": 918,
+    "deaths": 34
+  },
+  {
+    "test_date": "2020-04-21",
+    "POSITIVES": 789,
+    "seven_day": 734.6,
+    "cum_positives": 24001,
+    "cum_deaths": 951,
+    "deaths": 33
+  },
+  {
+    "test_date": "2020-04-22",
+    "POSITIVES": 801,
+    "seven_day": 741.9,
+    "cum_positives": 24802,
+    "cum_deaths": 985,
+    "deaths": 34
+  },
+  {
+    "test_date": "2020-04-23",
+    "POSITIVES": 651,
+    "seven_day": 717.1,
+    "cum_positives": 25453,
+    "cum_deaths": 1013,
+    "deaths": 28
+  },
+  {
+    "test_date": "2020-04-24",
+    "POSITIVES": 740,
+    "seven_day": 699.6,
+    "cum_positives": 26193,
+    "cum_deaths": 1041,
+    "deaths": 28
+  },
+  {
+    "test_date": "2020-04-25",
+    "POSITIVES": 351,
+    "seven_day": 684.4,
+    "cum_positives": 26544,
+    "cum_deaths": 1071,
+    "deaths": 30
+  },
+  {
+    "test_date": "2020-04-26",
+    "POSITIVES": 248,
+    "seven_day": 640.7,
+    "cum_positives": 26792,
+    "cum_deaths": 1099,
+    "deaths": 28
+  },
+  {
+    "test_date": "2020-04-27",
+    "POSITIVES": 803,
+    "seven_day": 626.1,
+    "cum_positives": 27595,
+    "cum_deaths": 1132,
+    "deaths": 33
+  },
+  {
+    "test_date": "2020-04-28",
+    "POSITIVES": 716,
+    "seven_day": 615.7,
+    "cum_positives": 28311,
+    "cum_deaths": 1166,
+    "deaths": 34
+  },
+  {
+    "test_date": "2020-04-29",
+    "POSITIVES": 496,
+    "seven_day": 572.1,
+    "cum_positives": 28807,
+    "cum_deaths": 1194,
+    "deaths": 28
+  },
+  {
+    "test_date": "2020-04-30",
+    "POSITIVES": 380,
+    "seven_day": 533.4,
+    "cum_positives": 29187,
+    "cum_deaths": 1211,
+    "deaths": 17
+  },
+  {
+    "test_date": "2020-05-01",
+    "POSITIVES": 188,
+    "seven_day": 454.6,
+    "cum_positives": 29375,
+    "cum_deaths": 1225,
+    "deaths": 14
+  },
+  {
+    "test_date": "2020-05-02",
+    "POSITIVES": 40,
+    "seven_day": 410.1,
+    "cum_positives": 29415,
+    "cum_deaths": 1236,
+    "deaths": 11
+  },
+  {
+    "test_date": "2020-05-03",
+    "POSITIVES": 25,
+    "seven_day": 378.3,
+    "cum_positives": 29440,
+    "cum_deaths": 1244,
+    "deaths": 8
+  },
+  {
+    "test_date": "2020-05-04",
+    "POSITIVES": 36,
+    "seven_day": 268.7,
+    "cum_positives": 29476,
+    "cum_deaths": 1251,
+    "deaths": 7
+  },
+  {
+    "test_date": "2020-05-05",
+    "POSITIVES": 3,
+    "seven_day": 166.9,
+    "cum_positives": 29479,
+    "cum_deaths": 1255,
+    "deaths": 4
+  }
+]

@@ -1921,3 +1921,41 @@ date,county,state,fips,cases,deaths
 2020-05-03,Whatcom,Washington,53073,316,28
 2020-05-03,Whitman,Washington,53075,16,0
 2020-05-03,Yakima,Washington,53077,1411,48
+2020-05-04,Adams,Washington,53001,48,0
+2020-05-04,Asotin,Washington,53003,18,2
+2020-05-04,Benton,Washington,53005,532,44
+2020-05-04,Chelan,Washington,53007,123,6
+2020-05-04,Clallam,Washington,53009,18,0
+2020-05-04,Clark,Washington,53011,367,21
+2020-05-04,Columbia,Washington,53013,1,0
+2020-05-04,Cowlitz,Washington,53015,59,0
+2020-05-04,Douglas,Washington,53017,84,1
+2020-05-04,Ferry,Washington,53019,1,0
+2020-05-04,Franklin,Washington,53021,377,11
+2020-05-04,Grant,Washington,53025,179,2
+2020-05-04,Grays Harbor,Washington,53027,12,0
+2020-05-04,Island,Washington,53029,175,9
+2020-05-04,Jefferson,Washington,53031,28,0
+2020-05-04,King,Washington,53033,6584,465
+2020-05-04,Kitsap,Washington,53035,152,2
+2020-05-04,Kittitas,Washington,53037,14,0
+2020-05-04,Klickitat,Washington,53039,18,3
+2020-05-04,Lewis,Washington,53041,29,3
+2020-05-04,Lincoln,Washington,53043,2,0
+2020-05-04,Mason,Washington,53045,26,1
+2020-05-04,Okanogan,Washington,53047,25,1
+2020-05-04,Pacific,Washington,53049,4,0
+2020-05-04,Pend Oreille,Washington,53051,2,0
+2020-05-04,Pierce,Washington,53053,1531,52
+2020-05-04,San Juan,Washington,53055,14,0
+2020-05-04,Skagit,Washington,53057,357,13
+2020-05-04,Skamania,Washington,53059,3,0
+2020-05-04,Snohomish,Washington,53061,2552,110
+2020-05-04,Spokane,Washington,53063,378,22
+2020-05-04,Stevens,Washington,53065,9,1
+2020-05-04,Thurston,Washington,53067,113,1
+2020-05-04,Wahkiakum,Washington,53069,2,0
+2020-05-04,Walla Walla,Washington,53071,92,0
+2020-05-04,Whatcom,Washington,53073,317,28
+2020-05-04,Whitman,Washington,53075,16,0
+2020-05-04,Yakima,Washington,53077,1411,48

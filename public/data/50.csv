@@ -615,3 +615,17 @@ date,county,state,fips,cases,deaths
 2020-05-03,Washington,Vermont,50023,35,1
 2020-05-03,Windham,Vermont,50025,72,3
 2020-05-03,Windsor,Vermont,50027,42,2
+2020-05-04,Addison,Vermont,50001,61,2
+2020-05-04,Bennington,Vermont,50003,51,1
+2020-05-04,Caledonia,Vermont,50005,14,0
+2020-05-04,Chittenden,Vermont,50007,425,36
+2020-05-04,Essex,Vermont,50009,2,0
+2020-05-04,Franklin,Vermont,50011,99,5
+2020-05-04,Grand Isle,Vermont,50013,4,0
+2020-05-04,Lamoille,Vermont,50015,26,2
+2020-05-04,Orange,Vermont,50017,8,0
+2020-05-04,Orleans,Vermont,50019,9,0
+2020-05-04,Rutland,Vermont,50021,49,1
+2020-05-04,Washington,Vermont,50023,35,1
+2020-05-04,Windham,Vermont,50025,72,3
+2020-05-04,Windsor,Vermont,50027,43,2

@@ -148,3 +148,6 @@ date,county,state,fips,cases,deaths
 2020-05-03,Kent,Delaware,10001,821,30
 2020-05-03,New Castle,Delaware,10003,1903,79
 2020-05-03,Sussex,Delaware,10005,2461,68
+2020-05-04,Kent,Delaware,10001,833,30
+2020-05-04,New Castle,Delaware,10003,1934,82
+2020-05-04,Sussex,Delaware,10005,2497,70

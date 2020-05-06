@@ -734,3 +734,18 @@ date,county,state,fips,cases,deaths
 2020-05-03,Santa Cruz,Arizona,04023,34,0
 2020-05-03,Yavapai,Arizona,04025,89,2
 2020-05-03,Yuma,Arizona,04027,98,1
+2020-05-04,Apache,Arizona,04001,549,6
+2020-05-04,Cochise,Arizona,04003,39,0
+2020-05-04,Coconino,Arizona,04005,540,44
+2020-05-04,Gila,Arizona,04007,14,0
+2020-05-04,Graham,Arizona,04009,18,0
+2020-05-04,Greenlee,Arizona,04011,2,0
+2020-05-04,La Paz,Arizona,04012,14,2
+2020-05-04,Maricopa,Arizona,04013,4751,168
+2020-05-04,Mohave,Arizona,04015,141,15
+2020-05-04,Navajo,Arizona,04017,800,22
+2020-05-04,Pima,Arizona,04019,1346,89
+2020-05-04,Pinal,Arizona,04021,468,13
+2020-05-04,Santa Cruz,Arizona,04023,34,0
+2020-05-04,Yavapai,Arizona,04025,93,2
+2020-05-04,Yuma,Arizona,04027,110,1
