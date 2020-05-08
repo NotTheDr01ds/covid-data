@@ -51,7 +51,7 @@ date,county,state,fips,cases,deaths
 2020-03-17,Unknown,Maine,,3,0
 2020-03-17,Unknown,Massachusetts,,1,0
 2020-03-17,Unknown,New Jersey,,1,0
-2020-03-17,New York City,New York,,645,10
+2020-03-17,New York City,New York,,646,11
 2020-03-17,Unknown,Puerto Rico,,5,0
 2020-03-17,Unknown,Rhode Island,,23,0
 2020-03-17,Unknown,Virgin Islands,,2,0
@@ -60,7 +60,7 @@ date,county,state,fips,cases,deaths
 2020-03-18,Unknown,Maine,,3,0
 2020-03-18,Unknown,Massachusetts,,4,0
 2020-03-18,Unknown,New Jersey,,1,0
-2020-03-18,New York City,New York,,1339,20
+2020-03-18,New York City,New York,,1344,25
 2020-03-18,Unknown,Puerto Rico,,5,0
 2020-03-18,Unknown,Rhode Island,,33,0
 2020-03-18,Unknown,Virgin Islands,,3,0
@@ -71,7 +71,7 @@ date,county,state,fips,cases,deaths
 2020-03-19,Unknown,Massachusetts,,13,0
 2020-03-19,Unknown,Nevada,,4,0
 2020-03-19,Unknown,New Jersey,,1,0
-2020-03-19,New York City,New York,,2468,22
+2020-03-19,New York City,New York,,2477,31
 2020-03-19,Unknown,Puerto Rico,,6,0
 2020-03-19,Unknown,Rhode Island,,44,0
 2020-03-19,Unknown,Tennessee,,2,0
@@ -87,7 +87,7 @@ date,county,state,fips,cases,deaths
 2020-03-20,Unknown,Missouri,,1,0
 2020-03-20,Unknown,Nevada,,11,0
 2020-03-20,Unknown,New Jersey,,3,0
-2020-03-20,New York City,New York,,4408,43
+2020-03-20,New York City,New York,,4419,54
 2020-03-20,Unknown,Puerto Rico,,14,0
 2020-03-20,Unknown,Rhode Island,,44,0
 2020-03-20,Unknown,Tennessee,,2,0
@@ -104,7 +104,7 @@ date,county,state,fips,cases,deaths
 2020-03-21,Unknown,Missouri,,1,0
 2020-03-21,Unknown,Nevada,,11,0
 2020-03-21,Unknown,New Jersey,,151,0
-2020-03-21,New York City,New York,,6211,60
+2020-03-21,New York City,New York,,6226,75
 2020-03-21,Unknown,Puerto Rico,,21,1
 2020-03-21,Unknown,Rhode Island,,66,0
 2020-03-21,Unknown,Tennessee,,8,0
@@ -124,7 +124,7 @@ date,county,state,fips,cases,deaths
 2020-03-22,Unknown,Missouri,,1,0
 2020-03-22,Unknown,Nevada,,33,0
 2020-03-22,Unknown,New Jersey,,221,0
-2020-03-22,New York City,New York,,9045,99
+2020-03-22,New York City,New York,,9065,119
 2020-03-22,Unknown,Puerto Rico,,23,1
 2020-03-22,Unknown,Rhode Island,,83,0
 2020-03-22,Unknown,Tennessee,,28,0
@@ -146,7 +146,7 @@ date,county,state,fips,cases,deaths
 2020-03-23,Unknown,Missouri,,1,0
 2020-03-23,Unknown,Nevada,,82,0
 2020-03-23,Unknown,New Jersey,,416,0
-2020-03-23,New York City,New York,,12305,131
+2020-03-23,New York City,New York,,12329,155
 2020-03-23,Unknown,Puerto Rico,,31,2
 2020-03-23,Unknown,Rhode Island,,106,0
 2020-03-23,Unknown,Tennessee,,109,0
@@ -169,7 +169,7 @@ date,county,state,fips,cases,deaths
 2020-03-24,Unknown,Missouri,,72,0
 2020-03-24,Unknown,Nevada,,82,0
 2020-03-24,Unknown,New Jersey,,645,7
-2020-03-24,New York City,New York,,14905,192
+2020-03-24,New York City,New York,,14943,230
 2020-03-24,Unknown,Puerto Rico,,39,2
 2020-03-24,Unknown,Rhode Island,,124,0
 2020-03-24,Unknown,Tennessee,,109,0
@@ -192,7 +192,7 @@ date,county,state,fips,cases,deaths
 2020-03-25,Unknown,Missouri,,4,0
 2020-03-25,Unknown,Nevada,,90,4
 2020-03-25,Unknown,New Jersey,,933,7
-2020-03-25,New York City,New York,,20011,280
+2020-03-25,New York City,New York,,20061,330
 2020-03-25,Unknown,Puerto Rico,,51,2
 2020-03-25,Unknown,Rhode Island,,106,0
 2020-03-25,Unknown,Tennessee,,109,1
@@ -217,7 +217,7 @@ date,county,state,fips,cases,deaths
 2020-03-26,Unknown,Missouri,,10,0
 2020-03-26,Unknown,Nevada,,107,0
 2020-03-26,Unknown,New Jersey,,1478,7
-2020-03-26,New York City,New York,,23112,365
+2020-03-26,New York City,New York,,23182,435
 2020-03-26,Unknown,Ohio,,1,0
 2020-03-26,Unknown,Puerto Rico,,64,2
 2020-03-26,Unknown,Rhode Island,,106,0
@@ -245,7 +245,7 @@ date,county,state,fips,cases,deaths
 2020-03-27,Unknown,Missouri,,4,0
 2020-03-27,Unknown,Nevada,,91,0
 2020-03-27,Unknown,New Jersey,,1984,7
-2020-03-27,New York City,New York,,25399,450
+2020-03-27,New York City,New York,,25509,560
 2020-03-27,Unknown,Puerto Rico,,79,3
 2020-03-27,Unknown,Rhode Island,,132,0
 2020-03-27,Unknown,Tennessee,,172,4
@@ -271,7 +271,7 @@ date,county,state,fips,cases,deaths
 2020-03-28,Unknown,Missouri,,5,0
 2020-03-28,Unknown,Nevada,,101,0
 2020-03-28,Unknown,New Jersey,,2478,7
-2020-03-28,New York City,New York,,30766,672
+2020-03-28,New York City,New York,,30919,825
 2020-03-28,Unknown,Northern Mariana Islands,,2,0
 2020-03-28,Unknown,Puerto Rico,,100,3
 2020-03-28,Unknown,Rhode Island,,168,2
@@ -298,7 +298,7 @@ date,county,state,fips,cases,deaths
 2020-03-29,Unknown,Nebraska,,2,0
 2020-03-29,Unknown,Nevada,,269,0
 2020-03-29,Unknown,New Jersey,,3020,21
-2020-03-29,New York City,New York,,33768,776
+2020-03-29,New York City,New York,,33983,991
 2020-03-29,Unknown,Northern Mariana Islands,,2,0
 2020-03-29,Unknown,Puerto Rico,,127,5
 2020-03-29,Unknown,Rhode Island,,106,3
@@ -326,7 +326,7 @@ date,county,state,fips,cases,deaths
 2020-03-30,Unknown,Nebraska,,2,0
 2020-03-30,Unknown,Nevada,,150,0
 2020-03-30,Unknown,New Jersey,,3840,7
-2020-03-30,New York City,New York,,38087,914
+2020-03-30,New York City,New York,,38375,1202
 2020-03-30,Unknown,Northern Mariana Islands,,2,0
 2020-03-30,Unknown,Puerto Rico,,174,6
 2020-03-30,Unknown,Rhode Island,,106,4
@@ -356,7 +356,7 @@ date,county,state,fips,cases,deaths
 2020-03-31,Unknown,Nebraska,,2,0
 2020-03-31,Unknown,Nevada,,103,0
 2020-03-31,Unknown,New Jersey,,3683,7
-2020-03-31,New York City,New York,,43139,1096
+2020-03-31,New York City,New York,,43518,1475
 2020-03-31,Unknown,Northern Mariana Islands,,2,0
 2020-03-31,Unknown,Puerto Rico,,239,8
 2020-03-31,Unknown,Rhode Island,,179,8
@@ -386,7 +386,7 @@ date,county,state,fips,cases,deaths
 2020-04-01,Unknown,Nebraska,,3,0
 2020-04-01,Unknown,Nevada,,131,0
 2020-04-01,Unknown,New Jersey,,4512,7
-2020-04-01,New York City,New York,,47440,1374
+2020-04-01,New York City,New York,,47914,1848
 2020-04-01,Unknown,Northern Mariana Islands,,6,1
 2020-04-01,Unknown,Puerto Rico,,286,11
 2020-04-01,Unknown,Rhode Island,,179,8
@@ -413,7 +413,7 @@ date,county,state,fips,cases,deaths
 2020-04-02,Unknown,Nebraska,,1,0
 2020-04-02,Unknown,Nevada,,142,0
 2020-04-02,Unknown,New Jersey,,4866,4
-2020-04-02,New York City,New York,,51810,1562
+2020-04-02,New York City,New York,,52400,2152
 2020-04-02,Unknown,Northern Mariana Islands,,8,1
 2020-04-02,Unknown,Puerto Rico,,316,12
 2020-04-02,Unknown,Rhode Island,,105,9
@@ -440,7 +440,7 @@ date,county,state,fips,cases,deaths
 2020-04-03,Unknown,Missouri,,3,0
 2020-04-03,Unknown,New Jersey,,4805,4
 2020-04-03,Unknown,New Mexico,,2,0
-2020-04-03,New York City,New York,,57160,1867
+2020-04-03,New York City,New York,,57941,2648
 2020-04-03,Unknown,New York,,37,608
 2020-04-03,Unknown,Northern Mariana Islands,,8,1
 2020-04-03,Unknown,Pennsylvania,,0,1
@@ -472,7 +472,7 @@ date,county,state,fips,cases,deaths
 2020-04-04,Unknown,New Hampshire,,3,0
 2020-04-04,Unknown,New Jersey,,3935,11
 2020-04-04,Unknown,New Mexico,,2,0
-2020-04-04,New York City,New York,,63307,2254
+2020-04-04,New York City,New York,,64274,3221
 2020-04-04,Unknown,New York,,0,309
 2020-04-04,Unknown,Northern Mariana Islands,,8,1
 2020-04-04,Unknown,Pennsylvania,,0,1
@@ -502,7 +502,7 @@ date,county,state,fips,cases,deaths
 2020-04-05,Unknown,Nevada,,52,0
 2020-04-05,Unknown,New Hampshire,,6,0
 2020-04-05,Unknown,New Jersey,,3821,11
-2020-04-05,New York City,New York,,67552,2472
+2020-04-05,New York City,New York,,68726,3646
 2020-04-05,Unknown,New York,,0,678
 2020-04-05,Unknown,Northern Mariana Islands,,8,1
 2020-04-05,Unknown,Pennsylvania,,0,1
@@ -531,7 +531,7 @@ date,county,state,fips,cases,deaths
 2020-04-06,Unknown,Missouri,,2,0
 2020-04-06,Unknown,Nevada,,32,12
 2020-04-06,Unknown,New Jersey,,3521,14
-2020-04-06,New York City,New York,,72181,3485
+2020-04-06,New York City,New York,,73553,4857
 2020-04-06,Unknown,New York,,2091,728
 2020-04-06,Unknown,Northern Mariana Islands,,8,1
 2020-04-06,Unknown,Puerto Rico,,513,21
@@ -560,7 +560,7 @@ date,county,state,fips,cases,deaths
 2020-04-07,Unknown,Missouri,,2,0
 2020-04-07,Unknown,New Hampshire,,1,0
 2020-04-07,Unknown,New Jersey,,2220,5
-2020-04-07,New York City,New York,,76876,4009
+2020-04-07,New York City,New York,,78498,5631
 2020-04-07,Unknown,Northern Mariana Islands,,8,2
 2020-04-07,Unknown,Puerto Rico,,573,23
 2020-04-07,Unknown,Rhode Island,,223,13
@@ -589,7 +589,7 @@ date,county,state,fips,cases,deaths
 2020-04-08,Unknown,Nevada,,53,6
 2020-04-08,Unknown,New Hampshire,,1,0
 2020-04-08,Unknown,New Jersey,,1362,4
-2020-04-08,New York City,New York,,81803,4571
+2020-04-08,New York City,New York,,83673,6441
 2020-04-08,Unknown,Northern Mariana Islands,,11,2
 2020-04-08,Unknown,Puerto Rico,,620,24
 2020-04-08,Unknown,Rhode Island,,297,15
@@ -614,7 +614,7 @@ date,county,state,fips,cases,deaths
 2020-04-09,Unknown,Missouri,,1,0
 2020-04-09,Unknown,Nevada,,20,0
 2020-04-09,Unknown,New Jersey,,996,12
-2020-04-09,New York City,New York,,87028,5150
+2020-04-09,New York City,New York,,89127,7249
 2020-04-09,Unknown,Northern Mariana Islands,,11,2
 2020-04-09,Unknown,Puerto Rico,,683,33
 2020-04-09,Unknown,Rhode Island,,424,23
@@ -643,7 +643,7 @@ date,county,state,fips,cases,deaths
 2020-04-10,Kansas City,Missouri,,283,8
 2020-04-10,Unknown,Missouri,,1,0
 2020-04-10,Unknown,New Jersey,,649,2
-2020-04-10,New York City,New York,,92384,5663
+2020-04-10,New York City,New York,,94702,7981
 2020-04-10,Unknown,North Dakota,,0,1
 2020-04-10,Unknown,Northern Mariana Islands,,11,2
 2020-04-10,Unknown,Puerto Rico,,725,39
@@ -675,7 +675,7 @@ date,county,state,fips,cases,deaths
 2020-04-11,Unknown,Nevada,,0,3
 2020-04-11,Unknown,New Hampshire,,1,0
 2020-04-11,Unknown,New Jersey,,924,2
-2020-04-11,New York City,New York,,98308,6202
+2020-04-11,New York City,New York,,100840,8734
 2020-04-11,Unknown,Northern Mariana Islands,,11,2
 2020-04-11,Unknown,Puerto Rico,,788,42
 2020-04-11,Unknown,Rhode Island,,673,36
@@ -704,7 +704,7 @@ date,county,state,fips,cases,deaths
 2020-04-12,Unknown,Missouri,,1,0
 2020-04-12,Unknown,New Hampshire,,1,0
 2020-04-12,Unknown,New Jersey,,1274,2
-2020-04-12,New York City,New York,,103208,6717
+2020-04-12,New York City,New York,,105939,9448
 2020-04-12,Unknown,Northern Mariana Islands,,11,2
 2020-04-12,Unknown,Puerto Rico,,897,44
 2020-04-12,Unknown,Rhode Island,,989,43
@@ -734,7 +734,7 @@ date,county,state,fips,cases,deaths
 2020-04-13,Unknown,Nebraska,,1,0
 2020-04-13,Unknown,New Hampshire,,1,0
 2020-04-13,Unknown,New Jersey,,1203,2
-2020-04-13,New York City,New York,,106764,7154
+2020-04-13,New York City,New York,,109706,10096
 2020-04-13,Unknown,Northern Mariana Islands,,11,2
 2020-04-13,Unknown,Puerto Rico,,903,45
 2020-04-13,Unknown,Rhode Island,,1300,53
@@ -765,7 +765,7 @@ date,county,state,fips,cases,deaths
 2020-04-14,Unknown,Nevada,,0,9
 2020-04-14,Unknown,New Hampshire,,1,0
 2020-04-14,Unknown,New Jersey,,1702,2
-2020-04-14,New York City,New York,,110465,7690
+2020-04-14,New York City,New York,,113632,10857
 2020-04-14,Unknown,Northern Mariana Islands,,13,2
 2020-04-14,Unknown,Puerto Rico,,923,45
 2020-04-14,Unknown,Rhode Island,,756,60
@@ -794,7 +794,7 @@ date,county,state,fips,cases,deaths
 2020-04-15,Unknown,Missouri,,1,0
 2020-04-15,Unknown,Nevada,,0,6
 2020-04-15,Unknown,New Jersey,,1189,2
-2020-04-15,New York City,New York,,118302,8215
+2020-04-15,New York City,New York,,121653,11566
 2020-04-15,Unknown,North Dakota,,1,0
 2020-04-15,Unknown,Northern Mariana Islands,,13,2
 2020-04-15,Unknown,Puerto Rico,,974,51
@@ -825,7 +825,7 @@ date,county,state,fips,cases,deaths
 2020-04-16,Unknown,Nevada,,16,4
 2020-04-16,Unknown,New Hampshire,,1,0
 2020-04-16,Unknown,New Jersey,,1048,3
-2020-04-16,New York City,New York,,123146,8632
+2020-04-16,New York City,New York,,126623,12109
 2020-04-16,Unknown,North Dakota,,1,0
 2020-04-16,Unknown,Northern Mariana Islands,,13,2
 2020-04-16,Unknown,Puerto Rico,,1043,56
@@ -857,7 +857,7 @@ date,county,state,fips,cases,deaths
 2020-04-17,Unknown,Nevada,,80,0
 2020-04-17,Unknown,New Hampshire,,2,0
 2020-04-17,Unknown,New Jersey,,719,3
-2020-04-17,New York City,New York,,127352,8632
+2020-04-17,New York City,New York,,131003,12283
 2020-04-17,Unknown,New York,,0,630
 2020-04-17,Unknown,North Dakota,,1,0
 2020-04-17,Unknown,Northern Mariana Islands,,14,2
@@ -890,7 +890,7 @@ date,county,state,fips,cases,deaths
 2020-04-18,Unknown,Nevada,,6,3
 2020-04-18,Unknown,New Hampshire,,0,1
 2020-04-18,Unknown,New Jersey,,748,2
-2020-04-18,New York City,New York,,131273,8632
+2020-04-18,New York City,New York,,135052,12411
 2020-04-18,Unknown,New York,,0,1170
 2020-04-18,Unknown,Northern Mariana Islands,,14,2
 2020-04-18,Unknown,Puerto Rico,,1118,60
@@ -920,7 +920,7 @@ date,county,state,fips,cases,deaths
 2020-04-19,Unknown,Nebraska,,7,0
 2020-04-19,Unknown,New Hampshire,,2,1
 2020-04-19,Unknown,New Jersey,,585,0
-2020-04-19,New York City,New York,,134446,9708
+2020-04-19,New York City,New York,,138370,13632
 2020-04-19,Unknown,Northern Mariana Islands,,14,2
 2020-04-19,Unknown,Puerto Rico,,1213,41
 2020-04-19,Unknown,Rhode Island,,715,130
@@ -950,7 +950,7 @@ date,county,state,fips,cases,deaths
 2020-04-20,Unknown,Nevada,,34,4
 2020-04-20,Unknown,New Hampshire,,4,1
 2020-04-20,Unknown,New Jersey,,660,1
-2020-04-20,New York City,New York,,136816,10009
+2020-04-20,New York City,New York,,140881,14074
 2020-04-20,Unknown,Northern Mariana Islands,,14,2
 2020-04-20,Unknown,Puerto Rico,,1252,42
 2020-04-20,Unknown,Rhode Island,,861,135
@@ -978,7 +978,7 @@ date,county,state,fips,cases,deaths
 2020-04-21,Unknown,Nevada,,10,0
 2020-04-21,Unknown,New Hampshire,,15,1
 2020-04-21,Unknown,New Jersey,,599,0
-2020-04-21,New York City,New York,,139335,10301
+2020-04-21,New York City,New York,,143547,14513
 2020-04-21,Unknown,Northern Mariana Islands,,14,2
 2020-04-21,Unknown,Puerto Rico,,915,43
 2020-04-21,Unknown,Rhode Island,,1000,151
@@ -1008,7 +1008,7 @@ date,county,state,fips,cases,deaths
 2020-04-22,Unknown,New Hampshire,,15,1
 2020-04-22,Unknown,New Jersey,,591,2
 2020-04-22,Unknown,New Mexico,,1,0
-2020-04-22,New York City,New York,,142442,10614
+2020-04-22,New York City,New York,,146787,14959
 2020-04-22,Unknown,Northern Mariana Islands,,14,2
 2020-04-22,Unknown,Puerto Rico,,915,46
 2020-04-22,Unknown,Rhode Island,,1000,161
@@ -1022,7 +1022,7 @@ date,county,state,fips,cases,deaths
 2020-04-23,Unknown,Delaware,,3,0
 2020-04-23,Unknown,Florida,,8,0
 2020-04-23,Unknown,Georgia,,361,0
-2020-04-23,Unknown,Guam,,975,6
+2020-04-23,Unknown,Guam,,979,6
 2020-04-23,Unknown,Illinois,,191,0
 2020-04-23,Unknown,Iowa,,3,7
 2020-04-23,Unknown,Louisiana,,62,0
@@ -1036,9 +1036,9 @@ date,county,state,fips,cases,deaths
 2020-04-23,Unknown,Nevada,,1,5
 2020-04-23,Unknown,New Hampshire,,11,1
 2020-04-23,Unknown,New Jersey,,1108,2
-2020-04-23,New York City,New York,,145855,10889
+2020-04-23,New York City,New York,,150327,15361
 2020-04-23,Unknown,Northern Mariana Islands,,14,2
-2020-04-23,Unknown,Puerto Rico,,1230,46
+2020-04-23,Unknown,Puerto Rico,,1230,69
 2020-04-23,Unknown,Rhode Island,,1000,169
 2020-04-23,Unknown,Utah,,0,1
 2020-04-23,Unknown,Vermont,,3,0
@@ -1048,12 +1048,12 @@ date,county,state,fips,cases,deaths
 2020-04-24,Unknown,Connecticut,,507,2
 2020-04-24,Unknown,Delaware,,4,0
 2020-04-24,Unknown,Georgia,,447,0
-2020-04-24,Unknown,Guam,,993,6
+2020-04-24,Unknown,Guam,,997,6
 2020-04-24,Unknown,Illinois,,218,0
 2020-04-24,Unknown,Iowa,,0,1
 2020-04-24,Unknown,Kentucky,,19,0
 2020-04-24,Unknown,Louisiana,,63,0
-2020-04-24,Unknown,Maryland,,0,92
+2020-04-24,Unknown,Maryland,,0,101
 2020-04-24,Unknown,Massachusetts,,791,12
 2020-04-24,Unknown,Michigan,,1050,29
 2020-04-24,Unknown,Minnesota,,6,0
@@ -1062,9 +1062,9 @@ date,county,state,fips,cases,deaths
 2020-04-24,Unknown,Nevada,,43,5
 2020-04-24,Unknown,New Hampshire,,3,1
 2020-04-24,Unknown,New Jersey,,532,0
-2020-04-24,New York City,New York,,150484,11157
+2020-04-24,New York City,New York,,155081,15754
 2020-04-24,Unknown,Northern Mariana Islands,,14,2
-2020-04-24,Unknown,Puerto Rico,,1276,51
+2020-04-24,Unknown,Puerto Rico,,1276,77
 2020-04-24,Unknown,Rhode Island,,1132,182
 2020-04-24,Unknown,Utah,,1,1
 2020-04-24,Unknown,Vermont,,3,0
@@ -1075,7 +1075,7 @@ date,county,state,fips,cases,deaths
 2020-04-25,Unknown,Delaware,,3,0
 2020-04-25,Unknown,Florida,,1,0
 2020-04-25,Unknown,Georgia,,608,1
-2020-04-25,Unknown,Guam,,993,6
+2020-04-25,Unknown,Guam,,997,6
 2020-04-25,Unknown,Illinois,,274,0
 2020-04-25,Unknown,Kentucky,,35,5
 2020-04-25,Unknown,Louisiana,,63,0
@@ -1089,9 +1089,9 @@ date,county,state,fips,cases,deaths
 2020-04-25,Unknown,Nevada,,16,0
 2020-04-25,Unknown,New Hampshire,,6,1
 2020-04-25,Unknown,New Jersey,,557,0
-2020-04-25,New York City,New York,,155124,11419
+2020-04-25,New York City,New York,,159851,16146
 2020-04-25,Unknown,Northern Mariana Islands,,14,2
-2020-04-25,Unknown,Puerto Rico,,1307,52
+2020-04-25,Unknown,Puerto Rico,,1307,83
 2020-04-25,Unknown,Rhode Island,,1198,96
 2020-04-25,Unknown,Utah,,0,1
 2020-04-25,Unknown,Vermont,,5,0
@@ -1101,7 +1101,7 @@ date,county,state,fips,cases,deaths
 2020-04-26,Unknown,Connecticut,,522,0
 2020-04-26,Unknown,Delaware,,9,0
 2020-04-26,Unknown,Georgia,,622,0
-2020-04-26,Unknown,Guam,,993,6
+2020-04-26,Unknown,Guam,,997,6
 2020-04-26,Unknown,Illinois,,308,0
 2020-04-26,Unknown,Kentucky,,13,0
 2020-04-26,Unknown,Louisiana,,64,0
@@ -1113,9 +1113,9 @@ date,county,state,fips,cases,deaths
 2020-04-26,Kansas City,Missouri,,493,15
 2020-04-26,Unknown,New Hampshire,,5,1
 2020-04-26,Unknown,New Jersey,,681,0
-2020-04-26,New York City,New York,,158268,11648
+2020-04-26,New York City,New York,,163106,16486
 2020-04-26,Unknown,Northern Mariana Islands,,14,2
-2020-04-26,Unknown,Puerto Rico,,1371,53
+2020-04-26,Unknown,Puerto Rico,,1371,84
 2020-04-26,Unknown,Rhode Island,,1109,111
 2020-04-26,Unknown,Utah,,0,1
 2020-04-26,Unknown,Vermont,,5,0
@@ -1127,13 +1127,13 @@ date,county,state,fips,cases,deaths
 2020-04-27,Unknown,Delaware,,11,0
 2020-04-27,Unknown,Florida,,1,0
 2020-04-27,Unknown,Georgia,,600,2
-2020-04-27,Unknown,Guam,,1000,6
+2020-04-27,Unknown,Guam,,1113,6
 2020-04-27,Unknown,Illinois,,338,0
 2020-04-27,Unknown,Iowa,,7,8
 2020-04-27,Unknown,Kentucky,,11,0
 2020-04-27,Unknown,Louisiana,,64,0
 2020-04-27,Unknown,Maine,,2,0
-2020-04-27,Unknown,Maryland,,0,71
+2020-04-27,Unknown,Maryland,,0,86
 2020-04-27,Unknown,Massachusetts,,795,8
 2020-04-27,Unknown,Michigan,,1134,39
 2020-04-27,Unknown,Minnesota,,5,0
@@ -1142,26 +1142,26 @@ date,county,state,fips,cases,deaths
 2020-04-27,Unknown,New Hampshire,,11,1
 2020-04-27,Unknown,New Jersey,,818,0
 2020-04-27,Unknown,New Mexico,,0,5
-2020-04-27,New York City,New York,,160499,11857
+2020-04-27,New York City,New York,,165463,16821
 2020-04-27,Unknown,Northern Mariana Islands,,14,2
-2020-04-27,Unknown,Puerto Rico,,1388,53
+2020-04-27,Unknown,Puerto Rico,,1388,84
 2020-04-27,Unknown,Rhode Island,,1378,118
 2020-04-27,Unknown,Utah,,0,2
 2020-04-27,Unknown,Vermont,,3,0
 2020-04-27,Unknown,Virgin Islands,,59,4
 2020-04-28,Unknown,Arkansas,,220,0
-2020-04-28,Unknown,Colorado,,88,0
+2020-04-28,Unknown,Colorado,,88,1
 2020-04-28,Unknown,Connecticut,,491,2
 2020-04-28,Unknown,Delaware,,32,0
 2020-04-28,Unknown,Florida,,4,0
 2020-04-28,Unknown,Georgia,,268,0
-2020-04-28,Unknown,Guam,,1001,6
+2020-04-28,Unknown,Guam,,1114,6
 2020-04-28,Unknown,Illinois,,335,0
 2020-04-28,Unknown,Iowa,,13,0
 2020-04-28,Unknown,Kentucky,,28,0
 2020-04-28,Unknown,Louisiana,,61,0
 2020-04-28,Unknown,Maine,,1,0
-2020-04-28,Unknown,Maryland,,0,93
+2020-04-28,Unknown,Maryland,,0,106
 2020-04-28,Unknown,Massachusetts,,625,5
 2020-04-28,Unknown,Michigan,,1167,41
 2020-04-28,Unknown,Minnesota,,6,0
@@ -1170,26 +1170,26 @@ date,county,state,fips,cases,deaths
 2020-04-28,Unknown,New Hampshire,,7,1
 2020-04-28,Unknown,New Jersey,,718,0
 2020-04-28,Unknown,New Mexico,,0,5
-2020-04-28,New York City,New York,,162348,12067
+2020-04-28,New York City,New York,,167487,17206
 2020-04-28,Unknown,Northern Mariana Islands,,14,2
-2020-04-28,Unknown,Puerto Rico,,1400,54
+2020-04-28,Unknown,Puerto Rico,,1400,86
 2020-04-28,Unknown,Rhode Island,,1267,124
 2020-04-28,Unknown,Utah,,0,2
 2020-04-28,Unknown,Vermont,,3,0
 2020-04-28,Unknown,Virgin Islands,,59,4
 2020-04-28,Unknown,Virginia,,2,0
 2020-04-29,Unknown,Arkansas,,167,0
-2020-04-29,Unknown,Colorado,,67,0
+2020-04-29,Unknown,Colorado,,67,1
 2020-04-29,Unknown,Connecticut,,507,1
 2020-04-29,Unknown,Delaware,,26,0
 2020-04-29,Unknown,Florida,,7,0
-2020-04-29,Unknown,Guam,,1110,6
+2020-04-29,Unknown,Guam,,1114,6
 2020-04-29,Unknown,Illinois,,354,0
 2020-04-29,Unknown,Iowa,,20,0
 2020-04-29,Unknown,Kentucky,,31,0
 2020-04-29,Unknown,Louisiana,,61,0
 2020-04-29,Unknown,Maine,,2,0
-2020-04-29,Unknown,Maryland,,0,66
+2020-04-29,Unknown,Maryland,,13,79
 2020-04-29,Unknown,Massachusetts,,457,5
 2020-04-29,Unknown,Michigan,,1350,42
 2020-04-29,Unknown,Minnesota,,7,0
@@ -1197,27 +1197,27 @@ date,county,state,fips,cases,deaths
 2020-04-29,Unknown,Nevada,,0,6
 2020-04-29,Unknown,New Hampshire,,4,1
 2020-04-29,Unknown,New Jersey,,617,0
-2020-04-29,New York City,New York,,164852,12325
+2020-04-29,New York City,New York,,170124,17597
 2020-04-29,Unknown,Northern Mariana Islands,,14,2
-2020-04-29,Unknown,Puerto Rico,,1433,54
+2020-04-29,Unknown,Puerto Rico,,1465,86
 2020-04-29,Unknown,Rhode Island,,1065,104
 2020-04-29,Unknown,Utah,,0,2
 2020-04-29,Unknown,Vermont,,3,0
 2020-04-29,Unknown,Virgin Islands,,66,4
 2020-04-29,Unknown,Virginia,,2,0
 2020-04-30,Unknown,Arkansas,,168,0
-2020-04-30,Unknown,Colorado,,81,0
+2020-04-30,Unknown,Colorado,,81,1
 2020-04-30,Unknown,Connecticut,,462,2
 2020-04-30,Unknown,Delaware,,25,0
 2020-04-30,Unknown,Florida,,7,0
 2020-04-30,Unknown,Georgia,,395,0
-2020-04-30,Unknown,Guam,,1111,6
+2020-04-30,Unknown,Guam,,1115,6
 2020-04-30,Unknown,Illinois,,378,0
 2020-04-30,Unknown,Iowa,,24,0
 2020-04-30,Unknown,Kentucky,,31,0
 2020-04-30,Unknown,Louisiana,,61,0
 2020-04-30,Unknown,Maine,,1,0
-2020-04-30,Unknown,Maryland,,0,65
+2020-04-30,Unknown,Maryland,,10,75
 2020-04-30,Unknown,Massachusetts,,415,5
 2020-04-30,Unknown,Michigan,,1542,44
 2020-04-30,Unknown,Minnesota,,9,0
@@ -1225,9 +1225,9 @@ date,county,state,fips,cases,deaths
 2020-04-30,Unknown,Nevada,,0,6
 2020-04-30,Unknown,New Hampshire,,3,0
 2020-04-30,Unknown,New Jersey,,478,0
-2020-04-30,New York City,New York,,167489,12514
+2020-04-30,New York City,New York,,172784,17809
 2020-04-30,Unknown,Northern Mariana Islands,,14,2
-2020-04-30,Unknown,Puerto Rico,,1537,54
+2020-04-30,Unknown,Puerto Rico,,1537,92
 2020-04-30,Unknown,Rhode Island,,1087,119
 2020-04-30,Unknown,Utah,,11,2
 2020-04-30,Unknown,Vermont,,3,0
@@ -1239,12 +1239,12 @@ date,county,state,fips,cases,deaths
 2020-05-01,Unknown,Delaware,,24,0
 2020-05-01,Unknown,Florida,,8,0
 2020-05-01,Unknown,Georgia,,647,0
-2020-05-01,Unknown,Guam,,1111,6
+2020-05-01,Unknown,Guam,,1115,6
 2020-05-01,Unknown,Illinois,,363,0
 2020-05-01,Unknown,Iowa,,63,0
 2020-05-01,Unknown,Kentucky,,38,0
 2020-05-01,Unknown,Louisiana,,63,0
-2020-05-01,Unknown,Maryland,,0,91
+2020-05-01,Unknown,Maryland,,9,100
 2020-05-01,Unknown,Massachusetts,,425,6
 2020-05-01,Unknown,Michigan,,1666,45
 2020-05-01,Unknown,Minnesota,,13,1
@@ -1253,9 +1253,9 @@ date,county,state,fips,cases,deaths
 2020-05-01,Unknown,Nevada,,0,10
 2020-05-01,Unknown,New Hampshire,,15,0
 2020-05-01,Unknown,New Jersey,,583,0
-2020-05-01,New York City,New York,,169701,12700
+2020-05-01,New York City,New York,,174931,17931
 2020-05-01,Unknown,Northern Mariana Islands,,14,2
-2020-05-01,Unknown,Puerto Rico,,1573,54
+2020-05-01,Unknown,Puerto Rico,,1573,94
 2020-05-01,Unknown,Rhode Island,,1104,132
 2020-05-01,Unknown,Utah,,0,1
 2020-05-01,Unknown,Vermont,,3,0
@@ -1267,11 +1267,11 @@ date,county,state,fips,cases,deaths
 2020-05-02,Unknown,Delaware,,22,0
 2020-05-02,Unknown,Florida,,9,0
 2020-05-02,Unknown,Georgia,,652,0
-2020-05-02,Unknown,Guam,,1113,6
+2020-05-02,Unknown,Guam,,1117,6
 2020-05-02,Unknown,Illinois,,278,0
 2020-05-02,Unknown,Iowa,,95,0
 2020-05-02,Unknown,Louisiana,,63,0
-2020-05-02,Unknown,Maryland,,0,64
+2020-05-02,Unknown,Maryland,,8,72
 2020-05-02,Unknown,Massachusetts,,377,5
 2020-05-02,Unknown,Michigan,,1934,44
 2020-05-02,Unknown,Minnesota,,14,1
@@ -1281,9 +1281,9 @@ date,county,state,fips,cases,deaths
 2020-05-02,Unknown,New Hampshire,,26,0
 2020-05-02,Unknown,New Jersey,,676,0
 2020-05-02,Unknown,New Mexico,,0,1
-2020-05-02,New York City,New York,,172364,12895
+2020-05-02,New York City,New York,,177490,18021
 2020-05-02,Unknown,Northern Mariana Islands,,14,2
-2020-05-02,Unknown,Puerto Rico,,1755,54
+2020-05-02,Unknown,Puerto Rico,,1755,95
 2020-05-02,Unknown,Rhode Island,,1142,149
 2020-05-02,Unknown,Utah,,0,2
 2020-05-02,Unknown,Vermont,,3,0
@@ -1295,11 +1295,11 @@ date,county,state,fips,cases,deaths
 2020-05-03,Unknown,Delaware,,23,0
 2020-05-03,Unknown,Florida,,12,0
 2020-05-03,Unknown,Georgia,,694,0
-2020-05-03,Unknown,Guam,,1115,6
+2020-05-03,Unknown,Guam,,1118,6
 2020-05-03,Unknown,Illinois,,257,0
 2020-05-03,Unknown,Iowa,,124,0
 2020-05-03,Unknown,Louisiana,,63,0
-2020-05-03,Unknown,Maryland,,0,46
+2020-05-03,Unknown,Maryland,,10,56
 2020-05-03,Unknown,Massachusetts,,981,7
 2020-05-03,Unknown,Michigan,,1949,44
 2020-05-03,Unknown,Minnesota,,17,1
@@ -1308,9 +1308,9 @@ date,county,state,fips,cases,deaths
 2020-05-03,Unknown,New Hampshire,,19,0
 2020-05-03,Unknown,New Jersey,,641,0
 2020-05-03,Unknown,New Mexico,,0,1
-2020-05-03,New York City,New York,,174341,13064
+2020-05-03,New York City,New York,,179728,18451
 2020-05-03,Unknown,Northern Mariana Islands,,14,2
-2020-05-03,Unknown,Puerto Rico,,1806,54
+2020-05-03,Unknown,Puerto Rico,,1806,97
 2020-05-03,Unknown,Rhode Island,,1086,1
 2020-05-03,Unknown,Utah,,8,2
 2020-05-03,Unknown,Vermont,,4,0
@@ -1322,12 +1322,12 @@ date,county,state,fips,cases,deaths
 2020-05-04,Unknown,Delaware,,24,0
 2020-05-04,Unknown,Florida,,12,0
 2020-05-04,Unknown,Georgia,,703,3
-2020-05-04,Unknown,Guam,,1114,6
+2020-05-04,Unknown,Guam,,1118,6
 2020-05-04,Unknown,Illinois,,277,0
 2020-05-04,Unknown,Iowa,,95,0
 2020-05-04,Unknown,Louisiana,,63,0
 2020-05-04,Unknown,Maine,,2,0
-2020-05-04,Unknown,Maryland,,0,55
+2020-05-04,Unknown,Maryland,,10,65
 2020-05-04,Unknown,Massachusetts,,662,7
 2020-05-04,Unknown,Michigan,,1976,48
 2020-05-04,Unknown,Minnesota,,16,1
@@ -1337,11 +1337,96 @@ date,county,state,fips,cases,deaths
 2020-05-04,Unknown,New Hampshire,,15,0
 2020-05-04,Unknown,New Jersey,,647,0
 2020-05-04,Unknown,New Mexico,,0,6
-2020-05-04,New York City,New York,,175661,13207
+2020-05-04,New York City,New York,,181034,18580
 2020-05-04,Unknown,Northern Mariana Islands,,14,2
-2020-05-04,Unknown,Puerto Rico,,1843,54
+2020-05-04,Unknown,Puerto Rico,,1875,97
 2020-05-04,Unknown,Rhode Island,,1133,22
 2020-05-04,Unknown,Utah,,0,2
 2020-05-04,Unknown,Vermont,,4,0
 2020-05-04,Unknown,Virgin Islands,,66,4
 2020-05-04,Unknown,Virginia,,2,0
+2020-05-05,Unknown,Arkansas,,163,0
+2020-05-05,Unknown,Colorado,,81,1
+2020-05-05,Unknown,Connecticut,,368,2
+2020-05-05,Unknown,Delaware,,25,0
+2020-05-05,Unknown,Florida,,14,0
+2020-05-05,Unknown,Georgia,,617,0
+2020-05-05,Unknown,Guam,,1118,6
+2020-05-05,Unknown,Illinois,,236,0
+2020-05-05,Unknown,Kentucky,,21,0
+2020-05-05,Unknown,Louisiana,,63,0
+2020-05-05,Unknown,Maryland,,7,78
+2020-05-05,Unknown,Massachusetts,,594,7
+2020-05-05,Unknown,Michigan,,2009,51
+2020-05-05,Unknown,Minnesota,,20,1
+2020-05-05,Kansas City,Missouri,,683,16
+2020-05-05,Unknown,Nevada,,0,8
+2020-05-05,Unknown,New Hampshire,,15,0
+2020-05-05,Unknown,New Jersey,,550,0
+2020-05-05,New York City,New York,,182318,18719
+2020-05-05,Unknown,Northern Mariana Islands,,14,2
+2020-05-05,Unknown,Puerto Rico,,1924,99
+2020-05-05,Unknown,Rhode Island,,1414,36
+2020-05-05,Unknown,Utah,,0,3
+2020-05-05,Unknown,Vermont,,4,0
+2020-05-05,Unknown,Virgin Islands,,66,4
+2020-05-05,Unknown,Virginia,,2,0
+2020-05-06,Unknown,Arkansas,,145,0
+2020-05-06,Unknown,Colorado,,54,1
+2020-05-06,Unknown,Connecticut,,305,2
+2020-05-06,Unknown,Delaware,,36,0
+2020-05-06,Unknown,Florida,,31,0
+2020-05-06,Unknown,Georgia,,529,0
+2020-05-06,Unknown,Guam,,1118,6
+2020-05-06,Unknown,Illinois,,105,0
+2020-05-06,Unknown,Iowa,,13,0
+2020-05-06,Unknown,Kentucky,,0,1
+2020-05-06,Unknown,Louisiana,,63,1
+2020-05-06,Unknown,Maryland,,6,78
+2020-05-06,Unknown,Massachusetts,,326,3
+2020-05-06,Unknown,Michigan,,2041,50
+2020-05-06,Unknown,Minnesota,,9,0
+2020-05-06,Kansas City,Missouri,,706,16
+2020-05-06,Unknown,Nevada,,0,5
+2020-05-06,Unknown,New Hampshire,,20,0
+2020-05-06,Unknown,New Jersey,,594,0
+2020-05-06,New York City,New York,,183770,18993
+2020-05-06,Unknown,New York,,0,236
+2020-05-06,Unknown,Northern Mariana Islands,,15,2
+2020-05-06,Unknown,Puerto Rico,,1968,99
+2020-05-06,Unknown,Rhode Island,,1686,51
+2020-05-06,Unknown,Utah,,0,3
+2020-05-06,Unknown,Vermont,,4,0
+2020-05-06,Unknown,Virgin Islands,,66,4
+2020-05-06,Unknown,Virginia,,2,0
+2020-05-07,Unknown,Arkansas,,153,0
+2020-05-07,Unknown,California,,2,0
+2020-05-07,Unknown,Colorado,,46,1
+2020-05-07,Unknown,Connecticut,,285,2
+2020-05-07,Unknown,Delaware,,30,0
+2020-05-07,Unknown,Florida,,33,0
+2020-05-07,Unknown,Georgia,,852,0
+2020-05-07,Unknown,Guam,,1118,6
+2020-05-07,Unknown,Illinois,,102,0
+2020-05-07,Unknown,Iowa,,8,0
+2020-05-07,Unknown,Kentucky,,3,1
+2020-05-07,Unknown,Louisiana,,63,1
+2020-05-07,Unknown,Maine,,2,0
+2020-05-07,Unknown,Maryland,,8,95
+2020-05-07,Unknown,Massachusetts,,328,3
+2020-05-07,Unknown,Michigan,,2172,53
+2020-05-07,Unknown,Minnesota,,18,0
+2020-05-07,Kansas City,Missouri,,723,16
+2020-05-07,Unknown,Nebraska,,37,2
+2020-05-07,Unknown,Nevada,,0,4
+2020-05-07,Unknown,New Hampshire,,21,0
+2020-05-07,Unknown,New Jersey,,552,0
+2020-05-07,New York City,New York,,185653,19141
+2020-05-07,Unknown,Northern Mariana Islands,,15,2
+2020-05-07,Unknown,Puerto Rico,,2031,102
+2020-05-07,Unknown,Rhode Island,,2011,69
+2020-05-07,Unknown,Tennessee,,77,0
+2020-05-07,Unknown,Utah,,1,3
+2020-05-07,Unknown,Vermont,,4,0
+2020-05-07,Unknown,Virgin Islands,,66,4
+2020-05-07,Unknown,Virginia,,2,0

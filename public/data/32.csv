@@ -449,7 +449,7 @@ date,county,state,fips,cases,deaths
 2020-05-03,Churchill,Nevada,32001,3,1
 2020-05-03,Clark,Nevada,32003,4274,218
 2020-05-03,Douglas,Nevada,32005,21,0
-2020-05-03,Elko,Nevada,32007,15,1
+2020-05-03,Elko,Nevada,32007,39,1
 2020-05-03,Humboldt,Nevada,32013,49,3
 2020-05-03,Lander,Nevada,32015,8,0
 2020-05-03,Lyon,Nevada,32019,34,0
@@ -461,7 +461,7 @@ date,county,state,fips,cases,deaths
 2020-05-04,Churchill,Nevada,32001,3,1
 2020-05-04,Clark,Nevada,32003,4411,223
 2020-05-04,Douglas,Nevada,32005,21,0
-2020-05-04,Elko,Nevada,32007,15,1
+2020-05-04,Elko,Nevada,32007,42,1
 2020-05-04,Humboldt,Nevada,32013,53,3
 2020-05-04,Lander,Nevada,32015,8,0
 2020-05-04,Lyon,Nevada,32019,34,0
@@ -469,3 +469,39 @@ date,county,state,fips,cases,deaths
 2020-05-04,Nye,Nevada,32023,39,0
 2020-05-04,Washoe,Nevada,32031,988,35
 2020-05-04,White Pine,Nevada,32033,3,0
+2020-05-05,Carson City,Nevada,32510,51,1
+2020-05-05,Churchill,Nevada,32001,5,1
+2020-05-05,Clark,Nevada,32003,4411,226
+2020-05-05,Douglas,Nevada,32005,22,0
+2020-05-05,Elko,Nevada,32007,45,1
+2020-05-05,Humboldt,Nevada,32013,53,3
+2020-05-05,Lander,Nevada,32015,13,0
+2020-05-05,Lyon,Nevada,32019,35,0
+2020-05-05,Mineral,Nevada,32021,4,0
+2020-05-05,Nye,Nevada,32023,39,0
+2020-05-05,Washoe,Nevada,32031,1014,36
+2020-05-05,White Pine,Nevada,32033,3,0
+2020-05-06,Carson City,Nevada,32510,51,1
+2020-05-06,Churchill,Nevada,32001,5,1
+2020-05-06,Clark,Nevada,32003,4473,238
+2020-05-06,Douglas,Nevada,32005,22,0
+2020-05-06,Elko,Nevada,32007,45,1
+2020-05-06,Humboldt,Nevada,32013,58,3
+2020-05-06,Lander,Nevada,32015,14,0
+2020-05-06,Lyon,Nevada,32019,35,0
+2020-05-06,Mineral,Nevada,32021,4,0
+2020-05-06,Nye,Nevada,32023,42,0
+2020-05-06,Washoe,Nevada,32031,1022,37
+2020-05-06,White Pine,Nevada,32033,3,0
+2020-05-07,Carson City,Nevada,32510,51,1
+2020-05-07,Churchill,Nevada,32001,5,1
+2020-05-07,Clark,Nevada,32003,4573,245
+2020-05-07,Douglas,Nevada,32005,22,0
+2020-05-07,Elko,Nevada,32007,45,1
+2020-05-07,Humboldt,Nevada,32013,58,3
+2020-05-07,Lander,Nevada,32015,17,0
+2020-05-07,Lyon,Nevada,32019,36,0
+2020-05-07,Mineral,Nevada,32021,4,0
+2020-05-07,Nye,Nevada,32023,44,0
+2020-05-07,Washoe,Nevada,32031,1030,38
+2020-05-07,White Pine,Nevada,32033,3,0

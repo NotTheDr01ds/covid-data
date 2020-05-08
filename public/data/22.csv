@@ -499,7 +499,6 @@ date,county,state,fips,cases,deaths
 2020-03-29,Bossier,Louisiana,22015,56,0
 2020-03-29,Caddo,Louisiana,22017,219,5
 2020-03-29,Calcasieu,Louisiana,22019,35,1
-2020-03-29,Caldwell,Louisiana,22021,1,0
 2020-03-29,Catahoula,Louisiana,22025,1,1
 2020-03-29,Claiborne,Louisiana,22027,4,0
 2020-03-29,De Soto,Louisiana,22031,25,1
@@ -558,7 +557,6 @@ date,county,state,fips,cases,deaths
 2020-03-30,Bossier,Louisiana,22015,57,0
 2020-03-30,Caddo,Louisiana,22017,222,5
 2020-03-30,Calcasieu,Louisiana,22019,42,1
-2020-03-30,Caldwell,Louisiana,22021,1,0
 2020-03-30,Catahoula,Louisiana,22025,3,1
 2020-03-30,Claiborne,Louisiana,22027,4,0
 2020-03-30,De Soto,Louisiana,22031,28,1
@@ -753,6 +751,7 @@ date,county,state,fips,cases,deaths
 2020-04-02,Jackson,Louisiana,22049,4,0
 2020-04-02,Jefferson,Louisiana,22051,2178,73
 2020-04-02,Jefferson Davis,Louisiana,22053,13,0
+2020-04-02,LaSalle,Louisiana,22059,2,0
 2020-04-02,Lafayette,Louisiana,22055,247,2
 2020-04-02,Lafourche,Louisiana,22057,158,4
 2020-04-02,Lincoln,Louisiana,22061,13,0
@@ -813,6 +812,7 @@ date,county,state,fips,cases,deaths
 2020-04-03,Jackson,Louisiana,22049,4,0
 2020-04-03,Jefferson,Louisiana,22051,2495,85
 2020-04-03,Jefferson Davis,Louisiana,22053,14,0
+2020-04-03,LaSalle,Louisiana,22059,2,0
 2020-04-03,Lafayette,Louisiana,22055,276,2
 2020-04-03,Lafourche,Louisiana,22057,185,3
 2020-04-03,Lincoln,Louisiana,22061,17,0
@@ -873,6 +873,7 @@ date,county,state,fips,cases,deaths
 2020-04-04,Jackson,Louisiana,22049,1,0
 2020-04-04,Jefferson,Louisiana,22051,3008,95
 2020-04-04,Jefferson Davis,Louisiana,22053,9,0
+2020-04-04,LaSalle,Louisiana,22059,4,0
 2020-04-04,Lafayette,Louisiana,22055,229,4
 2020-04-04,Lafourche,Louisiana,22057,217,3
 2020-04-04,Lincoln,Louisiana,22061,17,0
@@ -933,6 +934,7 @@ date,county,state,fips,cases,deaths
 2020-04-05,Jackson,Louisiana,22049,1,0
 2020-04-05,Jefferson,Louisiana,22051,3088,113
 2020-04-05,Jefferson Davis,Louisiana,22053,13,0
+2020-04-05,LaSalle,Louisiana,22059,4,0
 2020-04-05,Lafayette,Louisiana,22055,247,5
 2020-04-05,Lafourche,Louisiana,22057,228,4
 2020-04-05,Lincoln,Louisiana,22061,18,0
@@ -2817,3 +2819,195 @@ date,county,state,fips,cases,deaths
 2020-05-04,West Carroll,Louisiana,22123,4,0
 2020-05-04,West Feliciana,Louisiana,22125,153,3
 2020-05-04,Winn,Louisiana,22127,44,2
+2020-05-05,Acadia,Louisiana,22001,136,10
+2020-05-05,Allen,Louisiana,22003,90,9
+2020-05-05,Ascension,Louisiana,22005,657,40
+2020-05-05,Assumption,Louisiana,22007,202,6
+2020-05-05,Avoyelles,Louisiana,22009,73,7
+2020-05-05,Beauregard,Louisiana,22011,43,3
+2020-05-05,Bienville,Louisiana,22013,78,14
+2020-05-05,Bossier,Louisiana,22015,300,17
+2020-05-05,Caddo,Louisiana,22017,1639,123
+2020-05-05,Calcasieu,Louisiana,22019,470,34
+2020-05-05,Caldwell,Louisiana,22021,40,0
+2020-05-05,Cameron,Louisiana,22023,3,0
+2020-05-05,Catahoula,Louisiana,22025,46,3
+2020-05-05,Claiborne,Louisiana,22027,58,7
+2020-05-05,Concordia,Louisiana,22029,41,4
+2020-05-05,De Soto,Louisiana,22031,202,13
+2020-05-05,East Baton Rouge,Louisiana,22033,2175,163
+2020-05-05,East Carroll,Louisiana,22035,9,0
+2020-05-05,East Feliciana,Louisiana,22037,131,16
+2020-05-05,Evangeline,Louisiana,22039,63,1
+2020-05-05,Franklin,Louisiana,22041,140,3
+2020-05-05,Grant,Louisiana,22043,17,0
+2020-05-05,Iberia,Louisiana,22045,274,23
+2020-05-05,Iberville,Louisiana,22047,484,32
+2020-05-05,Jackson,Louisiana,22049,48,3
+2020-05-05,Jefferson,Louisiana,22051,6491,381
+2020-05-05,Jefferson Davis,Louisiana,22053,65,6
+2020-05-05,LaSalle,Louisiana,22059,27,0
+2020-05-05,Lafayette,Louisiana,22055,473,20
+2020-05-05,Lafourche,Louisiana,22057,686,53
+2020-05-05,Lincoln,Louisiana,22061,96,10
+2020-05-05,Livingston,Louisiana,22063,247,18
+2020-05-05,Madison,Louisiana,22065,8,0
+2020-05-05,Morehouse,Louisiana,22067,55,4
+2020-05-05,Natchitoches,Louisiana,22069,90,6
+2020-05-05,Orleans,Louisiana,22071,6575,453
+2020-05-05,Ouachita,Louisiana,22073,793,22
+2020-05-05,Plaquemines,Louisiana,22075,181,17
+2020-05-05,Pointe Coupee,Louisiana,22077,114,17
+2020-05-05,Rapides,Louisiana,22079,308,11
+2020-05-05,Red River,Louisiana,22081,34,6
+2020-05-05,Richland,Louisiana,22083,84,1
+2020-05-05,Sabine,Louisiana,22085,17,1
+2020-05-05,St. Bernard,Louisiana,22087,502,20
+2020-05-05,St. Charles,Louisiana,22089,589,41
+2020-05-05,St. Helena,Louisiana,22091,32,1
+2020-05-05,St. James,Louisiana,22093,254,20
+2020-05-05,St. John the Baptist,Louisiana,22095,782,75
+2020-05-05,St. Landry,Louisiana,22097,198,47
+2020-05-05,St. Martin,Louisiana,22099,247,19
+2020-05-05,St. Mary,Louisiana,22101,212,23
+2020-05-05,St. Tammany,Louisiana,22103,1369,118
+2020-05-05,Tangipahoa,Louisiana,22105,605,23
+2020-05-05,Tensas,Louisiana,22107,2,0
+2020-05-05,Terrebonne,Louisiana,22109,469,32
+2020-05-05,Union,Louisiana,22111,144,7
+2020-05-05,Vermilion,Louisiana,22113,40,1
+2020-05-05,Vernon,Louisiana,22115,17,2
+2020-05-05,Washington,Louisiana,22117,292,23
+2020-05-05,Webster,Louisiana,22119,95,4
+2020-05-05,West Baton Rouge,Louisiana,22121,115,23
+2020-05-05,West Carroll,Louisiana,22123,4,0
+2020-05-05,West Feliciana,Louisiana,22125,156,4
+2020-05-05,Winn,Louisiana,22127,46,2
+2020-05-06,Acadia,Louisiana,22001,140,10
+2020-05-06,Allen,Louisiana,22003,90,9
+2020-05-06,Ascension,Louisiana,22005,664,44
+2020-05-06,Assumption,Louisiana,22007,203,8
+2020-05-06,Avoyelles,Louisiana,22009,74,7
+2020-05-06,Beauregard,Louisiana,22011,44,4
+2020-05-06,Bienville,Louisiana,22013,78,15
+2020-05-06,Bossier,Louisiana,22015,303,18
+2020-05-06,Caddo,Louisiana,22017,1667,124
+2020-05-06,Calcasieu,Louisiana,22019,475,35
+2020-05-06,Caldwell,Louisiana,22021,41,0
+2020-05-06,Cameron,Louisiana,22023,3,0
+2020-05-06,Catahoula,Louisiana,22025,46,2
+2020-05-06,Claiborne,Louisiana,22027,58,7
+2020-05-06,Concordia,Louisiana,22029,42,4
+2020-05-06,De Soto,Louisiana,22031,205,13
+2020-05-06,East Baton Rouge,Louisiana,22033,2224,165
+2020-05-06,East Carroll,Louisiana,22035,11,0
+2020-05-06,East Feliciana,Louisiana,22037,132,18
+2020-05-06,Evangeline,Louisiana,22039,63,1
+2020-05-06,Franklin,Louisiana,22041,146,4
+2020-05-06,Grant,Louisiana,22043,17,0
+2020-05-06,Iberia,Louisiana,22045,278,24
+2020-05-06,Iberville,Louisiana,22047,489,32
+2020-05-06,Jackson,Louisiana,22049,56,4
+2020-05-06,Jefferson,Louisiana,22051,6554,387
+2020-05-06,Jefferson Davis,Louisiana,22053,66,6
+2020-05-06,LaSalle,Louisiana,22059,29,0
+2020-05-06,Lafayette,Louisiana,22055,477,21
+2020-05-06,Lafourche,Louisiana,22057,692,53
+2020-05-06,Lincoln,Louisiana,22061,99,11
+2020-05-06,Livingston,Louisiana,22063,266,18
+2020-05-06,Madison,Louisiana,22065,8,0
+2020-05-06,Morehouse,Louisiana,22067,55,4
+2020-05-06,Natchitoches,Louisiana,22069,91,8
+2020-05-06,Orleans,Louisiana,22071,6608,464
+2020-05-06,Ouachita,Louisiana,22073,806,24
+2020-05-06,Plaquemines,Louisiana,22075,183,17
+2020-05-06,Pointe Coupee,Louisiana,22077,117,17
+2020-05-06,Rapides,Louisiana,22079,316,11
+2020-05-06,Red River,Louisiana,22081,34,6
+2020-05-06,Richland,Louisiana,22083,86,1
+2020-05-06,Sabine,Louisiana,22085,17,1
+2020-05-06,St. Bernard,Louisiana,22087,505,20
+2020-05-06,St. Charles,Louisiana,22089,590,43
+2020-05-06,St. Helena,Louisiana,22091,32,1
+2020-05-06,St. James,Louisiana,22093,256,20
+2020-05-06,St. John the Baptist,Louisiana,22095,790,74
+2020-05-06,St. Landry,Louisiana,22097,202,48
+2020-05-06,St. Martin,Louisiana,22099,252,19
+2020-05-06,St. Mary,Louisiana,22101,215,24
+2020-05-06,St. Tammany,Louisiana,22103,1406,120
+2020-05-06,Tangipahoa,Louisiana,22105,631,25
+2020-05-06,Tensas,Louisiana,22107,2,0
+2020-05-06,Terrebonne,Louisiana,22109,476,33
+2020-05-06,Union,Louisiana,22111,148,7
+2020-05-06,Vermilion,Louisiana,22113,40,2
+2020-05-06,Vernon,Louisiana,22115,17,2
+2020-05-06,Washington,Louisiana,22117,298,24
+2020-05-06,Webster,Louisiana,22119,96,4
+2020-05-06,West Baton Rouge,Louisiana,22121,118,24
+2020-05-06,West Carroll,Louisiana,22123,4,0
+2020-05-06,West Feliciana,Louisiana,22125,158,4
+2020-05-06,Winn,Louisiana,22127,47,2
+2020-05-07,Acadia,Louisiana,22001,142,11
+2020-05-07,Allen,Louisiana,22003,90,9
+2020-05-07,Ascension,Louisiana,22005,672,46
+2020-05-07,Assumption,Louisiana,22007,206,9
+2020-05-07,Avoyelles,Louisiana,22009,74,7
+2020-05-07,Beauregard,Louisiana,22011,44,4
+2020-05-07,Bienville,Louisiana,22013,78,16
+2020-05-07,Bossier,Louisiana,22015,307,18
+2020-05-07,Caddo,Louisiana,22017,1690,126
+2020-05-07,Calcasieu,Louisiana,22019,478,37
+2020-05-07,Caldwell,Louisiana,22021,41,0
+2020-05-07,Cameron,Louisiana,22023,3,0
+2020-05-07,Catahoula,Louisiana,22025,46,2
+2020-05-07,Claiborne,Louisiana,22027,58,9
+2020-05-07,Concordia,Louisiana,22029,42,4
+2020-05-07,De Soto,Louisiana,22031,207,13
+2020-05-07,East Baton Rouge,Louisiana,22033,2256,170
+2020-05-07,East Carroll,Louisiana,22035,14,0
+2020-05-07,East Feliciana,Louisiana,22037,132,19
+2020-05-07,Evangeline,Louisiana,22039,64,1
+2020-05-07,Franklin,Louisiana,22041,145,4
+2020-05-07,Grant,Louisiana,22043,17,0
+2020-05-07,Iberia,Louisiana,22045,281,26
+2020-05-07,Iberville,Louisiana,22047,492,33
+2020-05-07,Jackson,Louisiana,22049,57,4
+2020-05-07,Jefferson,Louisiana,22051,6588,391
+2020-05-07,Jefferson Davis,Louisiana,22053,66,6
+2020-05-07,LaSalle,Louisiana,22059,30,0
+2020-05-07,Lafayette,Louisiana,22055,479,21
+2020-05-07,Lafourche,Louisiana,22057,693,55
+2020-05-07,Lincoln,Louisiana,22061,101,11
+2020-05-07,Livingston,Louisiana,22063,268,19
+2020-05-07,Madison,Louisiana,22065,8,0
+2020-05-07,Morehouse,Louisiana,22067,57,5
+2020-05-07,Natchitoches,Louisiana,22069,91,8
+2020-05-07,Orleans,Louisiana,22071,6626,463
+2020-05-07,Ouachita,Louisiana,22073,814,25
+2020-05-07,Plaquemines,Louisiana,22075,185,17
+2020-05-07,Pointe Coupee,Louisiana,22077,120,17
+2020-05-07,Rapides,Louisiana,22079,316,11
+2020-05-07,Red River,Louisiana,22081,34,6
+2020-05-07,Richland,Louisiana,22083,91,1
+2020-05-07,Sabine,Louisiana,22085,17,1
+2020-05-07,St. Bernard,Louisiana,22087,508,20
+2020-05-07,St. Charles,Louisiana,22089,594,43
+2020-05-07,St. Helena,Louisiana,22091,32,1
+2020-05-07,St. James,Louisiana,22093,256,20
+2020-05-07,St. John the Baptist,Louisiana,22095,791,76
+2020-05-07,St. Landry,Louisiana,22097,203,49
+2020-05-07,St. Martin,Louisiana,22099,254,20
+2020-05-07,St. Mary,Louisiana,22101,222,24
+2020-05-07,St. Tammany,Louisiana,22103,1415,124
+2020-05-07,Tangipahoa,Louisiana,22105,635,26
+2020-05-07,Tensas,Louisiana,22107,3,0
+2020-05-07,Terrebonne,Louisiana,22109,499,35
+2020-05-07,Union,Louisiana,22111,151,8
+2020-05-07,Vermilion,Louisiana,22113,40,2
+2020-05-07,Vernon,Louisiana,22115,17,2
+2020-05-07,Washington,Louisiana,22117,308,24
+2020-05-07,Webster,Louisiana,22119,97,4
+2020-05-07,West Baton Rouge,Louisiana,22121,118,24
+2020-05-07,West Carroll,Louisiana,22123,4,0
+2020-05-07,West Feliciana,Louisiana,22125,174,5
+2020-05-07,Winn,Louisiana,22127,48,2

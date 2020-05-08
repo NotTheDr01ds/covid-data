@@ -262,7 +262,7 @@ date,county,state,fips,cases,deaths
 2020-04-02,Utah,Utah,49049,105,0
 2020-04-02,Wasatch,Utah,49051,61,0
 2020-04-02,Washington,Utah,49053,19,0
-2020-04-02,Weber,Utah,49057,47,1
+2020-04-02,Weber,Utah,49057,50,1
 2020-04-03,Box Elder,Utah,49003,10,0
 2020-04-03,Cache,Utah,49005,15,0
 2020-04-03,Carbon,Utah,49007,1,0
@@ -275,7 +275,7 @@ date,county,state,fips,cases,deaths
 2020-04-03,Juab,Utah,49023,1,0
 2020-04-03,Kane,Utah,49025,1,0
 2020-04-03,Millard,Utah,49027,1,0
-2020-04-03,Morgan,Utah,49029,7,0
+2020-04-03,Morgan,Utah,49029,3,0
 2020-04-03,Salt Lake,Utah,49035,541,1
 2020-04-03,San Juan,Utah,49037,5,0
 2020-04-03,Summit,Utah,49043,222,0
@@ -284,7 +284,7 @@ date,county,state,fips,cases,deaths
 2020-04-03,Utah,Utah,49049,150,0
 2020-04-03,Wasatch,Utah,49051,69,0
 2020-04-03,Washington,Utah,49053,21,0
-2020-04-03,Weber,Utah,49057,63,1
+2020-04-03,Weber,Utah,49057,55,1
 2020-04-04,Box Elder,Utah,49003,10,0
 2020-04-04,Cache,Utah,49005,15,0
 2020-04-04,Carbon,Utah,49007,1,0
@@ -297,7 +297,7 @@ date,county,state,fips,cases,deaths
 2020-04-04,Juab,Utah,49023,1,0
 2020-04-04,Kane,Utah,49025,1,0
 2020-04-04,Millard,Utah,49027,1,0
-2020-04-04,Morgan,Utah,49029,5,0
+2020-04-04,Morgan,Utah,49029,3,0
 2020-04-04,Salt Lake,Utah,49035,650,1
 2020-04-04,San Juan,Utah,49037,5,0
 2020-04-04,Summit,Utah,49043,230,0
@@ -319,7 +319,7 @@ date,county,state,fips,cases,deaths
 2020-04-05,Juab,Utah,49023,1,0
 2020-04-05,Kane,Utah,49025,2,0
 2020-04-05,Millard,Utah,49027,1,0
-2020-04-05,Morgan,Utah,49029,5,0
+2020-04-05,Morgan,Utah,49029,3,0
 2020-04-05,Salt Lake,Utah,49035,741,1
 2020-04-05,San Juan,Utah,49037,5,0
 2020-04-05,Summit,Utah,49043,256,0
@@ -328,7 +328,7 @@ date,county,state,fips,cases,deaths
 2020-04-05,Utah,Utah,49049,216,0
 2020-04-05,Wasatch,Utah,49051,78,0
 2020-04-05,Washington,Utah,49053,24,0
-2020-04-05,Weber,Utah,49057,53,1
+2020-04-05,Weber,Utah,49057,68,1
 2020-04-06,Box Elder,Utah,49003,10,0
 2020-04-06,Cache,Utah,49005,20,0
 2020-04-06,Carbon,Utah,49007,1,0
@@ -341,7 +341,7 @@ date,county,state,fips,cases,deaths
 2020-04-06,Juab,Utah,49023,2,0
 2020-04-06,Kane,Utah,49025,2,0
 2020-04-06,Millard,Utah,49027,4,0
-2020-04-06,Morgan,Utah,49029,8,0
+2020-04-06,Morgan,Utah,49029,3,0
 2020-04-06,Salt Lake,Utah,49035,741,1
 2020-04-06,San Juan,Utah,49037,5,0
 2020-04-06,Summit,Utah,49043,260,0
@@ -350,7 +350,7 @@ date,county,state,fips,cases,deaths
 2020-04-06,Utah,Utah,49049,223,0
 2020-04-06,Wasatch,Utah,49051,79,0
 2020-04-06,Washington,Utah,49053,24,0
-2020-04-06,Weber,Utah,49057,78,1
+2020-04-06,Weber,Utah,49057,70,1
 2020-04-07,Box Elder,Utah,49003,11,0
 2020-04-07,Cache,Utah,49005,23,0
 2020-04-07,Carbon,Utah,49007,1,0
@@ -363,7 +363,7 @@ date,county,state,fips,cases,deaths
 2020-04-07,Juab,Utah,49023,2,0
 2020-04-07,Kane,Utah,49025,2,0
 2020-04-07,Millard,Utah,49027,2,0
-2020-04-07,Morgan,Utah,49029,8,0
+2020-04-07,Morgan,Utah,49029,3,0
 2020-04-07,Salt Lake,Utah,49035,807,1
 2020-04-07,San Juan,Utah,49037,5,0
 2020-04-07,Summit,Utah,49043,265,0
@@ -372,7 +372,7 @@ date,county,state,fips,cases,deaths
 2020-04-07,Utah,Utah,49049,236,0
 2020-04-07,Wasatch,Utah,49051,80,0
 2020-04-07,Washington,Utah,49053,26,0
-2020-04-07,Weber,Utah,49057,83,1
+2020-04-07,Weber,Utah,49057,73,1
 2020-04-08,Box Elder,Utah,49003,13,0
 2020-04-08,Cache,Utah,49005,28,0
 2020-04-08,Carbon,Utah,49007,2,0
@@ -385,7 +385,7 @@ date,county,state,fips,cases,deaths
 2020-04-08,Juab,Utah,49023,2,0
 2020-04-08,Kane,Utah,49025,2,0
 2020-04-08,Millard,Utah,49027,4,0
-2020-04-08,Morgan,Utah,49029,8,0
+2020-04-08,Morgan,Utah,49029,3,0
 2020-04-08,Salt Lake,Utah,49035,868,7
 2020-04-08,San Juan,Utah,49037,6,0
 2020-04-08,Summit,Utah,49043,273,0
@@ -394,7 +394,7 @@ date,county,state,fips,cases,deaths
 2020-04-08,Utah,Utah,49049,267,0
 2020-04-08,Wasatch,Utah,49051,82,0
 2020-04-08,Washington,Utah,49053,27,0
-2020-04-08,Weber,Utah,49057,84,1
+2020-04-08,Weber,Utah,49057,74,1
 2020-04-09,Box Elder,Utah,49003,13,0
 2020-04-09,Cache,Utah,49005,29,0
 2020-04-09,Carbon,Utah,49007,2,0
@@ -407,6 +407,7 @@ date,county,state,fips,cases,deaths
 2020-04-09,Juab,Utah,49023,2,0
 2020-04-09,Kane,Utah,49025,3,0
 2020-04-09,Millard,Utah,49027,4,0
+2020-04-09,Morgan,Utah,49029,3,0
 2020-04-09,Salt Lake,Utah,49035,935,7
 2020-04-09,San Juan,Utah,49037,6,0
 2020-04-09,Summit,Utah,49043,289,0
@@ -415,7 +416,7 @@ date,county,state,fips,cases,deaths
 2020-04-09,Utah,Utah,49049,272,0
 2020-04-09,Wasatch,Utah,49051,88,0
 2020-04-09,Washington,Utah,49053,31,0
-2020-04-09,Weber,Utah,49057,87,1
+2020-04-09,Weber,Utah,49057,84,1
 2020-04-10,Box Elder,Utah,49003,12,0
 2020-04-10,Cache,Utah,49005,30,0
 2020-04-10,Carbon,Utah,49007,2,0
@@ -428,6 +429,7 @@ date,county,state,fips,cases,deaths
 2020-04-10,Juab,Utah,49023,2,0
 2020-04-10,Kane,Utah,49025,3,0
 2020-04-10,Millard,Utah,49027,4,0
+2020-04-10,Morgan,Utah,49029,3,0
 2020-04-10,Salt Lake,Utah,49035,1011,7
 2020-04-10,San Juan,Utah,49037,6,0
 2020-04-10,Summit,Utah,49043,296,0
@@ -436,7 +438,7 @@ date,county,state,fips,cases,deaths
 2020-04-10,Utah,Utah,49049,283,0
 2020-04-10,Wasatch,Utah,49051,96,0
 2020-04-10,Washington,Utah,49053,35,0
-2020-04-10,Weber,Utah,49057,90,1
+2020-04-10,Weber,Utah,49057,87,1
 2020-04-11,Box Elder,Utah,49003,12,0
 2020-04-11,Cache,Utah,49005,30,0
 2020-04-11,Carbon,Utah,49007,2,0
@@ -449,7 +451,7 @@ date,county,state,fips,cases,deaths
 2020-04-11,Juab,Utah,49023,2,0
 2020-04-11,Kane,Utah,49025,3,0
 2020-04-11,Millard,Utah,49027,4,0
-2020-04-11,Morgan,Utah,49029,6,0
+2020-04-11,Morgan,Utah,49029,3,0
 2020-04-11,Salt Lake,Utah,49035,1071,7
 2020-04-11,San Juan,Utah,49037,8,0
 2020-04-11,Summit,Utah,49043,300,0
@@ -458,7 +460,7 @@ date,county,state,fips,cases,deaths
 2020-04-11,Utah,Utah,49049,295,0
 2020-04-11,Wasatch,Utah,49051,98,1
 2020-04-11,Washington,Utah,49053,35,0
-2020-04-11,Weber,Utah,49057,84,1
+2020-04-11,Weber,Utah,49057,89,1
 2020-04-12,Box Elder,Utah,49003,12,0
 2020-04-12,Cache,Utah,49005,33,0
 2020-04-12,Carbon,Utah,49007,2,0
@@ -471,7 +473,7 @@ date,county,state,fips,cases,deaths
 2020-04-12,Juab,Utah,49023,2,0
 2020-04-12,Kane,Utah,49025,3,0
 2020-04-12,Millard,Utah,49027,4,0
-2020-04-12,Morgan,Utah,49029,7,0
+2020-04-12,Morgan,Utah,49029,3,0
 2020-04-12,Salt Lake,Utah,49035,1126,7
 2020-04-12,San Juan,Utah,49037,8,0
 2020-04-12,Summit,Utah,49043,304,0
@@ -480,7 +482,7 @@ date,county,state,fips,cases,deaths
 2020-04-12,Utah,Utah,49049,313,0
 2020-04-12,Wasatch,Utah,49051,103,1
 2020-04-12,Washington,Utah,49053,36,0
-2020-04-12,Weber,Utah,49057,87,1
+2020-04-12,Weber,Utah,49057,93,1
 2020-04-13,Box Elder,Utah,49003,13,0
 2020-04-13,Cache,Utah,49005,36,0
 2020-04-13,Carbon,Utah,49007,2,0
@@ -493,7 +495,7 @@ date,county,state,fips,cases,deaths
 2020-04-13,Juab,Utah,49023,2,0
 2020-04-13,Kane,Utah,49025,3,0
 2020-04-13,Millard,Utah,49027,4,0
-2020-04-13,Morgan,Utah,49029,7,0
+2020-04-13,Morgan,Utah,49029,3,0
 2020-04-13,Salt Lake,Utah,49035,1157,7
 2020-04-13,San Juan,Utah,49037,9,0
 2020-04-13,Summit,Utah,49043,306,0
@@ -502,7 +504,7 @@ date,county,state,fips,cases,deaths
 2020-04-13,Utah,Utah,49049,322,0
 2020-04-13,Wasatch,Utah,49051,103,1
 2020-04-13,Washington,Utah,49053,36,0
-2020-04-13,Weber,Utah,49057,91,1
+2020-04-13,Weber,Utah,49057,100,1
 2020-04-14,Box Elder,Utah,49003,13,0
 2020-04-14,Cache,Utah,49005,36,0
 2020-04-14,Carbon,Utah,49007,2,0
@@ -515,7 +517,7 @@ date,county,state,fips,cases,deaths
 2020-04-14,Juab,Utah,49023,2,0
 2020-04-14,Kane,Utah,49025,3,0
 2020-04-14,Millard,Utah,49027,4,0
-2020-04-14,Morgan,Utah,49029,7,0
+2020-04-14,Morgan,Utah,49029,3,0
 2020-04-14,Salt Lake,Utah,49035,1187,7
 2020-04-14,San Juan,Utah,49037,9,0
 2020-04-14,Summit,Utah,49043,306,0
@@ -524,7 +526,7 @@ date,county,state,fips,cases,deaths
 2020-04-14,Utah,Utah,49049,335,0
 2020-04-14,Wasatch,Utah,49051,105,1
 2020-04-14,Washington,Utah,49053,39,0
-2020-04-14,Weber,Utah,49057,96,1
+2020-04-14,Weber,Utah,49057,102,1
 2020-04-15,Box Elder,Utah,49003,13,0
 2020-04-15,Cache,Utah,49005,36,0
 2020-04-15,Carbon,Utah,49007,2,0
@@ -537,7 +539,7 @@ date,county,state,fips,cases,deaths
 2020-04-15,Juab,Utah,49023,2,0
 2020-04-15,Kane,Utah,49025,3,0
 2020-04-15,Millard,Utah,49027,4,0
-2020-04-15,Morgan,Utah,49029,7,0
+2020-04-15,Morgan,Utah,49029,3,0
 2020-04-15,Salt Lake,Utah,49035,1285,7
 2020-04-15,San Juan,Utah,49037,9,0
 2020-04-15,Sevier,Utah,49041,2,0
@@ -547,7 +549,7 @@ date,county,state,fips,cases,deaths
 2020-04-15,Utah,Utah,49049,352,0
 2020-04-15,Wasatch,Utah,49051,105,1
 2020-04-15,Washington,Utah,49053,39,0
-2020-04-15,Weber,Utah,49057,101,1
+2020-04-15,Weber,Utah,49057,105,1
 2020-04-16,Box Elder,Utah,49003,13,0
 2020-04-16,Cache,Utah,49005,36,0
 2020-04-16,Carbon,Utah,49007,2,0
@@ -570,7 +572,7 @@ date,county,state,fips,cases,deaths
 2020-04-16,Utah,Utah,49049,387,4
 2020-04-16,Wasatch,Utah,49051,103,1
 2020-04-16,Washington,Utah,49053,39,0
-2020-04-16,Weber,Utah,49057,101,1
+2020-04-16,Weber,Utah,49057,105,1
 2020-04-17,Box Elder,Utah,49003,16,0
 2020-04-17,Cache,Utah,49005,38,0
 2020-04-17,Carbon,Utah,49007,2,0
@@ -1002,3 +1004,76 @@ date,county,state,fips,cases,deaths
 2020-05-04,Wasatch,Utah,49051,165,1
 2020-05-04,Washington,Utah,49053,85,0
 2020-05-04,Weber,Utah,49057,164,2
+2020-05-05,Box Elder,Utah,49003,18,1
+2020-05-05,Cache,Utah,49005,44,0
+2020-05-05,Carbon,Utah,49007,7,0
+2020-05-05,Davis,Utah,49011,302,2
+2020-05-05,Duchesne,Utah,49013,8,0
+2020-05-05,Emery,Utah,49015,5,0
+2020-05-05,Garfield,Utah,49017,3,0
+2020-05-05,Grand,Utah,49019,4,0
+2020-05-05,Iron,Utah,49021,26,0
+2020-05-05,Juab,Utah,49023,7,0
+2020-05-05,Kane,Utah,49025,3,0
+2020-05-05,Millard,Utah,49027,5,0
+2020-05-05,Morgan,Utah,49029,9,0
+2020-05-05,Salt Lake,Utah,49035,2832,35
+2020-05-05,San Juan,Utah,49037,119,2
+2020-05-05,Sanpete,Utah,49039,6,0
+2020-05-05,Sevier,Utah,49041,7,0
+2020-05-05,Summit,Utah,49043,382,0
+2020-05-05,Tooele,Utah,49045,70,0
+2020-05-05,Uintah,Utah,49047,6,0
+2020-05-05,Utah,Utah,49049,1171,10
+2020-05-05,Wasatch,Utah,49051,166,1
+2020-05-05,Washington,Utah,49053,85,0
+2020-05-05,Weber,Utah,49057,164,2
+2020-05-06,Box Elder,Utah,49003,19,1
+2020-05-06,Cache,Utah,49005,45,0
+2020-05-06,Carbon,Utah,49007,7,0
+2020-05-06,Davis,Utah,49011,308,2
+2020-05-06,Duchesne,Utah,49013,8,0
+2020-05-06,Emery,Utah,49015,5,0
+2020-05-06,Garfield,Utah,49017,3,0
+2020-05-06,Grand,Utah,49019,4,0
+2020-05-06,Iron,Utah,49021,27,0
+2020-05-06,Juab,Utah,49023,7,0
+2020-05-06,Kane,Utah,49025,3,0
+2020-05-06,Millard,Utah,49027,5,0
+2020-05-06,Morgan,Utah,49029,9,0
+2020-05-06,Salt Lake,Utah,49035,2919,38
+2020-05-06,San Juan,Utah,49037,126,2
+2020-05-06,Sanpete,Utah,49039,6,0
+2020-05-06,Sevier,Utah,49041,7,0
+2020-05-06,Summit,Utah,49043,382,0
+2020-05-06,Tooele,Utah,49045,70,0
+2020-05-06,Uintah,Utah,49047,6,0
+2020-05-06,Utah,Utah,49049,1210,10
+2020-05-06,Wasatch,Utah,49051,170,1
+2020-05-06,Washington,Utah,49053,95,0
+2020-05-06,Weber,Utah,49057,164,2
+2020-05-07,Box Elder,Utah,49003,19,1
+2020-05-07,Cache,Utah,49005,45,0
+2020-05-07,Carbon,Utah,49007,7,0
+2020-05-07,Davis,Utah,49011,315,2
+2020-05-07,Duchesne,Utah,49013,8,0
+2020-05-07,Emery,Utah,49015,5,0
+2020-05-07,Garfield,Utah,49017,3,0
+2020-05-07,Grand,Utah,49019,4,0
+2020-05-07,Iron,Utah,49021,27,0
+2020-05-07,Juab,Utah,49023,7,0
+2020-05-07,Kane,Utah,49025,3,0
+2020-05-07,Millard,Utah,49027,5,0
+2020-05-07,Morgan,Utah,49029,9,0
+2020-05-07,Piute,Utah,49031,1,0
+2020-05-07,Salt Lake,Utah,49035,3010,39
+2020-05-07,San Juan,Utah,49037,132,2
+2020-05-07,Sanpete,Utah,49039,6,0
+2020-05-07,Sevier,Utah,49041,7,0
+2020-05-07,Summit,Utah,49043,382,0
+2020-05-07,Tooele,Utah,49045,71,0
+2020-05-07,Uintah,Utah,49047,6,0
+2020-05-07,Utah,Utah,49049,1219,11
+2020-05-07,Wasatch,Utah,49051,173,1
+2020-05-07,Washington,Utah,49053,95,0
+2020-05-07,Weber,Utah,49057,164,2

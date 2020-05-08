@@ -221,6 +221,7 @@ date,county,state,fips,cases,deaths
 2020-04-04,Crook,Wyoming,56011,1,0
 2020-04-04,Fremont,Wyoming,56013,36,0
 2020-04-04,Goshen,Wyoming,56015,2,0
+2020-04-04,Hot Springs,Wyoming,56017,1,0
 2020-04-04,Johnson,Wyoming,56019,8,0
 2020-04-04,Laramie,Wyoming,56021,42,0
 2020-04-04,Lincoln,Wyoming,56023,1,0
@@ -600,254 +601,317 @@ date,county,state,fips,cases,deaths
 2020-04-22,Uinta,Wyoming,56041,6,0
 2020-04-22,Washakie,Wyoming,56043,4,0
 2020-04-23,Albany,Wyoming,56001,6,0
-2020-04-23,Big Horn,Wyoming,56003,1,0
-2020-04-23,Campbell,Wyoming,56005,14,0
+2020-04-23,Big Horn,Wyoming,56003,2,0
+2020-04-23,Campbell,Wyoming,56005,18,0
 2020-04-23,Carbon,Wyoming,56007,4,0
-2020-04-23,Converse,Wyoming,56009,10,0
-2020-04-23,Crook,Wyoming,56011,4,0
-2020-04-23,Fremont,Wyoming,56013,53,4
-2020-04-23,Goshen,Wyoming,56015,3,0
-2020-04-23,Hot Springs,Wyoming,56017,2,0
-2020-04-23,Johnson,Wyoming,56019,11,1
-2020-04-23,Laramie,Wyoming,56021,81,1
-2020-04-23,Lincoln,Wyoming,56023,6,0
-2020-04-23,Natrona,Wyoming,56025,39,0
-2020-04-23,Niobrara,Wyoming,56027,1,0
+2020-04-23,Converse,Wyoming,56009,16,0
+2020-04-23,Crook,Wyoming,56011,5,0
+2020-04-23,Fremont,Wyoming,56013,59,4
+2020-04-23,Goshen,Wyoming,56015,4,0
+2020-04-23,Hot Springs,Wyoming,56017,3,0
+2020-04-23,Johnson,Wyoming,56019,15,1
+2020-04-23,Laramie,Wyoming,56021,117,1
+2020-04-23,Lincoln,Wyoming,56023,9,0
+2020-04-23,Natrona,Wyoming,56025,49,0
+2020-04-23,Niobrara,Wyoming,56027,2,0
 2020-04-23,Park,Wyoming,56029,1,0
-2020-04-23,Sheridan,Wyoming,56033,12,0
-2020-04-23,Sublette,Wyoming,56035,1,0
-2020-04-23,Sweetwater,Wyoming,56037,10,0
-2020-04-23,Teton,Wyoming,56039,63,1
-2020-04-23,Uinta,Wyoming,56041,6,0
-2020-04-23,Washakie,Wyoming,56043,4,0
+2020-04-23,Sheridan,Wyoming,56033,16,0
+2020-04-23,Sublette,Wyoming,56035,3,0
+2020-04-23,Sweetwater,Wyoming,56037,16,0
+2020-04-23,Teton,Wyoming,56039,93,1
+2020-04-23,Uinta,Wyoming,56041,7,0
+2020-04-23,Washakie,Wyoming,56043,8,0
 2020-04-24,Albany,Wyoming,56001,6,0
-2020-04-24,Big Horn,Wyoming,56003,1,0
-2020-04-24,Campbell,Wyoming,56005,14,0
+2020-04-24,Big Horn,Wyoming,56003,2,0
+2020-04-24,Campbell,Wyoming,56005,20,0
 2020-04-24,Carbon,Wyoming,56007,4,0
-2020-04-24,Converse,Wyoming,56009,10,0
+2020-04-24,Converse,Wyoming,56009,16,0
 2020-04-24,Crook,Wyoming,56011,5,0
-2020-04-24,Fremont,Wyoming,56013,66,4
-2020-04-24,Goshen,Wyoming,56015,3,0
-2020-04-24,Hot Springs,Wyoming,56017,2,0
-2020-04-24,Johnson,Wyoming,56019,11,1
-2020-04-24,Laramie,Wyoming,56021,83,1
-2020-04-24,Lincoln,Wyoming,56023,6,0
-2020-04-24,Natrona,Wyoming,56025,39,0
-2020-04-24,Niobrara,Wyoming,56027,1,0
+2020-04-24,Fremont,Wyoming,56013,72,4
+2020-04-24,Goshen,Wyoming,56015,4,0
+2020-04-24,Hot Springs,Wyoming,56017,3,0
+2020-04-24,Johnson,Wyoming,56019,15,1
+2020-04-24,Laramie,Wyoming,56021,120,1
+2020-04-24,Lincoln,Wyoming,56023,9,0
+2020-04-24,Natrona,Wyoming,56025,49,0
+2020-04-24,Niobrara,Wyoming,56027,2,0
 2020-04-24,Park,Wyoming,56029,1,0
-2020-04-24,Sheridan,Wyoming,56033,12,0
-2020-04-24,Sublette,Wyoming,56035,1,0
-2020-04-24,Sweetwater,Wyoming,56037,10,0
-2020-04-24,Teton,Wyoming,56039,64,1
-2020-04-24,Uinta,Wyoming,56041,6,0
-2020-04-24,Washakie,Wyoming,56043,4,0
+2020-04-24,Sheridan,Wyoming,56033,16,0
+2020-04-24,Sublette,Wyoming,56035,3,0
+2020-04-24,Sweetwater,Wyoming,56037,16,0
+2020-04-24,Teton,Wyoming,56039,95,1
+2020-04-24,Uinta,Wyoming,56041,7,0
+2020-04-24,Washakie,Wyoming,56043,8,0
 2020-04-25,Albany,Wyoming,56001,6,0
-2020-04-25,Big Horn,Wyoming,56003,1,0
-2020-04-25,Campbell,Wyoming,56005,14,0
+2020-04-25,Big Horn,Wyoming,56003,2,0
+2020-04-25,Campbell,Wyoming,56005,20,0
 2020-04-25,Carbon,Wyoming,56007,4,0
-2020-04-25,Converse,Wyoming,56009,10,0
+2020-04-25,Converse,Wyoming,56009,16,0
 2020-04-25,Crook,Wyoming,56011,5,0
 2020-04-25,Fremont,Wyoming,56013,76,4
-2020-04-25,Goshen,Wyoming,56015,3,0
-2020-04-25,Hot Springs,Wyoming,56017,2,0
-2020-04-25,Johnson,Wyoming,56019,11,1
-2020-04-25,Laramie,Wyoming,56021,86,1
-2020-04-25,Lincoln,Wyoming,56023,6,0
-2020-04-25,Natrona,Wyoming,56025,39,0
-2020-04-25,Niobrara,Wyoming,56027,1,0
+2020-04-25,Goshen,Wyoming,56015,4,0
+2020-04-25,Hot Springs,Wyoming,56017,3,0
+2020-04-25,Johnson,Wyoming,56019,15,1
+2020-04-25,Laramie,Wyoming,56021,120,1
+2020-04-25,Lincoln,Wyoming,56023,9,0
+2020-04-25,Natrona,Wyoming,56025,49,0
+2020-04-25,Niobrara,Wyoming,56027,2,0
 2020-04-25,Park,Wyoming,56029,1,0
-2020-04-25,Sheridan,Wyoming,56033,12,0
-2020-04-25,Sublette,Wyoming,56035,1,0
-2020-04-25,Sweetwater,Wyoming,56037,10,0
-2020-04-25,Teton,Wyoming,56039,64,1
-2020-04-25,Uinta,Wyoming,56041,6,0
-2020-04-25,Washakie,Wyoming,56043,4,0
+2020-04-25,Sheridan,Wyoming,56033,16,0
+2020-04-25,Sublette,Wyoming,56035,3,0
+2020-04-25,Sweetwater,Wyoming,56037,16,0
+2020-04-25,Teton,Wyoming,56039,95,1
+2020-04-25,Uinta,Wyoming,56041,7,0
+2020-04-25,Washakie,Wyoming,56043,8,0
 2020-04-26,Albany,Wyoming,56001,6,0
-2020-04-26,Big Horn,Wyoming,56003,1,0
-2020-04-26,Campbell,Wyoming,56005,14,0
+2020-04-26,Big Horn,Wyoming,56003,2,0
+2020-04-26,Campbell,Wyoming,56005,23,0
 2020-04-26,Carbon,Wyoming,56007,6,0
-2020-04-26,Converse,Wyoming,56009,10,0
+2020-04-26,Converse,Wyoming,56009,16,0
 2020-04-26,Crook,Wyoming,56011,5,0
-2020-04-26,Fremont,Wyoming,56013,83,4
-2020-04-26,Goshen,Wyoming,56015,3,0
-2020-04-26,Hot Springs,Wyoming,56017,2,0
-2020-04-26,Johnson,Wyoming,56019,11,1
-2020-04-26,Laramie,Wyoming,56021,86,1
-2020-04-26,Lincoln,Wyoming,56023,6,0
-2020-04-26,Natrona,Wyoming,56025,39,0
-2020-04-26,Niobrara,Wyoming,56027,1,0
+2020-04-26,Fremont,Wyoming,56013,91,4
+2020-04-26,Goshen,Wyoming,56015,4,0
+2020-04-26,Hot Springs,Wyoming,56017,3,0
+2020-04-26,Johnson,Wyoming,56019,15,1
+2020-04-26,Laramie,Wyoming,56021,125,1
+2020-04-26,Lincoln,Wyoming,56023,9,0
+2020-04-26,Natrona,Wyoming,56025,49,0
+2020-04-26,Niobrara,Wyoming,56027,2,0
 2020-04-26,Park,Wyoming,56029,1,0
-2020-04-26,Sheridan,Wyoming,56033,12,0
-2020-04-26,Sublette,Wyoming,56035,1,0
-2020-04-26,Sweetwater,Wyoming,56037,10,0
-2020-04-26,Teton,Wyoming,56039,64,1
-2020-04-26,Uinta,Wyoming,56041,6,0
-2020-04-26,Washakie,Wyoming,56043,4,0
+2020-04-26,Sheridan,Wyoming,56033,16,0
+2020-04-26,Sublette,Wyoming,56035,3,0
+2020-04-26,Sweetwater,Wyoming,56037,16,0
+2020-04-26,Teton,Wyoming,56039,95,1
+2020-04-26,Uinta,Wyoming,56041,7,0
+2020-04-26,Washakie,Wyoming,56043,8,0
 2020-04-27,Albany,Wyoming,56001,7,0
-2020-04-27,Big Horn,Wyoming,56003,1,0
-2020-04-27,Campbell,Wyoming,56005,14,0
+2020-04-27,Big Horn,Wyoming,56003,2,0
+2020-04-27,Campbell,Wyoming,56005,23,0
 2020-04-27,Carbon,Wyoming,56007,4,0
-2020-04-27,Converse,Wyoming,56009,11,0
+2020-04-27,Converse,Wyoming,56009,17,0
 2020-04-27,Crook,Wyoming,56011,5,0
-2020-04-27,Fremont,Wyoming,56013,98,4
-2020-04-27,Goshen,Wyoming,56015,3,0
-2020-04-27,Hot Springs,Wyoming,56017,2,0
-2020-04-27,Johnson,Wyoming,56019,11,1
-2020-04-27,Laramie,Wyoming,56021,89,1
-2020-04-27,Lincoln,Wyoming,56023,6,0
-2020-04-27,Natrona,Wyoming,56025,39,0
-2020-04-27,Niobrara,Wyoming,56027,1,0
+2020-04-27,Fremont,Wyoming,56013,106,4
+2020-04-27,Goshen,Wyoming,56015,4,0
+2020-04-27,Hot Springs,Wyoming,56017,3,0
+2020-04-27,Johnson,Wyoming,56019,15,1
+2020-04-27,Laramie,Wyoming,56021,128,1
+2020-04-27,Lincoln,Wyoming,56023,9,0
+2020-04-27,Natrona,Wyoming,56025,49,0
+2020-04-27,Niobrara,Wyoming,56027,2,0
 2020-04-27,Park,Wyoming,56029,1,0
-2020-04-27,Sheridan,Wyoming,56033,12,0
-2020-04-27,Sublette,Wyoming,56035,1,0
-2020-04-27,Sweetwater,Wyoming,56037,10,0
-2020-04-27,Teton,Wyoming,56039,64,1
-2020-04-27,Uinta,Wyoming,56041,6,0
-2020-04-27,Washakie,Wyoming,56043,4,0
-2020-04-28,Albany,Wyoming,56001,7,0
-2020-04-28,Big Horn,Wyoming,56003,1,0
-2020-04-28,Campbell,Wyoming,56005,14,0
+2020-04-27,Sheridan,Wyoming,56033,16,0
+2020-04-27,Sublette,Wyoming,56035,3,0
+2020-04-27,Sweetwater,Wyoming,56037,16,0
+2020-04-27,Teton,Wyoming,56039,95,1
+2020-04-27,Uinta,Wyoming,56041,7,0
+2020-04-27,Washakie,Wyoming,56043,8,0
+2020-04-28,Albany,Wyoming,56001,8,0
+2020-04-28,Big Horn,Wyoming,56003,2,0
+2020-04-28,Campbell,Wyoming,56005,23,0
 2020-04-28,Carbon,Wyoming,56007,4,0
-2020-04-28,Converse,Wyoming,56009,11,0
+2020-04-28,Converse,Wyoming,56009,21,0
 2020-04-28,Crook,Wyoming,56011,5,0
-2020-04-28,Fremont,Wyoming,56013,101,4
-2020-04-28,Goshen,Wyoming,56015,3,0
-2020-04-28,Hot Springs,Wyoming,56017,2,0
-2020-04-28,Johnson,Wyoming,56019,11,1
-2020-04-28,Laramie,Wyoming,56021,92,1
-2020-04-28,Lincoln,Wyoming,56023,6,0
-2020-04-28,Natrona,Wyoming,56025,39,0
-2020-04-28,Niobrara,Wyoming,56027,1,0
+2020-04-28,Fremont,Wyoming,56013,109,4
+2020-04-28,Goshen,Wyoming,56015,4,0
+2020-04-28,Hot Springs,Wyoming,56017,3,0
+2020-04-28,Johnson,Wyoming,56019,15,1
+2020-04-28,Laramie,Wyoming,56021,134,1
+2020-04-28,Lincoln,Wyoming,56023,9,0
+2020-04-28,Natrona,Wyoming,56025,49,0
+2020-04-28,Niobrara,Wyoming,56027,2,0
 2020-04-28,Park,Wyoming,56029,1,0
-2020-04-28,Sheridan,Wyoming,56033,12,0
-2020-04-28,Sublette,Wyoming,56035,1,0
-2020-04-28,Sweetwater,Wyoming,56037,10,0
-2020-04-28,Teton,Wyoming,56039,65,1
-2020-04-28,Uinta,Wyoming,56041,6,0
-2020-04-28,Washakie,Wyoming,56043,4,0
+2020-04-28,Sheridan,Wyoming,56033,16,0
+2020-04-28,Sublette,Wyoming,56035,3,0
+2020-04-28,Sweetwater,Wyoming,56037,16,0
+2020-04-28,Teton,Wyoming,56039,96,1
+2020-04-28,Uinta,Wyoming,56041,8,0
+2020-04-28,Washakie,Wyoming,56043,8,0
 2020-04-29,Albany,Wyoming,56001,8,0
-2020-04-29,Big Horn,Wyoming,56003,2,0
-2020-04-29,Campbell,Wyoming,56005,14,0
+2020-04-29,Big Horn,Wyoming,56003,3,0
+2020-04-29,Campbell,Wyoming,56005,23,0
 2020-04-29,Carbon,Wyoming,56007,4,0
-2020-04-29,Converse,Wyoming,56009,13,0
+2020-04-29,Converse,Wyoming,56009,22,0
 2020-04-29,Crook,Wyoming,56011,5,0
-2020-04-29,Fremont,Wyoming,56013,102,4
-2020-04-29,Goshen,Wyoming,56015,3,0
-2020-04-29,Hot Springs,Wyoming,56017,2,0
-2020-04-29,Johnson,Wyoming,56019,11,1
-2020-04-29,Laramie,Wyoming,56021,96,1
-2020-04-29,Lincoln,Wyoming,56023,6,0
-2020-04-29,Natrona,Wyoming,56025,39,0
-2020-04-29,Niobrara,Wyoming,56027,1,0
+2020-04-29,Fremont,Wyoming,56013,110,4
+2020-04-29,Goshen,Wyoming,56015,4,0
+2020-04-29,Hot Springs,Wyoming,56017,3,0
+2020-04-29,Johnson,Wyoming,56019,15,1
+2020-04-29,Laramie,Wyoming,56021,139,1
+2020-04-29,Lincoln,Wyoming,56023,9,0
+2020-04-29,Natrona,Wyoming,56025,49,0
+2020-04-29,Niobrara,Wyoming,56027,2,0
 2020-04-29,Park,Wyoming,56029,1,0
-2020-04-29,Sheridan,Wyoming,56033,12,0
-2020-04-29,Sublette,Wyoming,56035,1,0
-2020-04-29,Sweetwater,Wyoming,56037,10,0
-2020-04-29,Teton,Wyoming,56039,64,1
-2020-04-29,Uinta,Wyoming,56041,6,0
-2020-04-29,Washakie,Wyoming,56043,4,0
+2020-04-29,Sheridan,Wyoming,56033,16,0
+2020-04-29,Sublette,Wyoming,56035,3,0
+2020-04-29,Sweetwater,Wyoming,56037,17,0
+2020-04-29,Teton,Wyoming,56039,95,1
+2020-04-29,Uinta,Wyoming,56041,8,0
+2020-04-29,Washakie,Wyoming,56043,8,0
 2020-04-30,Albany,Wyoming,56001,8,0
-2020-04-30,Big Horn,Wyoming,56003,2,0
-2020-04-30,Campbell,Wyoming,56005,15,0
+2020-04-30,Big Horn,Wyoming,56003,3,0
+2020-04-30,Campbell,Wyoming,56005,24,0
 2020-04-30,Carbon,Wyoming,56007,4,0
-2020-04-30,Converse,Wyoming,56009,13,0
+2020-04-30,Converse,Wyoming,56009,22,0
 2020-04-30,Crook,Wyoming,56011,5,0
-2020-04-30,Fremont,Wyoming,56013,108,4
-2020-04-30,Goshen,Wyoming,56015,3,0
-2020-04-30,Hot Springs,Wyoming,56017,2,0
-2020-04-30,Johnson,Wyoming,56019,11,1
-2020-04-30,Laramie,Wyoming,56021,98,1
-2020-04-30,Lincoln,Wyoming,56023,6,0
-2020-04-30,Natrona,Wyoming,56025,39,0
-2020-04-30,Niobrara,Wyoming,56027,1,0
+2020-04-30,Fremont,Wyoming,56013,116,4
+2020-04-30,Goshen,Wyoming,56015,4,0
+2020-04-30,Hot Springs,Wyoming,56017,3,0
+2020-04-30,Johnson,Wyoming,56019,15,1
+2020-04-30,Laramie,Wyoming,56021,145,1
+2020-04-30,Lincoln,Wyoming,56023,9,0
+2020-04-30,Natrona,Wyoming,56025,49,0
+2020-04-30,Niobrara,Wyoming,56027,2,0
 2020-04-30,Park,Wyoming,56029,1,0
-2020-04-30,Sheridan,Wyoming,56033,12,0
-2020-04-30,Sublette,Wyoming,56035,1,0
-2020-04-30,Sweetwater,Wyoming,56037,11,0
-2020-04-30,Teton,Wyoming,56039,65,1
-2020-04-30,Uinta,Wyoming,56041,6,0
-2020-04-30,Washakie,Wyoming,56043,4,0
+2020-04-30,Sheridan,Wyoming,56033,16,0
+2020-04-30,Sublette,Wyoming,56035,3,0
+2020-04-30,Sweetwater,Wyoming,56037,18,0
+2020-04-30,Teton,Wyoming,56039,96,1
+2020-04-30,Uinta,Wyoming,56041,8,0
+2020-04-30,Washakie,Wyoming,56043,8,0
 2020-05-01,Albany,Wyoming,56001,8,0
-2020-05-01,Big Horn,Wyoming,56003,2,0
-2020-05-01,Campbell,Wyoming,56005,15,0
+2020-05-01,Big Horn,Wyoming,56003,3,0
+2020-05-01,Campbell,Wyoming,56005,24,0
 2020-05-01,Carbon,Wyoming,56007,5,0
-2020-05-01,Converse,Wyoming,56009,13,0
+2020-05-01,Converse,Wyoming,56009,22,0
 2020-05-01,Crook,Wyoming,56011,5,0
-2020-05-01,Fremont,Wyoming,56013,112,4
-2020-05-01,Goshen,Wyoming,56015,3,0
-2020-05-01,Hot Springs,Wyoming,56017,2,0
-2020-05-01,Johnson,Wyoming,56019,11,1
-2020-05-01,Laramie,Wyoming,56021,98,1
-2020-05-01,Lincoln,Wyoming,56023,6,0
-2020-05-01,Natrona,Wyoming,56025,39,0
-2020-05-01,Niobrara,Wyoming,56027,1,0
+2020-05-01,Fremont,Wyoming,56013,120,4
+2020-05-01,Goshen,Wyoming,56015,4,0
+2020-05-01,Hot Springs,Wyoming,56017,3,0
+2020-05-01,Johnson,Wyoming,56019,15,1
+2020-05-01,Laramie,Wyoming,56021,147,1
+2020-05-01,Lincoln,Wyoming,56023,9,0
+2020-05-01,Natrona,Wyoming,56025,49,0
+2020-05-01,Niobrara,Wyoming,56027,2,0
 2020-05-01,Park,Wyoming,56029,1,0
-2020-05-01,Sheridan,Wyoming,56033,12,0
-2020-05-01,Sublette,Wyoming,56035,1,0
-2020-05-01,Sweetwater,Wyoming,56037,11,0
-2020-05-01,Teton,Wyoming,56039,65,1
-2020-05-01,Uinta,Wyoming,56041,6,0
-2020-05-01,Washakie,Wyoming,56043,4,0
+2020-05-01,Sheridan,Wyoming,56033,16,0
+2020-05-01,Sublette,Wyoming,56035,3,0
+2020-05-01,Sweetwater,Wyoming,56037,18,0
+2020-05-01,Teton,Wyoming,56039,96,1
+2020-05-01,Uinta,Wyoming,56041,8,0
+2020-05-01,Washakie,Wyoming,56043,8,0
 2020-05-02,Albany,Wyoming,56001,8,0
-2020-05-02,Big Horn,Wyoming,56003,2,0
-2020-05-02,Campbell,Wyoming,56005,15,0
+2020-05-02,Big Horn,Wyoming,56003,3,0
+2020-05-02,Campbell,Wyoming,56005,24,0
 2020-05-02,Carbon,Wyoming,56007,5,0
-2020-05-02,Converse,Wyoming,56009,14,0
+2020-05-02,Converse,Wyoming,56009,23,0
 2020-05-02,Crook,Wyoming,56011,5,0
-2020-05-02,Fremont,Wyoming,56013,119,4
-2020-05-02,Goshen,Wyoming,56015,3,0
-2020-05-02,Hot Springs,Wyoming,56017,2,0
-2020-05-02,Johnson,Wyoming,56019,11,1
-2020-05-02,Laramie,Wyoming,56021,99,1
-2020-05-02,Lincoln,Wyoming,56023,6,0
-2020-05-02,Natrona,Wyoming,56025,38,0
-2020-05-02,Niobrara,Wyoming,56027,1,0
+2020-05-02,Fremont,Wyoming,56013,128,4
+2020-05-02,Goshen,Wyoming,56015,4,0
+2020-05-02,Hot Springs,Wyoming,56017,4,0
+2020-05-02,Johnson,Wyoming,56019,15,1
+2020-05-02,Laramie,Wyoming,56021,151,1
+2020-05-02,Lincoln,Wyoming,56023,9,0
+2020-05-02,Natrona,Wyoming,56025,48,0
+2020-05-02,Niobrara,Wyoming,56027,2,0
 2020-05-02,Park,Wyoming,56029,1,0
-2020-05-02,Sheridan,Wyoming,56033,12,0
-2020-05-02,Sublette,Wyoming,56035,1,0
-2020-05-02,Sweetwater,Wyoming,56037,11,0
-2020-05-02,Teton,Wyoming,56039,66,1
-2020-05-02,Uinta,Wyoming,56041,6,0
-2020-05-02,Washakie,Wyoming,56043,4,0
+2020-05-02,Sheridan,Wyoming,56033,16,0
+2020-05-02,Sublette,Wyoming,56035,3,0
+2020-05-02,Sweetwater,Wyoming,56037,18,0
+2020-05-02,Teton,Wyoming,56039,97,1
+2020-05-02,Uinta,Wyoming,56041,8,0
+2020-05-02,Washakie,Wyoming,56043,7,0
 2020-05-03,Albany,Wyoming,56001,8,0
-2020-05-03,Big Horn,Wyoming,56003,2,0
-2020-05-03,Campbell,Wyoming,56005,15,0
+2020-05-03,Big Horn,Wyoming,56003,3,0
+2020-05-03,Campbell,Wyoming,56005,24,0
 2020-05-03,Carbon,Wyoming,56007,5,0
-2020-05-03,Converse,Wyoming,56009,14,0
+2020-05-03,Converse,Wyoming,56009,23,0
 2020-05-03,Crook,Wyoming,56011,5,0
-2020-05-03,Fremont,Wyoming,56013,122,4
-2020-05-03,Goshen,Wyoming,56015,3,0
-2020-05-03,Hot Springs,Wyoming,56017,2,0
-2020-05-03,Johnson,Wyoming,56019,11,1
-2020-05-03,Laramie,Wyoming,56021,101,1
-2020-05-03,Lincoln,Wyoming,56023,6,0
-2020-05-03,Natrona,Wyoming,56025,38,0
-2020-05-03,Niobrara,Wyoming,56027,1,0
+2020-05-03,Fremont,Wyoming,56013,131,4
+2020-05-03,Goshen,Wyoming,56015,4,0
+2020-05-03,Hot Springs,Wyoming,56017,4,0
+2020-05-03,Johnson,Wyoming,56019,15,1
+2020-05-03,Laramie,Wyoming,56021,154,1
+2020-05-03,Lincoln,Wyoming,56023,9,0
+2020-05-03,Natrona,Wyoming,56025,48,0
+2020-05-03,Niobrara,Wyoming,56027,2,0
 2020-05-03,Park,Wyoming,56029,1,0
-2020-05-03,Sheridan,Wyoming,56033,12,0
-2020-05-03,Sublette,Wyoming,56035,1,0
-2020-05-03,Sweetwater,Wyoming,56037,11,0
-2020-05-03,Teton,Wyoming,56039,67,1
-2020-05-03,Uinta,Wyoming,56041,6,0
-2020-05-03,Washakie,Wyoming,56043,4,0
+2020-05-03,Sheridan,Wyoming,56033,16,0
+2020-05-03,Sublette,Wyoming,56035,3,0
+2020-05-03,Sweetwater,Wyoming,56037,18,0
+2020-05-03,Teton,Wyoming,56039,98,1
+2020-05-03,Uinta,Wyoming,56041,8,0
+2020-05-03,Washakie,Wyoming,56043,7,0
 2020-05-04,Albany,Wyoming,56001,8,0
-2020-05-04,Big Horn,Wyoming,56003,2,0
-2020-05-04,Campbell,Wyoming,56005,15,0
+2020-05-04,Big Horn,Wyoming,56003,3,0
+2020-05-04,Campbell,Wyoming,56005,24,0
 2020-05-04,Carbon,Wyoming,56007,5,0
-2020-05-04,Converse,Wyoming,56009,14,0
+2020-05-04,Converse,Wyoming,56009,23,0
 2020-05-04,Crook,Wyoming,56011,5,0
-2020-05-04,Fremont,Wyoming,56013,128,4
-2020-05-04,Goshen,Wyoming,56015,3,0
-2020-05-04,Hot Springs,Wyoming,56017,2,0
-2020-05-04,Johnson,Wyoming,56019,11,1
-2020-05-04,Laramie,Wyoming,56021,104,1
-2020-05-04,Lincoln,Wyoming,56023,6,0
-2020-05-04,Natrona,Wyoming,56025,38,0
-2020-05-04,Niobrara,Wyoming,56027,1,0
+2020-05-04,Fremont,Wyoming,56013,137,4
+2020-05-04,Goshen,Wyoming,56015,4,0
+2020-05-04,Hot Springs,Wyoming,56017,4,0
+2020-05-04,Johnson,Wyoming,56019,15,1
+2020-05-04,Laramie,Wyoming,56021,158,1
+2020-05-04,Lincoln,Wyoming,56023,9,0
+2020-05-04,Natrona,Wyoming,56025,48,0
+2020-05-04,Niobrara,Wyoming,56027,2,0
 2020-05-04,Park,Wyoming,56029,1,0
-2020-05-04,Sheridan,Wyoming,56033,12,0
-2020-05-04,Sublette,Wyoming,56035,1,0
-2020-05-04,Sweetwater,Wyoming,56037,11,0
-2020-05-04,Teton,Wyoming,56039,67,1
-2020-05-04,Uinta,Wyoming,56041,6,0
-2020-05-04,Washakie,Wyoming,56043,4,0
+2020-05-04,Sheridan,Wyoming,56033,16,0
+2020-05-04,Sublette,Wyoming,56035,3,0
+2020-05-04,Sweetwater,Wyoming,56037,18,0
+2020-05-04,Teton,Wyoming,56039,98,1
+2020-05-04,Uinta,Wyoming,56041,8,0
+2020-05-04,Washakie,Wyoming,56043,7,0
+2020-05-05,Albany,Wyoming,56001,8,0
+2020-05-05,Big Horn,Wyoming,56003,3,0
+2020-05-05,Campbell,Wyoming,56005,24,0
+2020-05-05,Carbon,Wyoming,56007,5,0
+2020-05-05,Converse,Wyoming,56009,23,0
+2020-05-05,Crook,Wyoming,56011,5,0
+2020-05-05,Fremont,Wyoming,56013,140,4
+2020-05-05,Goshen,Wyoming,56015,4,0
+2020-05-05,Hot Springs,Wyoming,56017,4,0
+2020-05-05,Johnson,Wyoming,56019,15,1
+2020-05-05,Laramie,Wyoming,56021,162,1
+2020-05-05,Lincoln,Wyoming,56023,10,0
+2020-05-05,Natrona,Wyoming,56025,48,0
+2020-05-05,Niobrara,Wyoming,56027,2,0
+2020-05-05,Park,Wyoming,56029,1,0
+2020-05-05,Sheridan,Wyoming,56033,16,0
+2020-05-05,Sublette,Wyoming,56035,3,0
+2020-05-05,Sweetwater,Wyoming,56037,18,0
+2020-05-05,Teton,Wyoming,56039,98,1
+2020-05-05,Uinta,Wyoming,56041,8,0
+2020-05-05,Washakie,Wyoming,56043,7,0
+2020-05-06,Albany,Wyoming,56001,8,0
+2020-05-06,Big Horn,Wyoming,56003,3,0
+2020-05-06,Campbell,Wyoming,56005,25,0
+2020-05-06,Carbon,Wyoming,56007,5,0
+2020-05-06,Converse,Wyoming,56009,23,0
+2020-05-06,Crook,Wyoming,56011,5,0
+2020-05-06,Fremont,Wyoming,56013,164,4
+2020-05-06,Goshen,Wyoming,56015,4,0
+2020-05-06,Hot Springs,Wyoming,56017,4,0
+2020-05-06,Johnson,Wyoming,56019,15,1
+2020-05-06,Laramie,Wyoming,56021,163,1
+2020-05-06,Lincoln,Wyoming,56023,10,0
+2020-05-06,Natrona,Wyoming,56025,48,0
+2020-05-06,Niobrara,Wyoming,56027,2,0
+2020-05-06,Park,Wyoming,56029,1,0
+2020-05-06,Sheridan,Wyoming,56033,16,0
+2020-05-06,Sublette,Wyoming,56035,3,0
+2020-05-06,Sweetwater,Wyoming,56037,19,0
+2020-05-06,Teton,Wyoming,56039,98,1
+2020-05-06,Uinta,Wyoming,56041,8,0
+2020-05-06,Washakie,Wyoming,56043,7,0
+2020-05-07,Albany,Wyoming,56001,8,0
+2020-05-07,Big Horn,Wyoming,56003,3,0
+2020-05-07,Campbell,Wyoming,56005,25,0
+2020-05-07,Carbon,Wyoming,56007,5,0
+2020-05-07,Converse,Wyoming,56009,23,0
+2020-05-07,Crook,Wyoming,56011,5,0
+2020-05-07,Fremont,Wyoming,56013,168,4
+2020-05-07,Goshen,Wyoming,56015,4,0
+2020-05-07,Hot Springs,Wyoming,56017,4,0
+2020-05-07,Johnson,Wyoming,56019,15,1
+2020-05-07,Laramie,Wyoming,56021,163,1
+2020-05-07,Lincoln,Wyoming,56023,10,0
+2020-05-07,Natrona,Wyoming,56025,48,0
+2020-05-07,Niobrara,Wyoming,56027,2,0
+2020-05-07,Park,Wyoming,56029,1,0
+2020-05-07,Sheridan,Wyoming,56033,16,0
+2020-05-07,Sublette,Wyoming,56035,3,0
+2020-05-07,Sweetwater,Wyoming,56037,19,0
+2020-05-07,Teton,Wyoming,56039,98,1
+2020-05-07,Uinta,Wyoming,56041,8,0
+2020-05-07,Washakie,Wyoming,56043,7,0

@@ -292,7 +292,6 @@ date,county,state,fips,cases,deaths
 2020-03-25,Leelanau,Michigan,26089,1,0
 2020-03-25,Lenawee,Michigan,26091,1,0
 2020-03-25,Livingston,Michigan,26093,16,1
-2020-03-25,Luce,Michigan,26095,1,0
 2020-03-25,Macomb,Michigan,26099,281,7
 2020-03-25,Manistee,Michigan,26101,1,0
 2020-03-25,Marquette,Michigan,26103,1,0
@@ -341,7 +340,6 @@ date,county,state,fips,cases,deaths
 2020-03-26,Leelanau,Michigan,26089,1,0
 2020-03-26,Lenawee,Michigan,26091,5,0
 2020-03-26,Livingston,Michigan,26093,21,1
-2020-03-26,Luce,Michigan,26095,1,0
 2020-03-26,Macomb,Michigan,26099,347,11
 2020-03-26,Manistee,Michigan,26101,1,0
 2020-03-26,Marquette,Michigan,26103,1,0
@@ -378,7 +376,6 @@ date,county,state,fips,cases,deaths
 2020-03-27,Clare,Michigan,26035,1,0
 2020-03-27,Clinton,Michigan,26037,8,0
 2020-03-27,Crawford,Michigan,26039,1,0
-2020-03-27,Dickinson,Michigan,26043,1,0
 2020-03-27,Eaton,Michigan,26045,8,0
 2020-03-27,Emmet,Michigan,26047,3,0
 2020-03-27,Genesee,Michigan,26049,91,4
@@ -400,7 +397,6 @@ date,county,state,fips,cases,deaths
 2020-03-27,Leelanau,Michigan,26089,1,0
 2020-03-27,Lenawee,Michigan,26091,8,0
 2020-03-27,Livingston,Michigan,26093,31,1
-2020-03-27,Luce,Michigan,26095,1,0
 2020-03-27,Macomb,Michigan,26099,404,14
 2020-03-27,Manistee,Michigan,26101,1,0
 2020-03-27,Marquette,Michigan,26103,1,0
@@ -437,7 +433,6 @@ date,county,state,fips,cases,deaths
 2020-03-28,Clare,Michigan,26035,1,0
 2020-03-28,Clinton,Michigan,26037,13,0
 2020-03-28,Crawford,Michigan,26039,1,0
-2020-03-28,Dickinson,Michigan,26043,1,0
 2020-03-28,Eaton,Michigan,26045,8,0
 2020-03-28,Emmet,Michigan,26047,4,0
 2020-03-28,Genesee,Michigan,26049,110,5
@@ -665,7 +660,6 @@ date,county,state,fips,cases,deaths
 2020-03-31,Roscommon,Michigan,26143,1,0
 2020-03-31,Saginaw,Michigan,26145,51,0
 2020-03-31,Sanilac,Michigan,26151,7,0
-2020-03-31,Schoolcraft,Michigan,26153,1,0
 2020-03-31,Shiawassee,Michigan,26155,8,0
 2020-03-31,St. Clair,Michigan,26147,32,0
 2020-03-31,St. Joseph,Michigan,26149,4,0
@@ -733,7 +727,6 @@ date,county,state,fips,cases,deaths
 2020-04-01,Roscommon,Michigan,26143,1,0
 2020-04-01,Saginaw,Michigan,26145,71,0
 2020-04-01,Sanilac,Michigan,26151,7,1
-2020-04-01,Schoolcraft,Michigan,26153,1,0
 2020-04-01,Shiawassee,Michigan,26155,11,0
 2020-04-01,St. Clair,Michigan,26147,41,0
 2020-04-01,St. Joseph,Michigan,26149,5,0
@@ -868,7 +861,6 @@ date,county,state,fips,cases,deaths
 2020-04-03,Oscoda,Michigan,26135,2,0
 2020-04-03,Otsego,Michigan,26137,20,0
 2020-04-03,Ottawa,Michigan,26139,37,0
-2020-04-03,Presque Isle,Michigan,26141,1,0
 2020-04-03,Roscommon,Michigan,26143,2,0
 2020-04-03,Saginaw,Michigan,26145,90,0
 2020-04-03,Sanilac,Michigan,26151,10,1
@@ -954,7 +946,6 @@ date,county,state,fips,cases,deaths
 2020-04-05,Arenac,Michigan,26011,3,0
 2020-04-05,Barry,Michigan,26015,6,0
 2020-04-05,Bay,Michigan,26017,30,0
-2020-04-05,Benzie,Michigan,26019,1,0
 2020-04-05,Berrien,Michigan,26021,58,1
 2020-04-05,Branch,Michigan,26023,13,1
 2020-04-05,Calhoun,Michigan,26025,42,1
@@ -1004,7 +995,6 @@ date,county,state,fips,cases,deaths
 2020-04-05,Oakland,Michigan,26125,3074,165
 2020-04-05,Oceana,Michigan,26127,3,0
 2020-04-05,Ogemaw,Michigan,26129,3,0
-2020-04-05,Ontonagon,Michigan,26131,1,0
 2020-04-05,Osceola,Michigan,26133,4,0
 2020-04-05,Oscoda,Michigan,26135,2,0
 2020-04-05,Otsego,Michigan,26137,24,1
@@ -1074,7 +1064,6 @@ date,county,state,fips,cases,deaths
 2020-04-06,Oakland,Michigan,26125,3380,185
 2020-04-06,Oceana,Michigan,26127,3,0
 2020-04-06,Ogemaw,Michigan,26129,3,0
-2020-04-06,Ontonagon,Michigan,26131,1,0
 2020-04-06,Osceola,Michigan,26133,3,0
 2020-04-06,Oscoda,Michigan,26135,2,0
 2020-04-06,Otsego,Michigan,26137,26,2
@@ -1146,7 +1135,6 @@ date,county,state,fips,cases,deaths
 2020-04-07,Oakland,Michigan,26125,3736,205
 2020-04-07,Oceana,Michigan,26127,3,1
 2020-04-07,Ogemaw,Michigan,26129,3,0
-2020-04-07,Ontonagon,Michigan,26131,1,0
 2020-04-07,Osceola,Michigan,26133,3,0
 2020-04-07,Oscoda,Michigan,26135,2,0
 2020-04-07,Otsego,Michigan,26137,28,2
@@ -3258,3 +3246,240 @@ date,county,state,fips,cases,deaths
 2020-05-04,Washtenaw,Michigan,26161,1118,76
 2020-05-04,Wayne,Michigan,26163,17314,1924
 2020-05-04,Wexford,Michigan,26165,9,2
+2020-05-05,Alcona,Michigan,26001,4,1
+2020-05-05,Allegan,Michigan,26005,120,2
+2020-05-05,Alpena,Michigan,26007,85,7
+2020-05-05,Antrim,Michigan,26009,10,0
+2020-05-05,Arenac,Michigan,26011,27,1
+2020-05-05,Baraga,Michigan,26013,1,0
+2020-05-05,Barry,Michigan,26015,39,1
+2020-05-05,Bay,Michigan,26017,162,8
+2020-05-05,Benzie,Michigan,26019,4,0
+2020-05-05,Berrien,Michigan,26021,315,20
+2020-05-05,Branch,Michigan,26023,70,2
+2020-05-05,Calhoun,Michigan,26025,246,16
+2020-05-05,Cass,Michigan,26027,34,2
+2020-05-05,Charlevoix,Michigan,26029,13,1
+2020-05-05,Cheboygan,Michigan,26031,19,1
+2020-05-05,Chippewa,Michigan,26033,2,0
+2020-05-05,Clare,Michigan,26035,11,2
+2020-05-05,Clinton,Michigan,26037,120,10
+2020-05-05,Crawford,Michigan,26039,56,4
+2020-05-05,Delta,Michigan,26041,14,2
+2020-05-05,Dickinson,Michigan,26043,3,2
+2020-05-05,Eaton,Michigan,26045,138,6
+2020-05-05,Emmet,Michigan,26047,21,2
+2020-05-05,Genesee,Michigan,26049,1668,200
+2020-05-05,Gladwin,Michigan,26051,14,1
+2020-05-05,Gogebic,Michigan,26053,4,1
+2020-05-05,Grand Traverse,Michigan,26055,20,5
+2020-05-05,Gratiot,Michigan,26057,26,2
+2020-05-05,Hillsdale,Michigan,26059,137,21
+2020-05-05,Houghton,Michigan,26061,2,0
+2020-05-05,Huron,Michigan,26063,25,1
+2020-05-05,Ingham,Michigan,26065,518,14
+2020-05-05,Ionia,Michigan,26067,93,2
+2020-05-05,Iosco,Michigan,26069,52,7
+2020-05-05,Isabella,Michigan,26073,61,7
+2020-05-05,Jackson,Michigan,26075,367,26
+2020-05-05,Kalamazoo,Michigan,26077,489,22
+2020-05-05,Kalkaska,Michigan,26079,17,2
+2020-05-05,Kent,Michigan,26081,1914,40
+2020-05-05,Lake,Michigan,26085,2,0
+2020-05-05,Lapeer,Michigan,26087,173,27
+2020-05-05,Leelanau,Michigan,26089,9,0
+2020-05-05,Lenawee,Michigan,26091,110,2
+2020-05-05,Livingston,Michigan,26093,362,20
+2020-05-05,Luce,Michigan,26095,1,0
+2020-05-05,Mackinac,Michigan,26097,6,0
+2020-05-05,Macomb,Michigan,26099,5789,647
+2020-05-05,Manistee,Michigan,26101,11,0
+2020-05-05,Marquette,Michigan,26103,49,8
+2020-05-05,Mason,Michigan,26105,13,0
+2020-05-05,Mecosta,Michigan,26107,14,2
+2020-05-05,Menominee,Michigan,26109,6,0
+2020-05-05,Midland,Michigan,26111,62,7
+2020-05-05,Missaukee,Michigan,26113,16,1
+2020-05-05,Monroe,Michigan,26115,327,13
+2020-05-05,Montcalm,Michigan,26117,46,1
+2020-05-05,Montmorency,Michigan,26119,5,0
+2020-05-05,Muskegon,Michigan,26121,318,18
+2020-05-05,Newaygo,Michigan,26123,31,0
+2020-05-05,Oakland,Michigan,26125,7522,772
+2020-05-05,Oceana,Michigan,26127,21,1
+2020-05-05,Ogemaw,Michigan,26129,15,0
+2020-05-05,Osceola,Michigan,26133,8,0
+2020-05-05,Oscoda,Michigan,26135,5,0
+2020-05-05,Otsego,Michigan,26137,94,8
+2020-05-05,Ottawa,Michigan,26139,295,12
+2020-05-05,Presque Isle,Michigan,26141,11,0
+2020-05-05,Roscommon,Michigan,26143,18,0
+2020-05-05,Saginaw,Michigan,26145,742,70
+2020-05-05,Sanilac,Michigan,26151,36,5
+2020-05-05,Schoolcraft,Michigan,26153,3,0
+2020-05-05,Shiawassee,Michigan,26155,189,12
+2020-05-05,St. Clair,Michigan,26147,342,21
+2020-05-05,St. Joseph,Michigan,26149,43,1
+2020-05-05,Tuscola,Michigan,26157,117,14
+2020-05-05,Van Buren,Michigan,26159,69,2
+2020-05-05,Washtenaw,Michigan,26161,1123,76
+2020-05-05,Wayne,Michigan,26163,17391,1945
+2020-05-05,Wexford,Michigan,26165,9,2
+2020-05-06,Alcona,Michigan,26001,4,1
+2020-05-06,Allegan,Michigan,26005,124,2
+2020-05-06,Alpena,Michigan,26007,86,7
+2020-05-06,Antrim,Michigan,26009,10,0
+2020-05-06,Arenac,Michigan,26011,27,1
+2020-05-06,Baraga,Michigan,26013,1,0
+2020-05-06,Barry,Michigan,26015,39,1
+2020-05-06,Bay,Michigan,26017,176,9
+2020-05-06,Benzie,Michigan,26019,4,0
+2020-05-06,Berrien,Michigan,26021,344,20
+2020-05-06,Branch,Michigan,26023,72,2
+2020-05-06,Calhoun,Michigan,26025,250,17
+2020-05-06,Cass,Michigan,26027,35,2
+2020-05-06,Charlevoix,Michigan,26029,14,1
+2020-05-06,Cheboygan,Michigan,26031,19,1
+2020-05-06,Chippewa,Michigan,26033,2,0
+2020-05-06,Clare,Michigan,26035,12,2
+2020-05-06,Clinton,Michigan,26037,123,10
+2020-05-06,Crawford,Michigan,26039,56,4
+2020-05-06,Delta,Michigan,26041,14,2
+2020-05-06,Dickinson,Michigan,26043,4,2
+2020-05-06,Eaton,Michigan,26045,141,6
+2020-05-06,Emmet,Michigan,26047,21,2
+2020-05-06,Genesee,Michigan,26049,1710,208
+2020-05-06,Gladwin,Michigan,26051,15,1
+2020-05-06,Gogebic,Michigan,26053,4,1
+2020-05-06,Grand Traverse,Michigan,26055,20,5
+2020-05-06,Gratiot,Michigan,26057,26,2
+2020-05-06,Hillsdale,Michigan,26059,138,21
+2020-05-06,Houghton,Michigan,26061,2,0
+2020-05-06,Huron,Michigan,26063,28,1
+2020-05-06,Ingham,Michigan,26065,539,14
+2020-05-06,Ionia,Michigan,26067,98,2
+2020-05-06,Iosco,Michigan,26069,53,7
+2020-05-06,Isabella,Michigan,26073,61,7
+2020-05-06,Jackson,Michigan,26075,373,26
+2020-05-06,Kalamazoo,Michigan,26077,539,23
+2020-05-06,Kalkaska,Michigan,26079,17,2
+2020-05-06,Kent,Michigan,26081,2016,40
+2020-05-06,Lake,Michigan,26085,2,0
+2020-05-06,Lapeer,Michigan,26087,174,29
+2020-05-06,Leelanau,Michigan,26089,9,0
+2020-05-06,Lenawee,Michigan,26091,114,2
+2020-05-06,Livingston,Michigan,26093,366,20
+2020-05-06,Luce,Michigan,26095,1,0
+2020-05-06,Mackinac,Michigan,26097,6,0
+2020-05-06,Macomb,Michigan,26099,5832,662
+2020-05-06,Manistee,Michigan,26101,11,0
+2020-05-06,Marquette,Michigan,26103,51,8
+2020-05-06,Mason,Michigan,26105,14,0
+2020-05-06,Mecosta,Michigan,26107,15,2
+2020-05-06,Menominee,Michigan,26109,6,0
+2020-05-06,Midland,Michigan,26111,63,7
+2020-05-06,Missaukee,Michigan,26113,16,1
+2020-05-06,Monroe,Michigan,26115,354,15
+2020-05-06,Montcalm,Michigan,26117,46,1
+2020-05-06,Montmorency,Michigan,26119,5,0
+2020-05-06,Muskegon,Michigan,26121,335,19
+2020-05-06,Newaygo,Michigan,26123,32,0
+2020-05-06,Oakland,Michigan,26125,7573,774
+2020-05-06,Oceana,Michigan,26127,22,1
+2020-05-06,Ogemaw,Michigan,26129,15,0
+2020-05-06,Osceola,Michigan,26133,8,0
+2020-05-06,Oscoda,Michigan,26135,5,0
+2020-05-06,Otsego,Michigan,26137,95,8
+2020-05-06,Ottawa,Michigan,26139,313,14
+2020-05-06,Presque Isle,Michigan,26141,11,0
+2020-05-06,Roscommon,Michigan,26143,18,0
+2020-05-06,Saginaw,Michigan,26145,760,74
+2020-05-06,Sanilac,Michigan,26151,38,5
+2020-05-06,Schoolcraft,Michigan,26153,3,0
+2020-05-06,Shiawassee,Michigan,26155,196,13
+2020-05-06,St. Clair,Michigan,26147,342,22
+2020-05-06,St. Joseph,Michigan,26149,44,1
+2020-05-06,Tuscola,Michigan,26157,118,16
+2020-05-06,Van Buren,Michigan,26159,68,2
+2020-05-06,Washtenaw,Michigan,26161,1129,77
+2020-05-06,Wayne,Michigan,26163,17571,1973
+2020-05-06,Wexford,Michigan,26165,9,2
+2020-05-07,Alcona,Michigan,26001,4,1
+2020-05-07,Allegan,Michigan,26005,126,2
+2020-05-07,Alpena,Michigan,26007,86,8
+2020-05-07,Antrim,Michigan,26009,10,0
+2020-05-07,Arenac,Michigan,26011,27,1
+2020-05-07,Baraga,Michigan,26013,1,0
+2020-05-07,Barry,Michigan,26015,41,1
+2020-05-07,Bay,Michigan,26017,179,9
+2020-05-07,Benzie,Michigan,26019,4,0
+2020-05-07,Berrien,Michigan,26021,354,21
+2020-05-07,Branch,Michigan,26023,73,2
+2020-05-07,Calhoun,Michigan,26025,252,17
+2020-05-07,Cass,Michigan,26027,36,2
+2020-05-07,Charlevoix,Michigan,26029,13,1
+2020-05-07,Cheboygan,Michigan,26031,19,1
+2020-05-07,Chippewa,Michigan,26033,2,0
+2020-05-07,Clare,Michigan,26035,12,2
+2020-05-07,Clinton,Michigan,26037,126,10
+2020-05-07,Crawford,Michigan,26039,56,4
+2020-05-07,Delta,Michigan,26041,15,2
+2020-05-07,Dickinson,Michigan,26043,4,2
+2020-05-07,Eaton,Michigan,26045,146,6
+2020-05-07,Emmet,Michigan,26047,21,2
+2020-05-07,Genesee,Michigan,26049,1731,213
+2020-05-07,Gladwin,Michigan,26051,15,1
+2020-05-07,Gogebic,Michigan,26053,4,1
+2020-05-07,Grand Traverse,Michigan,26055,20,5
+2020-05-07,Gratiot,Michigan,26057,27,2
+2020-05-07,Hillsdale,Michigan,26059,146,21
+2020-05-07,Houghton,Michigan,26061,2,0
+2020-05-07,Huron,Michigan,26063,31,1
+2020-05-07,Ingham,Michigan,26065,557,14
+2020-05-07,Ionia,Michigan,26067,99,2
+2020-05-07,Iosco,Michigan,26069,54,8
+2020-05-07,Isabella,Michigan,26073,61,7
+2020-05-07,Jackson,Michigan,26075,380,26
+2020-05-07,Kalamazoo,Michigan,26077,561,25
+2020-05-07,Kalkaska,Michigan,26079,17,2
+2020-05-07,Kent,Michigan,26081,2076,41
+2020-05-07,Lake,Michigan,26085,2,0
+2020-05-07,Lapeer,Michigan,26087,174,29
+2020-05-07,Leelanau,Michigan,26089,9,0
+2020-05-07,Lenawee,Michigan,26091,121,2
+2020-05-07,Livingston,Michigan,26093,368,20
+2020-05-07,Luce,Michigan,26095,1,0
+2020-05-07,Mackinac,Michigan,26097,6,0
+2020-05-07,Macomb,Michigan,26099,5876,678
+2020-05-07,Manistee,Michigan,26101,11,0
+2020-05-07,Marquette,Michigan,26103,53,8
+2020-05-07,Mason,Michigan,26105,15,0
+2020-05-07,Mecosta,Michigan,26107,15,2
+2020-05-07,Menominee,Michigan,26109,6,0
+2020-05-07,Midland,Michigan,26111,63,8
+2020-05-07,Missaukee,Michigan,26113,16,1
+2020-05-07,Monroe,Michigan,26115,371,15
+2020-05-07,Montcalm,Michigan,26117,46,1
+2020-05-07,Montmorency,Michigan,26119,5,0
+2020-05-07,Muskegon,Michigan,26121,344,19
+2020-05-07,Newaygo,Michigan,26123,34,0
+2020-05-07,Oakland,Michigan,26125,7624,789
+2020-05-07,Oceana,Michigan,26127,23,1
+2020-05-07,Ogemaw,Michigan,26129,15,0
+2020-05-07,Osceola,Michigan,26133,8,0
+2020-05-07,Oscoda,Michigan,26135,5,0
+2020-05-07,Otsego,Michigan,26137,95,8
+2020-05-07,Ottawa,Michigan,26139,331,17
+2020-05-07,Presque Isle,Michigan,26141,12,0
+2020-05-07,Roscommon,Michigan,26143,18,0
+2020-05-07,Saginaw,Michigan,26145,772,78
+2020-05-07,Sanilac,Michigan,26151,38,5
+2020-05-07,Schoolcraft,Michigan,26153,4,0
+2020-05-07,Shiawassee,Michigan,26155,198,13
+2020-05-07,St. Clair,Michigan,26147,342,23
+2020-05-07,St. Joseph,Michigan,26149,47,1
+2020-05-07,Tuscola,Michigan,26157,126,16
+2020-05-07,Van Buren,Michigan,26159,73,2
+2020-05-07,Washtenaw,Michigan,26161,1140,77
+2020-05-07,Wayne,Michigan,26163,17667,2012
+2020-05-07,Wexford,Michigan,26165,9,2

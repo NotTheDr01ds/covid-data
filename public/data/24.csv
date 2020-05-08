@@ -860,22 +860,22 @@ date,county,state,fips,cases,deaths
 2020-04-22,Wicomico,Maryland,24045,183,3
 2020-04-22,Worcester,Maryland,24047,34,0
 2020-04-23,Allegany,Maryland,24001,77,3
-2020-04-23,Anne Arundel,Maryland,24003,1294,54
-2020-04-23,Baltimore,Maryland,24005,2132,62
-2020-04-23,Baltimore city,Maryland,24510,1672,60
+2020-04-23,Anne Arundel,Maryland,24003,1294,61
+2020-04-23,Baltimore,Maryland,24005,2132,71
+2020-04-23,Baltimore city,Maryland,24510,1672,66
 2020-04-23,Calvert,Maryland,24009,121,6
 2020-04-23,Caroline,Maryland,24011,50,0
 2020-04-23,Carroll,Maryland,24013,355,38
 2020-04-23,Cecil,Maryland,24015,140,5
-2020-04-23,Charles,Maryland,24017,442,31
+2020-04-23,Charles,Maryland,24017,442,32
 2020-04-23,Dorchester,Maryland,24019,31,2
-2020-04-23,Frederick,Maryland,24021,690,30
+2020-04-23,Frederick,Maryland,24021,690,36
 2020-04-23,Garrett,Maryland,24023,4,0
-2020-04-23,Harford,Maryland,24025,280,2
-2020-04-23,Howard,Maryland,24027,618,14
+2020-04-23,Harford,Maryland,24025,280,8
+2020-04-23,Howard,Maryland,24027,618,15
 2020-04-23,Kent,Maryland,24029,64,1
-2020-04-23,Montgomery,Maryland,24031,3060,121
-2020-04-23,Prince George's,Maryland,24033,4141,141
+2020-04-23,Montgomery,Maryland,24031,3060,139
+2020-04-23,Prince George's,Maryland,24033,4141,150
 2020-04-23,Queen Anne's,Maryland,24035,33,2
 2020-04-23,Somerset,Maryland,24039,12,0
 2020-04-23,St. Mary's,Maryland,24037,115,4
@@ -884,22 +884,22 @@ date,county,state,fips,cases,deaths
 2020-04-23,Wicomico,Maryland,24045,203,3
 2020-04-23,Worcester,Maryland,24047,39,0
 2020-04-24,Allegany,Maryland,24001,90,3
-2020-04-24,Anne Arundel,Maryland,24003,1373,56
-2020-04-24,Baltimore,Maryland,24005,2234,65
-2020-04-24,Baltimore city,Maryland,24510,1728,65
+2020-04-24,Anne Arundel,Maryland,24003,1373,63
+2020-04-24,Baltimore,Maryland,24005,2234,74
+2020-04-24,Baltimore city,Maryland,24510,1728,71
 2020-04-24,Calvert,Maryland,24009,125,6
 2020-04-24,Caroline,Maryland,24011,55,0
 2020-04-24,Carroll,Maryland,24013,372,44
 2020-04-24,Cecil,Maryland,24015,144,5
-2020-04-24,Charles,Maryland,24017,459,33
+2020-04-24,Charles,Maryland,24017,459,34
 2020-04-24,Dorchester,Maryland,24019,32,2
-2020-04-24,Frederick,Maryland,24021,765,35
+2020-04-24,Frederick,Maryland,24021,765,41
 2020-04-24,Garrett,Maryland,24023,4,0
-2020-04-24,Harford,Maryland,24025,289,3
-2020-04-24,Howard,Maryland,24027,642,14
+2020-04-24,Harford,Maryland,24025,289,8
+2020-04-24,Howard,Maryland,24027,642,15
 2020-04-24,Kent,Maryland,24029,67,2
-2020-04-24,Montgomery,Maryland,24031,3227,135
-2020-04-24,Prince George's,Maryland,24033,4403,147
+2020-04-24,Montgomery,Maryland,24031,3227,154
+2020-04-24,Prince George's,Maryland,24033,4403,158
 2020-04-24,Queen Anne's,Maryland,24035,43,3
 2020-04-24,Somerset,Maryland,24039,13,0
 2020-04-24,St. Mary's,Maryland,24037,119,6
@@ -908,22 +908,22 @@ date,county,state,fips,cases,deaths
 2020-04-24,Wicomico,Maryland,24045,222,3
 2020-04-24,Worcester,Maryland,24047,44,0
 2020-04-25,Allegany,Maryland,24001,105,3
-2020-04-25,Anne Arundel,Maryland,24003,1430,62
-2020-04-25,Baltimore,Maryland,24005,2387,72
-2020-04-25,Baltimore city,Maryland,24510,1791,72
+2020-04-25,Anne Arundel,Maryland,24003,1430,70
+2020-04-25,Baltimore,Maryland,24005,2387,79
+2020-04-25,Baltimore city,Maryland,24510,1791,79
 2020-04-25,Calvert,Maryland,24009,130,7
 2020-04-25,Caroline,Maryland,24011,61,0
 2020-04-25,Carroll,Maryland,24013,384,47
 2020-04-25,Cecil,Maryland,24015,146,5
-2020-04-25,Charles,Maryland,24017,483,34
+2020-04-25,Charles,Maryland,24017,483,35
 2020-04-25,Dorchester,Maryland,24019,38,2
-2020-04-25,Frederick,Maryland,24021,814,39
+2020-04-25,Frederick,Maryland,24021,814,45
 2020-04-25,Garrett,Maryland,24023,4,0
-2020-04-25,Harford,Maryland,24025,302,4
-2020-04-25,Howard,Maryland,24027,686,15
+2020-04-25,Harford,Maryland,24025,302,11
+2020-04-25,Howard,Maryland,24027,686,16
 2020-04-25,Kent,Maryland,24029,67,3
-2020-04-25,Montgomery,Maryland,24031,3483,152
-2020-04-25,Prince George's,Maryland,24033,4795,162
+2020-04-25,Montgomery,Maryland,24031,3483,171
+2020-04-25,Prince George's,Maryland,24033,4795,173
 2020-04-25,Queen Anne's,Maryland,24035,52,3
 2020-04-25,Somerset,Maryland,24039,14,0
 2020-04-25,St. Mary's,Maryland,24037,124,6
@@ -932,22 +932,22 @@ date,county,state,fips,cases,deaths
 2020-04-25,Wicomico,Maryland,24045,242,4
 2020-04-25,Worcester,Maryland,24047,46,0
 2020-04-26,Allegany,Maryland,24001,113,3
-2020-04-26,Anne Arundel,Maryland,24003,1510,63
-2020-04-26,Baltimore,Maryland,24005,2509,73
-2020-04-26,Baltimore city,Maryland,24510,1866,73
+2020-04-26,Anne Arundel,Maryland,24003,1510,71
+2020-04-26,Baltimore,Maryland,24005,2509,89
+2020-04-26,Baltimore city,Maryland,24510,1866,81
 2020-04-26,Calvert,Maryland,24009,134,7
 2020-04-26,Caroline,Maryland,24011,63,0
 2020-04-26,Carroll,Maryland,24013,391,47
 2020-04-26,Cecil,Maryland,24015,154,5
-2020-04-26,Charles,Maryland,24017,504,34
+2020-04-26,Charles,Maryland,24017,504,35
 2020-04-26,Dorchester,Maryland,24019,46,2
-2020-04-26,Frederick,Maryland,24021,834,39
+2020-04-26,Frederick,Maryland,24021,834,45
 2020-04-26,Garrett,Maryland,24023,4,0
-2020-04-26,Harford,Maryland,24025,319,4
-2020-04-26,Howard,Maryland,24027,707,15
+2020-04-26,Harford,Maryland,24025,319,11
+2020-04-26,Howard,Maryland,24027,707,16
 2020-04-26,Kent,Maryland,24029,68,3
-2020-04-26,Montgomery,Maryland,24031,3645,160
-2020-04-26,Prince George's,Maryland,24033,4987,163
+2020-04-26,Montgomery,Maryland,24031,3645,180
+2020-04-26,Prince George's,Maryland,24033,4987,174
 2020-04-26,Queen Anne's,Maryland,24035,53,3
 2020-04-26,Somerset,Maryland,24039,16,0
 2020-04-26,St. Mary's,Maryland,24037,133,6
@@ -956,22 +956,22 @@ date,county,state,fips,cases,deaths
 2020-04-26,Wicomico,Maryland,24045,270,4
 2020-04-26,Worcester,Maryland,24047,48,0
 2020-04-27,Allegany,Maryland,24001,114,4
-2020-04-27,Anne Arundel,Maryland,24003,1544,66
-2020-04-27,Baltimore,Maryland,24005,2548,87
-2020-04-27,Baltimore city,Maryland,24510,1933,82
+2020-04-27,Anne Arundel,Maryland,24003,1544,74
+2020-04-27,Baltimore,Maryland,24005,2548,98
+2020-04-27,Baltimore city,Maryland,24510,1933,88
 2020-04-27,Calvert,Maryland,24009,138,7
 2020-04-27,Caroline,Maryland,24011,68,0
 2020-04-27,Carroll,Maryland,24013,403,37
 2020-04-27,Cecil,Maryland,24015,163,5
-2020-04-27,Charles,Maryland,24017,529,36
+2020-04-27,Charles,Maryland,24017,529,37
 2020-04-27,Dorchester,Maryland,24019,51,2
-2020-04-27,Frederick,Maryland,24021,865,42
+2020-04-27,Frederick,Maryland,24021,865,48
 2020-04-27,Garrett,Maryland,24023,4,0
-2020-04-27,Harford,Maryland,24025,352,4
-2020-04-27,Howard,Maryland,24027,778,16
+2020-04-27,Harford,Maryland,24025,352,11
+2020-04-27,Howard,Maryland,24027,778,17
 2020-04-27,Kent,Maryland,24029,70,4
-2020-04-27,Montgomery,Maryland,24031,3843,190
-2020-04-27,Prince George's,Maryland,24033,5263,187
+2020-04-27,Montgomery,Maryland,24031,3843,210
+2020-04-27,Prince George's,Maryland,24033,5263,198
 2020-04-27,Queen Anne's,Maryland,24035,54,3
 2020-04-27,Somerset,Maryland,24039,19,0
 2020-04-27,St. Mary's,Maryland,24037,144,6
@@ -980,22 +980,22 @@ date,county,state,fips,cases,deaths
 2020-04-27,Wicomico,Maryland,24045,336,5
 2020-04-27,Worcester,Maryland,24047,53,0
 2020-04-28,Allegany,Maryland,24001,115,5
-2020-04-28,Anne Arundel,Maryland,24003,1571,70
-2020-04-28,Baltimore,Maryland,24005,2631,94
-2020-04-28,Baltimore city,Maryland,24510,1977,83
+2020-04-28,Anne Arundel,Maryland,24003,1571,78
+2020-04-28,Baltimore,Maryland,24005,2631,107
+2020-04-28,Baltimore city,Maryland,24510,1977,90
 2020-04-28,Calvert,Maryland,24009,139,8
 2020-04-28,Caroline,Maryland,24011,69,0
 2020-04-28,Carroll,Maryland,24013,416,44
 2020-04-28,Cecil,Maryland,24015,163,6
-2020-04-28,Charles,Maryland,24017,539,38
+2020-04-28,Charles,Maryland,24017,539,39
 2020-04-28,Dorchester,Maryland,24019,52,2
-2020-04-28,Frederick,Maryland,24021,870,42
+2020-04-28,Frederick,Maryland,24021,870,48
 2020-04-28,Garrett,Maryland,24023,4,0
-2020-04-28,Harford,Maryland,24025,358,6
-2020-04-28,Howard,Maryland,24027,802,17
+2020-04-28,Harford,Maryland,24025,358,13
+2020-04-28,Howard,Maryland,24027,802,18
 2020-04-28,Kent,Maryland,24029,73,4
-2020-04-28,Montgomery,Maryland,24031,4003,201
-2020-04-28,Prince George's,Maryland,24033,5496,195
+2020-04-28,Montgomery,Maryland,24031,4003,221
+2020-04-28,Prince George's,Maryland,24033,5496,206
 2020-04-28,Queen Anne's,Maryland,24035,55,4
 2020-04-28,Somerset,Maryland,24039,20,0
 2020-04-28,St. Mary's,Maryland,24037,145,7
@@ -1004,146 +1004,218 @@ date,county,state,fips,cases,deaths
 2020-04-28,Wicomico,Maryland,24045,340,5
 2020-04-28,Worcester,Maryland,24047,54,1
 2020-04-29,Allegany,Maryland,24001,116,6
-2020-04-29,Anne Arundel,Maryland,24003,1662,75
-2020-04-29,Baltimore,Maryland,24005,2740,104
-2020-04-29,Baltimore city,Maryland,24510,2014,94
+2020-04-29,Anne Arundel,Maryland,24003,1670,83
+2020-04-29,Baltimore,Maryland,24005,2754,118
+2020-04-29,Baltimore city,Maryland,24510,2021,101
 2020-04-29,Calvert,Maryland,24009,142,8
 2020-04-29,Caroline,Maryland,24011,69,0
 2020-04-29,Carroll,Maryland,24013,421,53
 2020-04-29,Cecil,Maryland,24015,164,8
-2020-04-29,Charles,Maryland,24017,551,41
+2020-04-29,Charles,Maryland,24017,552,42
 2020-04-29,Dorchester,Maryland,24019,51,2
-2020-04-29,Frederick,Maryland,24021,893,45
+2020-04-29,Frederick,Maryland,24021,899,51
 2020-04-29,Garrett,Maryland,24023,4,0
-2020-04-29,Harford,Maryland,24025,371,6
-2020-04-29,Howard,Maryland,24027,831,18
+2020-04-29,Harford,Maryland,24025,378,13
+2020-04-29,Howard,Maryland,24027,832,19
 2020-04-29,Kent,Maryland,24029,73,4
-2020-04-29,Montgomery,Maryland,24031,4152,218
-2020-04-29,Prince George's,Maryland,24033,5738,213
+2020-04-29,Montgomery,Maryland,24031,4176,242
+2020-04-29,Prince George's,Maryland,24033,5749,224
 2020-04-29,Queen Anne's,Maryland,24035,55,4
-2020-04-29,Somerset,Maryland,24039,21,0
-2020-04-29,St. Mary's,Maryland,24037,145,7
+2020-04-29,Somerset,Maryland,24039,21,1
+2020-04-29,St. Mary's,Maryland,24037,146,8
 2020-04-29,Talbot,Maryland,24041,34,1
 2020-04-29,Washington,Maryland,24043,197,3
 2020-04-29,Wicomico,Maryland,24045,350,7
 2020-04-29,Worcester,Maryland,24047,55,2
 2020-04-30,Allegany,Maryland,24001,118,7
-2020-04-30,Anne Arundel,Maryland,24003,1725,83
-2020-04-30,Baltimore,Maryland,24005,2831,110
-2020-04-30,Baltimore city,Maryland,24510,2068,104
+2020-04-30,Anne Arundel,Maryland,24003,1733,91
+2020-04-30,Baltimore,Maryland,24005,2844,123
+2020-04-30,Baltimore city,Maryland,24510,2076,112
 2020-04-30,Calvert,Maryland,24009,150,8
 2020-04-30,Caroline,Maryland,24011,71,0
 2020-04-30,Carroll,Maryland,24013,436,54
 2020-04-30,Cecil,Maryland,24015,167,8
-2020-04-30,Charles,Maryland,24017,564,43
+2020-04-30,Charles,Maryland,24017,565,44
 2020-04-30,Dorchester,Maryland,24019,51,2
-2020-04-30,Frederick,Maryland,24021,918,49
+2020-04-30,Frederick,Maryland,24021,925,56
 2020-04-30,Garrett,Maryland,24023,4,0
-2020-04-30,Harford,Maryland,24025,414,6
-2020-04-30,Howard,Maryland,24027,867,18
+2020-04-30,Harford,Maryland,24025,421,13
+2020-04-30,Howard,Maryland,24027,867,19
 2020-04-30,Kent,Maryland,24029,79,5
-2020-04-30,Montgomery,Maryland,24031,4300,229
-2020-04-30,Prince George's,Maryland,24033,6043,229
+2020-04-30,Montgomery,Maryland,24031,4326,255
+2020-04-30,Prince George's,Maryland,24033,6054,240
 2020-04-30,Queen Anne's,Maryland,24035,52,6
-2020-04-30,Somerset,Maryland,24039,26,0
-2020-04-30,St. Mary's,Maryland,24037,150,7
+2020-04-30,Somerset,Maryland,24039,26,1
+2020-04-30,St. Mary's,Maryland,24037,152,8
 2020-04-30,Talbot,Maryland,24041,35,1
 2020-04-30,Washington,Maryland,24043,206,4
 2020-04-30,Wicomico,Maryland,24045,406,7
 2020-04-30,Worcester,Maryland,24047,61,2
 2020-05-01,Allegany,Maryland,24001,118,7
-2020-05-01,Anne Arundel,Maryland,24003,1807,82
-2020-05-01,Baltimore,Maryland,24005,3013,116
-2020-05-01,Baltimore city,Maryland,24510,2162,106
+2020-05-01,Anne Arundel,Maryland,24003,1815,90
+2020-05-01,Baltimore,Maryland,24005,3026,129
+2020-05-01,Baltimore city,Maryland,24510,2171,115
 2020-05-01,Calvert,Maryland,24009,161,9
 2020-05-01,Caroline,Maryland,24011,74,0
 2020-05-01,Carroll,Maryland,24013,460,58
 2020-05-01,Cecil,Maryland,24015,176,8
-2020-05-01,Charles,Maryland,24017,611,44
+2020-05-01,Charles,Maryland,24017,613,46
 2020-05-01,Dorchester,Maryland,24019,54,2
-2020-05-01,Frederick,Maryland,24021,942,49
+2020-05-01,Frederick,Maryland,24021,949,56
 2020-05-01,Garrett,Maryland,24023,4,0
-2020-05-01,Harford,Maryland,24025,437,9
-2020-05-01,Howard,Maryland,24027,896,18
+2020-05-01,Harford,Maryland,24025,443,15
+2020-05-01,Howard,Maryland,24027,897,19
 2020-05-01,Kent,Maryland,24029,86,4
-2020-05-01,Montgomery,Maryland,24031,4754,236
-2020-05-01,Prince George's,Maryland,24033,6735,231
+2020-05-01,Montgomery,Maryland,24031,4780,262
+2020-05-01,Prince George's,Maryland,24033,6747,243
 2020-05-01,Queen Anne's,Maryland,24035,52,7
 2020-05-01,Somerset,Maryland,24039,30,0
 2020-05-01,St. Mary's,Maryland,24037,159,7
 2020-05-01,Talbot,Maryland,24041,35,1
 2020-05-01,Washington,Maryland,24043,216,4
 2020-05-01,Wicomico,Maryland,24045,425,7
-2020-05-01,Worcester,Maryland,24047,65,2
+2020-05-01,Worcester,Maryland,24047,66,3
 2020-05-02,Allegany,Maryland,24001,121,8
-2020-05-02,Anne Arundel,Maryland,24003,1885,86
-2020-05-02,Baltimore,Maryland,24005,3183,125
-2020-05-02,Baltimore city,Maryland,24510,2237,117
-2020-05-02,Calvert,Maryland,24009,160,10
+2020-05-02,Anne Arundel,Maryland,24003,1893,94
+2020-05-02,Baltimore,Maryland,24005,3197,139
+2020-05-02,Baltimore city,Maryland,24510,2246,126
+2020-05-02,Calvert,Maryland,24009,161,11
 2020-05-02,Caroline,Maryland,24011,79,0
 2020-05-02,Carroll,Maryland,24013,480,59
 2020-05-02,Cecil,Maryland,24015,187,8
-2020-05-02,Charles,Maryland,24017,622,45
+2020-05-02,Charles,Maryland,24017,624,47
 2020-05-02,Dorchester,Maryland,24019,59,2
-2020-05-02,Frederick,Maryland,24021,976,52
+2020-05-02,Frederick,Maryland,24021,983,59
 2020-05-02,Garrett,Maryland,24023,4,0
-2020-05-02,Harford,Maryland,24025,468,10
-2020-05-02,Howard,Maryland,24027,931,19
+2020-05-02,Harford,Maryland,24025,474,16
+2020-05-02,Howard,Maryland,24027,932,20
 2020-05-02,Kent,Maryland,24029,80,4
-2020-05-02,Montgomery,Maryland,24031,4919,256
-2020-05-02,Prince George's,Maryland,24033,7041,257
+2020-05-02,Montgomery,Maryland,24031,4945,282
+2020-05-02,Prince George's,Maryland,24033,7053,269
 2020-05-02,Queen Anne's,Maryland,24035,57,8
 2020-05-02,Somerset,Maryland,24039,32,0
 2020-05-02,St. Mary's,Maryland,24037,164,7
 2020-05-02,Talbot,Maryland,24041,39,1
 2020-05-02,Washington,Maryland,24043,225,6
 2020-05-02,Wicomico,Maryland,24045,452,10
-2020-05-02,Worcester,Maryland,24047,72,2
+2020-05-02,Worcester,Maryland,24047,73,3
 2020-05-03,Allegany,Maryland,24001,124,12
-2020-05-03,Anne Arundel,Maryland,24003,1959,88
-2020-05-03,Baltimore,Maryland,24005,3301,133
-2020-05-03,Baltimore city,Maryland,24510,2319,120
-2020-05-03,Calvert,Maryland,24009,162,10
+2020-05-03,Anne Arundel,Maryland,24003,1967,96
+2020-05-03,Baltimore,Maryland,24005,3315,147
+2020-05-03,Baltimore city,Maryland,24510,2328,129
+2020-05-03,Calvert,Maryland,24009,163,11
 2020-05-03,Caroline,Maryland,24011,95,0
 2020-05-03,Carroll,Maryland,24013,494,59
 2020-05-03,Cecil,Maryland,24015,188,9
-2020-05-03,Charles,Maryland,24017,637,47
+2020-05-03,Charles,Maryland,24017,640,50
 2020-05-03,Dorchester,Maryland,24019,71,2
-2020-05-03,Frederick,Maryland,24021,1004,54
+2020-05-03,Frederick,Maryland,24021,1011,61
 2020-05-03,Garrett,Maryland,24023,4,0
-2020-05-03,Harford,Maryland,24025,479,10
-2020-05-03,Howard,Maryland,24027,969,19
+2020-05-03,Harford,Maryland,24025,485,16
+2020-05-03,Howard,Maryland,24027,970,20
 2020-05-03,Kent,Maryland,24029,91,6
-2020-05-03,Montgomery,Maryland,24031,5150,268
-2020-05-03,Prince George's,Maryland,24033,7333,265
+2020-05-03,Montgomery,Maryland,24031,5177,295
+2020-05-03,Prince George's,Maryland,24033,7345,277
 2020-05-03,Queen Anne's,Maryland,24035,60,8
 2020-05-03,Somerset,Maryland,24039,33,0
 2020-05-03,St. Mary's,Maryland,24037,165,7
 2020-05-03,Talbot,Maryland,24041,44,1
 2020-05-03,Washington,Maryland,24043,232,6
 2020-05-03,Wicomico,Maryland,24045,473,10
-2020-05-03,Worcester,Maryland,24047,75,2
+2020-05-03,Worcester,Maryland,24047,76,3
 2020-05-04,Allegany,Maryland,24001,126,12
-2020-05-04,Anne Arundel,Maryland,24003,2018,93
-2020-05-04,Baltimore,Maryland,24005,3448,136
-2020-05-04,Baltimore city,Maryland,24510,2411,120
-2020-05-04,Calvert,Maryland,24009,171,10
+2020-05-04,Anne Arundel,Maryland,24003,2026,101
+2020-05-04,Baltimore,Maryland,24005,3463,151
+2020-05-04,Baltimore city,Maryland,24510,2420,129
+2020-05-04,Calvert,Maryland,24009,172,11
 2020-05-04,Caroline,Maryland,24011,98,0
 2020-05-04,Carroll,Maryland,24013,506,59
 2020-05-04,Cecil,Maryland,24015,194,10
-2020-05-04,Charles,Maryland,24017,651,47
+2020-05-04,Charles,Maryland,24017,654,50
 2020-05-04,Dorchester,Maryland,24019,75,2
-2020-05-04,Frederick,Maryland,24021,1038,55
+2020-05-04,Frederick,Maryland,24021,1045,62
 2020-05-04,Garrett,Maryland,24023,4,0
-2020-05-04,Harford,Maryland,24025,491,10
-2020-05-04,Howard,Maryland,24027,992,21
+2020-05-04,Harford,Maryland,24025,497,16
+2020-05-04,Howard,Maryland,24027,993,22
 2020-05-04,Kent,Maryland,24029,95,7
-2020-05-04,Montgomery,Maryland,24031,5384,274
-2020-05-04,Prince George's,Maryland,24033,7598,271
+2020-05-04,Montgomery,Maryland,24031,5411,301
+2020-05-04,Prince George's,Maryland,24033,7611,284
 2020-05-04,Queen Anne's,Maryland,24035,63,8
 2020-05-04,Somerset,Maryland,24039,35,0
 2020-05-04,St. Mary's,Maryland,24037,168,7
 2020-05-04,Talbot,Maryland,24041,45,1
 2020-05-04,Washington,Maryland,24043,237,6
 2020-05-04,Wicomico,Maryland,24045,480,10
-2020-05-04,Worcester,Maryland,24047,80,2
+2020-05-04,Worcester,Maryland,24047,81,3
+2020-05-05,Allegany,Maryland,24001,129,12
+2020-05-05,Anne Arundel,Maryland,24003,2054,107
+2020-05-05,Baltimore,Maryland,24005,3445,157
+2020-05-05,Baltimore city,Maryland,24510,2618,133
+2020-05-05,Calvert,Maryland,24009,175,11
+2020-05-05,Caroline,Maryland,24011,99,0
+2020-05-05,Carroll,Maryland,24013,513,61
+2020-05-05,Cecil,Maryland,24015,195,13
+2020-05-05,Charles,Maryland,24017,663,50
+2020-05-05,Dorchester,Maryland,24019,76,2
+2020-05-05,Frederick,Maryland,24021,1078,66
+2020-05-05,Garrett,Maryland,24023,4,0
+2020-05-05,Harford,Maryland,24025,503,19
+2020-05-05,Howard,Maryland,24027,1011,23
+2020-05-05,Kent,Maryland,24029,95,7
+2020-05-05,Montgomery,Maryland,24031,5569,320
+2020-05-05,Prince George's,Maryland,24033,7846,295
+2020-05-05,Queen Anne's,Maryland,24035,65,8
+2020-05-05,Somerset,Maryland,24039,37,0
+2020-05-05,St. Mary's,Maryland,24037,170,7
+2020-05-05,Talbot,Maryland,24041,45,1
+2020-05-05,Washington,Maryland,24043,238,6
+2020-05-05,Wicomico,Maryland,24045,500,11
+2020-05-05,Worcester,Maryland,24047,82,3
+2020-05-06,Allegany,Maryland,24001,129,12
+2020-05-06,Anne Arundel,Maryland,24003,2094,108
+2020-05-06,Baltimore,Maryland,24005,3541,163
+2020-05-06,Baltimore city,Maryland,24510,2761,140
+2020-05-06,Calvert,Maryland,24009,185,11
+2020-05-06,Caroline,Maryland,24011,101,0
+2020-05-06,Carroll,Maryland,24013,521,61
+2020-05-06,Cecil,Maryland,24015,200,13
+2020-05-06,Charles,Maryland,24017,673,52
+2020-05-06,Dorchester,Maryland,24019,79,2
+2020-05-06,Frederick,Maryland,24021,1115,68
+2020-05-06,Garrett,Maryland,24023,4,0
+2020-05-06,Harford,Maryland,24025,536,21
+2020-05-06,Howard,Maryland,24027,1062,25
+2020-05-06,Kent,Maryland,24029,95,8
+2020-05-06,Montgomery,Maryland,24031,5819,333
+2020-05-06,Prince George's,Maryland,24033,8150,311
+2020-05-06,Queen Anne's,Maryland,24035,67,8
+2020-05-06,Somerset,Maryland,24039,39,0
+2020-05-06,St. Mary's,Maryland,24037,186,7
+2020-05-06,Talbot,Maryland,24041,45,1
+2020-05-06,Washington,Maryland,24043,251,7
+2020-05-06,Wicomico,Maryland,24045,517,11
+2020-05-06,Worcester,Maryland,24047,87,3
+2020-05-07,Allegany,Maryland,24001,143,12
+2020-05-07,Anne Arundel,Maryland,24003,2203,111
+2020-05-07,Baltimore,Maryland,24005,3676,169
+2020-05-07,Baltimore city,Maryland,24510,2865,149
+2020-05-07,Calvert,Maryland,24009,189,11
+2020-05-07,Caroline,Maryland,24011,105,0
+2020-05-07,Carroll,Maryland,24013,534,54
+2020-05-07,Cecil,Maryland,24015,208,13
+2020-05-07,Charles,Maryland,24017,701,51
+2020-05-07,Dorchester,Maryland,24019,85,2
+2020-05-07,Frederick,Maryland,24021,1158,70
+2020-05-07,Garrett,Maryland,24023,4,0
+2020-05-07,Harford,Maryland,24025,556,22
+2020-05-07,Howard,Maryland,24027,1099,27
+2020-05-07,Kent,Maryland,24029,98,8
+2020-05-07,Montgomery,Maryland,24031,6062,345
+2020-05-07,Prince George's,Maryland,24033,8531,324
+2020-05-07,Queen Anne's,Maryland,24035,68,8
+2020-05-07,Somerset,Maryland,24039,40,0
+2020-05-07,St. Mary's,Maryland,24037,193,8
+2020-05-07,Talbot,Maryland,24041,52,1
+2020-05-07,Washington,Maryland,24043,260,7
+2020-05-07,Wicomico,Maryland,24045,541,13
+2020-05-07,Worcester,Maryland,24047,97,3

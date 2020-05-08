@@ -6,10 +6,7 @@
 
 .DS_Store
 .s3cmdcache
-/data/archive
-/data/*.html
-/data/*.mhtml
-/data/*_files/
+/data/*
 /public/preview*
 .s3cmd_full_cache
 *.swp
