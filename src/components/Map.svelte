@@ -68,6 +68,13 @@
     }
   }
 
+  function clickHandler(geoId) {
+    let submap = mapLookup[mapName]["submapName"];
+    if (submap) {
+      location=`?map=${submap}&state=${geoId}`;
+    }
+  }
+
 </script>
 
 <div class="MapComponent">
@@ -80,6 +87,7 @@
           fill="{statDetails.colorScale(statDetails.table[geoId])}" 
           on:mouseover={(event) => hover(geoId,mapData[geoId].name,statKey)}
           on:mouseout={(event) => hoverOut(geoId)}
+          on:click={(event) => clickHandler(geoId)}
         />
       {/each}
     </svg>

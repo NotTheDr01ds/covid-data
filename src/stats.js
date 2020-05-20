@@ -69,27 +69,27 @@ export const statLookup = {
     format: (value) => { return value.toLocaleString() }
   },
   dailyCasesPerCapita: {
-    description: "New Cases per 1M Residents (1 Day)",
+    description: "New Cases per 100k Residents (1 Day)",
     calc: (id, statData) => {
       let previousDay = statData.endDate.clone().subtract(1, "day");
       let dayCases = getDayData(statData.caseDataLookup, id, statData.endDate).cases;
       let previousDayCases = getDayData(statData.caseDataLookup, id, previousDay).cases;
       let population = statData.censusData[id].population;
       let newCases = dayCases - previousDayCases;
-      return (newCases / population) * 1000000;
+      return (newCases / population) * 100000;
     },
     format: (value) => { return `${value.toFixed(2).toLocaleString()}`}
 
   },
   dailyDeathsPerCapita: {
-    description: "Deaths per 1M Residents (1 Day)",
+    description: "Deaths per 100k Residents (1 Day)",
     calc: (id, statData) => {
       let previousDay = statData.endDate.clone().subtract(1, "day");
       let dayDeaths = getDayData(statData.caseDataLookup, id, statData.endDate).deaths;
       let previousDayDeaths = getDayData(statData.caseDataLookup, id, previousDay).deaths;
       let population = statData.censusData[id].population;
       let newDeaths = dayDeaths - previousDayDeaths;
-      return (newDeaths / population) * 1000000;
+      return (newDeaths / population) * 100000;
     },
     format: (value) => { return `${value.toFixed(2).toLocaleString()}`}
   },
@@ -105,8 +105,20 @@ export const statLookup = {
     format: (value) => { return `${value.toLocaleString()}`}
 
   },
+  weeklyDeaths: {
+    description: "New Deaths (7 day)",
+    calc: (id, statData) => {
+      let sevenDaysPrior = statData.endDate.clone().subtract(1, "week");
+      let dayDeaths = getDayData(statData.caseDataLookup, id, statData.endDate).deaths;
+      let previousWeekDeaths = getDayData(statData.caseDataLookup, id, sevenDaysPrior).deaths;
+      let newDeaths = dayDeaths - previousWeekDeaths;
+      return newDeaths
+    },
+    format: (value) => { return `${value.toLocaleString()}`}
+
+  },
   weeklyCasesPerCapita: {
-    description: "New Cases per 1M Residents (7 day)",
+    description: "New Cases per 100k Residents (7 day)",
     calc: (id, statData) => {
       //let dayCases = statData.caseDataLookup[id][statData.endDate].cases;
       let dayCases = getDayData(statData.caseDataLookup, id, statData.endDate).cases;
@@ -115,7 +127,22 @@ export const statLookup = {
       let previousWeekCases = getDayData(statData.caseDataLookup, id, sevenDaysPrior).cases;
       let population = statData.censusData[id].population;
       let newCases = dayCases - previousWeekCases;
-      return (newCases / population) * 1000000;
+      return (newCases / population) * 100000;
+    },
+    format: (value) => { return `${value.toLocaleString(undefined, { maximumFractionDigits: 2})}`}
+
+  },
+  weeklyDeathsPerCapita: {
+    description: "New Deaths per 100k Residents (7 day)",
+    calc: (id, statData) => {
+      //let dayCases = statData.caseDataLookup[id][statData.endDate].cases;
+      let dayDeaths = getDayData(statData.caseDataLookup, id, statData.endDate).deaths;
+      let sevenDaysPrior = statData.endDate.clone().subtract(7, "days");
+      //let previousWeekCases = statData.caseDataLookup[id][sevenDaysPrior].cases;
+      let previousWeekDeaths = getDayData(statData.caseDataLookup, id, sevenDaysPrior).deaths;
+      let population = statData.censusData[id].population;
+      let newDeaths = dayDeaths - previousWeekDeaths;
+      return (newDeaths / population) * 100000;
     },
     format: (value) => { return `${value.toLocaleString(undefined, { maximumFractionDigits: 2})}`}
 

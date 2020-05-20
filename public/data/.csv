@@ -786,7 +786,7 @@ date,county,state,fips,cases,deaths
 2020-04-15,Unknown,Kentucky,,77,1
 2020-04-15,Unknown,Louisiana,,56,1
 2020-04-15,Unknown,Maine,,2,0
-2020-04-15,Unknown,Maryland,,0,71
+2020-04-15,Unknown,Maryland,,14,99
 2020-04-15,Unknown,Massachusetts,,572,7
 2020-04-15,Unknown,Michigan,,584,17
 2020-04-15,Unknown,Minnesota,,5,0
@@ -816,7 +816,7 @@ date,county,state,fips,cases,deaths
 2020-04-16,Unknown,Kentucky,,76,1
 2020-04-16,Unknown,Louisiana,,56,1
 2020-04-16,Unknown,Maine,,2,0
-2020-04-16,Unknown,Maryland,,0,71
+2020-04-16,Unknown,Maryland,,13,104
 2020-04-16,Unknown,Massachusetts,,638,9
 2020-04-16,Unknown,Michigan,,601,16
 2020-04-16,Unknown,Minnesota,,5,0
@@ -848,7 +848,7 @@ date,county,state,fips,cases,deaths
 2020-04-17,Unknown,Kentucky,,25,0
 2020-04-17,Unknown,Louisiana,,56,1
 2020-04-17,Unknown,Maine,,2,0
-2020-04-17,Unknown,Maryland,,0,71
+2020-04-17,Unknown,Maryland,,11,99
 2020-04-17,Unknown,Massachusetts,,760,12
 2020-04-17,Unknown,Michigan,,604,19
 2020-04-17,Unknown,Minnesota,,1,0
@@ -881,7 +881,7 @@ date,county,state,fips,cases,deaths
 2020-04-18,Unknown,Kentucky,,35,0
 2020-04-18,Unknown,Louisiana,,57,1
 2020-04-18,Unknown,Maine,,1,0
-2020-04-18,Unknown,Maryland,,0,96
+2020-04-18,Unknown,Maryland,,11,107
 2020-04-18,Unknown,Massachusetts,,733,13
 2020-04-18,Unknown,Michigan,,643,22
 2020-04-18,Unknown,Minnesota,,4,0
@@ -911,7 +911,7 @@ date,county,state,fips,cases,deaths
 2020-04-19,Unknown,Kentucky,,38,0
 2020-04-19,Unknown,Louisiana,,58,1
 2020-04-19,Unknown,Maine,,2,0
-2020-04-19,Unknown,Maryland,,0,69
+2020-04-19,Unknown,Maryland,,10,79
 2020-04-19,Unknown,Massachusetts,,815,13
 2020-04-19,Unknown,Michigan,,636,21
 2020-04-19,Unknown,Minnesota,,4,0
@@ -940,7 +940,7 @@ date,county,state,fips,cases,deaths
 2020-04-20,Unknown,Kentucky,,35,0
 2020-04-20,Unknown,Louisiana,,59,1
 2020-04-20,Unknown,Maine,,1,0
-2020-04-20,Unknown,Maryland,,0,77
+2020-04-20,Unknown,Maryland,,10,87
 2020-04-20,Unknown,Massachusetts,,855,9
 2020-04-20,Unknown,Michigan,,644,23
 2020-04-20,Unknown,Minnesota,,4,0
@@ -969,7 +969,7 @@ date,county,state,fips,cases,deaths
 2020-04-21,Unknown,Iowa,,3,2
 2020-04-21,Unknown,Louisiana,,59,2
 2020-04-21,Unknown,Maine,,1,0
-2020-04-21,Unknown,Maryland,,0,97
+2020-04-21,Unknown,Maryland,,12,113
 2020-04-21,Unknown,Massachusetts,,929,8
 2020-04-21,Unknown,Michigan,,698,22
 2020-04-21,Unknown,Minnesota,,4,0
@@ -997,7 +997,7 @@ date,county,state,fips,cases,deaths
 2020-04-22,Unknown,Kentucky,,70,0
 2020-04-22,Unknown,Louisiana,,60,1
 2020-04-22,Unknown,Maine,,2,0
-2020-04-22,Unknown,Maryland,,0,97
+2020-04-22,Unknown,Maryland,,8,102
 2020-04-22,Unknown,Massachusetts,,854,9
 2020-04-22,Unknown,Michigan,,715,25
 2020-04-22,Unknown,Minnesota,,4,0
@@ -1026,7 +1026,7 @@ date,county,state,fips,cases,deaths
 2020-04-23,Unknown,Illinois,,191,0
 2020-04-23,Unknown,Iowa,,3,7
 2020-04-23,Unknown,Louisiana,,62,0
-2020-04-23,Unknown,Maryland,,0,97
+2020-04-23,Unknown,Maryland,,5,102
 2020-04-23,Unknown,Massachusetts,,737,10
 2020-04-23,Unknown,Michigan,,829,28
 2020-04-23,Unknown,Minnesota,,4,0
@@ -1053,7 +1053,7 @@ date,county,state,fips,cases,deaths
 2020-04-24,Unknown,Iowa,,0,1
 2020-04-24,Unknown,Kentucky,,19,0
 2020-04-24,Unknown,Louisiana,,63,0
-2020-04-24,Unknown,Maryland,,0,101
+2020-04-24,Unknown,Maryland,,9,101
 2020-04-24,Unknown,Massachusetts,,791,12
 2020-04-24,Unknown,Michigan,,1050,29
 2020-04-24,Unknown,Minnesota,,6,0
@@ -1080,7 +1080,7 @@ date,county,state,fips,cases,deaths
 2020-04-25,Unknown,Kentucky,,35,5
 2020-04-25,Unknown,Louisiana,,63,0
 2020-04-25,Unknown,Maine,,2,0
-2020-04-25,Unknown,Maryland,,0,101
+2020-04-25,Unknown,Maryland,,9,113
 2020-04-25,Unknown,Massachusetts,,753,13
 2020-04-25,Unknown,Michigan,,1102,33
 2020-04-25,Unknown,Minnesota,,5,0
@@ -1106,7 +1106,7 @@ date,county,state,fips,cases,deaths
 2020-04-26,Unknown,Kentucky,,13,0
 2020-04-26,Unknown,Louisiana,,64,0
 2020-04-26,Unknown,Maine,,2,0
-2020-04-26,Unknown,Maryland,,0,119
+2020-04-26,Unknown,Maryland,,13,134
 2020-04-26,Unknown,Massachusetts,,807,14
 2020-04-26,Unknown,Michigan,,1115,34
 2020-04-26,Unknown,Minnesota,,7,0
@@ -1133,7 +1133,7 @@ date,county,state,fips,cases,deaths
 2020-04-27,Unknown,Kentucky,,11,0
 2020-04-27,Unknown,Louisiana,,64,0
 2020-04-27,Unknown,Maine,,2,0
-2020-04-27,Unknown,Maryland,,0,86
+2020-04-27,Unknown,Maryland,,16,87
 2020-04-27,Unknown,Massachusetts,,795,8
 2020-04-27,Unknown,Michigan,,1134,39
 2020-04-27,Unknown,Minnesota,,5,0
@@ -1161,7 +1161,7 @@ date,county,state,fips,cases,deaths
 2020-04-28,Unknown,Kentucky,,28,0
 2020-04-28,Unknown,Louisiana,,61,0
 2020-04-28,Unknown,Maine,,1,0
-2020-04-28,Unknown,Maryland,,0,106
+2020-04-28,Unknown,Maryland,,13,106
 2020-04-28,Unknown,Massachusetts,,625,5
 2020-04-28,Unknown,Michigan,,1167,41
 2020-04-28,Unknown,Minnesota,,6,0
@@ -1430,3 +1430,340 @@ date,county,state,fips,cases,deaths
 2020-05-07,Unknown,Vermont,,4,0
 2020-05-07,Unknown,Virgin Islands,,66,4
 2020-05-07,Unknown,Virginia,,2,0
+2020-05-08,Unknown,Arkansas,,154,0
+2020-05-08,Unknown,California,,2,0
+2020-05-08,Unknown,Colorado,,32,1
+2020-05-08,Unknown,Connecticut,,302,3
+2020-05-08,Unknown,Delaware,,28,0
+2020-05-08,Unknown,Florida,,33,0
+2020-05-08,Unknown,Georgia,,853,0
+2020-05-08,Unknown,Guam,,1120,6
+2020-05-08,Unknown,Illinois,,48,0
+2020-05-08,Unknown,Iowa,,17,0
+2020-05-08,Unknown,Louisiana,,63,1
+2020-05-08,Unknown,Maine,,6,0
+2020-05-08,Unknown,Maryland,,10,99
+2020-05-08,Unknown,Massachusetts,,297,3
+2020-05-08,Unknown,Michigan,,2304,53
+2020-05-08,Unknown,Minnesota,,30,0
+2020-05-08,Kansas City,Missouri,,739,16
+2020-05-08,Unknown,Nebraska,,3,0
+2020-05-08,Unknown,Nevada,,0,3
+2020-05-08,Unknown,New Hampshire,,28,0
+2020-05-08,Unknown,New Jersey,,553,1
+2020-05-08,New York City,New York,,187157,19210
+2020-05-08,Unknown,Northern Mariana Islands,,15,2
+2020-05-08,Unknown,Puerto Rico,,2156,107
+2020-05-08,Unknown,Rhode Island,,2260,80
+2020-05-08,Unknown,Tennessee,,71,0
+2020-05-08,Unknown,Utah,,2,3
+2020-05-08,Unknown,Vermont,,4,0
+2020-05-08,Unknown,Virgin Islands,,68,4
+2020-05-08,Unknown,Virginia,,2,0
+2020-05-09,Unknown,Arkansas,,154,0
+2020-05-09,Unknown,California,,2,0
+2020-05-09,Unknown,Colorado,,71,1
+2020-05-09,Unknown,Connecticut,,246,3
+2020-05-09,Unknown,Delaware,,27,0
+2020-05-09,Unknown,Florida,,49,0
+2020-05-09,Unknown,Georgia,,750,0
+2020-05-09,Unknown,Guam,,1120,6
+2020-05-09,Unknown,Illinois,,73,0
+2020-05-09,Unknown,Iowa,,3,0
+2020-05-09,Unknown,Louisiana,,64,1
+2020-05-09,Unknown,Maine,,1,0
+2020-05-09,Unknown,Maryland,,7,101
+2020-05-09,Unknown,Massachusetts,,288,3
+2020-05-09,Unknown,Michigan,,2258,53
+2020-05-09,Unknown,Minnesota,,16,0
+2020-05-09,Kansas City,Missouri,,752,16
+2020-05-09,Unknown,Nebraska,,21,2
+2020-05-09,Unknown,Nevada,,0,5
+2020-05-09,Unknown,New Hampshire,,32,0
+2020-05-09,Unknown,New Jersey,,557,0
+2020-05-09,New York City,New York,,188663,19324
+2020-05-09,Unknown,Northern Mariana Islands,,16,2
+2020-05-09,Unknown,Puerto Rico,,2173,108
+2020-05-09,Unknown,Rhode Island,,2470,99
+2020-05-09,Unknown,Tennessee,,71,0
+2020-05-09,Unknown,Utah,,17,2
+2020-05-09,Unknown,Vermont,,4,0
+2020-05-09,Unknown,Virgin Islands,,69,4
+2020-05-09,Unknown,Virginia,,2,0
+2020-05-10,Unknown,Arkansas,,127,0
+2020-05-10,Unknown,Colorado,,114,1
+2020-05-10,Unknown,Connecticut,,300,3
+2020-05-10,Unknown,Delaware,,41,0
+2020-05-10,Unknown,Florida,,50,0
+2020-05-10,Unknown,Georgia,,1004,2
+2020-05-10,Unknown,Guam,,1120,6
+2020-05-10,Unknown,Illinois,,84,0
+2020-05-10,Unknown,Louisiana,,64,1
+2020-05-10,Unknown,Maine,,3,0
+2020-05-10,Unknown,Maryland,,8,91
+2020-05-10,Unknown,Massachusetts,,303,5
+2020-05-10,Unknown,Michigan,,2265,55
+2020-05-10,Unknown,Minnesota,,17,0
+2020-05-10,Kansas City,Missouri,,767,16
+2020-05-10,Unknown,Nebraska,,0,2
+2020-05-10,Unknown,New Hampshire,,28,0
+2020-05-10,Unknown,New Jersey,,591,0
+2020-05-10,New York City,New York,,189656,19436
+2020-05-10,Unknown,Northern Mariana Islands,,16,2
+2020-05-10,Unknown,Puerto Rico,,2198,111
+2020-05-10,Unknown,Rhode Island,,2755,103
+2020-05-10,Unknown,Tennessee,,75,0
+2020-05-10,Unknown,Utah,,11,3
+2020-05-10,Unknown,Vermont,,4,0
+2020-05-10,Unknown,Virgin Islands,,69,4
+2020-05-10,Unknown,Virginia,,2,0
+2020-05-11,Unknown,Arkansas,,131,0
+2020-05-11,Unknown,Colorado,,67,2
+2020-05-11,Unknown,Connecticut,,273,3
+2020-05-11,Unknown,Delaware,,40,0
+2020-05-11,Unknown,Florida,,50,0
+2020-05-11,Unknown,Georgia,,914,2
+2020-05-11,Unknown,Guam,,1120,6
+2020-05-11,Unknown,Iowa,,5,0
+2020-05-11,Unknown,Louisiana,,64,2
+2020-05-11,Unknown,Maine,,6,0
+2020-05-11,Unknown,Maryland,,10,106
+2020-05-11,Unknown,Massachusetts,,287,5
+2020-05-11,Unknown,Michigan,,2263,58
+2020-05-11,Unknown,Minnesota,,25,0
+2020-05-11,Kansas City,Missouri,,783,16
+2020-05-11,Unknown,Nevada,,8,6
+2020-05-11,Unknown,New Hampshire,,31,0
+2020-05-11,Unknown,New Jersey,,729,0
+2020-05-11,New York City,New York,,190546,19563
+2020-05-11,Unknown,Northern Mariana Islands,,19,2
+2020-05-11,Unknown,Puerto Rico,,2256,113
+2020-05-11,Unknown,Rhode Island,,1158,5
+2020-05-11,Unknown,Tennessee,,78,0
+2020-05-11,Unknown,Vermont,,4,0
+2020-05-11,Unknown,Virgin Islands,,69,5
+2020-05-11,Unknown,Virginia,,2,0
+2020-05-12,Unknown,Arkansas,,137,0
+2020-05-12,Unknown,Colorado,,47,2
+2020-05-12,Unknown,Connecticut,,263,3
+2020-05-12,Unknown,Delaware,,36,1
+2020-05-12,Unknown,Florida,,57,0
+2020-05-12,Unknown,Georgia,,1135,0
+2020-05-12,Unknown,Guam,,1121,6
+2020-05-12,Unknown,Iowa,,6,0
+2020-05-12,Unknown,Louisiana,,64,1
+2020-05-12,Unknown,Maine,,6,0
+2020-05-12,Unknown,Maryland,,12,109
+2020-05-12,Unknown,Massachusetts,,273,4
+2020-05-12,Unknown,Michigan,,2266,60
+2020-05-12,Unknown,Minnesota,,30,0
+2020-05-12,Kansas City,Missouri,,791,16
+2020-05-12,Unknown,Nevada,,34,7
+2020-05-12,Unknown,New Hampshire,,26,0
+2020-05-12,Unknown,New Jersey,,704,0
+2020-05-12,New York City,New York,,191320,19736
+2020-05-12,Unknown,Northern Mariana Islands,,19,2
+2020-05-12,Unknown,Puerto Rico,,2299,114
+2020-05-12,Unknown,Rhode Island,,1198,19
+2020-05-12,Unknown,Tennessee,,80,0
+2020-05-12,Unknown,Utah,,0,2
+2020-05-12,Unknown,Vermont,,4,0
+2020-05-12,Unknown,Virgin Islands,,69,6
+2020-05-12,Unknown,Virginia,,2,0
+2020-05-13,Unknown,Arkansas,,140,0
+2020-05-13,Unknown,Colorado,,52,2
+2020-05-13,Unknown,Connecticut,,250,5
+2020-05-13,Unknown,Delaware,,36,1
+2020-05-13,Unknown,Florida,,88,0
+2020-05-13,Unknown,Georgia,,1284,0
+2020-05-13,Unknown,Guam,,1121,6
+2020-05-13,Unknown,Iowa,,5,0
+2020-05-13,Unknown,Kentucky,,66,0
+2020-05-13,Unknown,Louisiana,,64,0
+2020-05-13,Unknown,Maine,,6,0
+2020-05-13,Unknown,Maryland,,11,92
+2020-05-13,Unknown,Massachusetts,,264,4
+2020-05-13,Unknown,Michigan,,2269,61
+2020-05-13,Unknown,Minnesota,,453,24
+2020-05-13,Kansas City,Missouri,,808,16
+2020-05-13,Unknown,Nebraska,,42,3
+2020-05-13,Unknown,Nevada,,0,6
+2020-05-13,Unknown,New Hampshire,,26,0
+2020-05-13,Unknown,New Jersey,,662,0
+2020-05-13,New York City,New York,,192394,19815
+2020-05-13,Unknown,Northern Mariana Islands,,19,2
+2020-05-13,Unknown,Oregon,,52,0
+2020-05-13,Unknown,Puerto Rico,,2329,115
+2020-05-13,Unknown,Rhode Island,,1046,37
+2020-05-13,Unknown,Tennessee,,81,0
+2020-05-13,Unknown,Utah,,0,3
+2020-05-13,Unknown,Vermont,,4,0
+2020-05-13,Unknown,Virgin Islands,,69,6
+2020-05-13,Unknown,Virginia,,2,0
+2020-05-14,Unknown,Arkansas,,135,0
+2020-05-14,Unknown,Colorado,,46,0
+2020-05-14,Unknown,Connecticut,,235,3
+2020-05-14,Unknown,Delaware,,45,1
+2020-05-14,Unknown,Florida,,76,0
+2020-05-14,Unknown,Georgia,,1363,0
+2020-05-14,Unknown,Guam,,1121,6
+2020-05-14,Unknown,Iowa,,8,0
+2020-05-14,Unknown,Louisiana,,65,0
+2020-05-14,Unknown,Maine,,2,0
+2020-05-14,Unknown,Maryland,,9,95
+2020-05-14,Unknown,Massachusetts,,300,3
+2020-05-14,Unknown,Michigan,,2321,60
+2020-05-14,Unknown,Minnesota,,21,9
+2020-05-14,Kansas City,Missouri,,838,17
+2020-05-14,Unknown,Nebraska,,79,0
+2020-05-14,Unknown,Nevada,,0,5
+2020-05-14,Unknown,New Hampshire,,34,0
+2020-05-14,Unknown,New Jersey,,802,0
+2020-05-14,New York City,New York,,193663,19904
+2020-05-14,Unknown,Northern Mariana Islands,,19,2
+2020-05-14,Unknown,Oregon,,121,0
+2020-05-14,Unknown,Puerto Rico,,2427,117
+2020-05-14,Unknown,Rhode Island,,1227,43
+2020-05-14,Unknown,Tennessee,,85,0
+2020-05-14,Unknown,Utah,,0,3
+2020-05-14,Unknown,Vermont,,4,0
+2020-05-14,Unknown,Virgin Islands,,69,6
+2020-05-14,Unknown,Virginia,,3,0
+2020-05-15,Unknown,Arkansas,,139,0
+2020-05-15,Unknown,Colorado,,36,0
+2020-05-15,Unknown,Connecticut,,238,3
+2020-05-15,Unknown,Delaware,,43,1
+2020-05-15,Unknown,Florida,,78,0
+2020-05-15,Unknown,Georgia,,1644,0
+2020-05-15,Unknown,Guam,,1123,6
+2020-05-15,Unknown,Iowa,,10,0
+2020-05-15,Unknown,Louisiana,,65,0
+2020-05-15,Unknown,Maine,,2,0
+2020-05-15,Unknown,Maryland,,10,91
+2020-05-15,Unknown,Massachusetts,,285,2
+2020-05-15,Unknown,Michigan,,2357,60
+2020-05-15,Unknown,Minnesota,,34,9
+2020-05-15,Kansas City,Missouri,,848,18
+2020-05-15,Unknown,Nebraska,,61,0
+2020-05-15,Unknown,Nevada,,0,1
+2020-05-15,Unknown,New Hampshire,,56,0
+2020-05-15,Unknown,New Jersey,,885,0
+2020-05-15,New York City,New York,,195472,19972
+2020-05-15,Unknown,Northern Mariana Islands,,19,2
+2020-05-15,Unknown,Puerto Rico,,2542,122
+2020-05-15,Unknown,Rhode Island,,1430,54
+2020-05-15,Unknown,Tennessee,,85,0
+2020-05-15,Unknown,Vermont,,4,0
+2020-05-15,Unknown,Virgin Islands,,69,6
+2020-05-15,Unknown,Virginia,,3,0
+2020-05-16,Unknown,Arkansas,,131,0
+2020-05-16,Unknown,Colorado,,48,0
+2020-05-16,Unknown,Connecticut,,257,2
+2020-05-16,Unknown,Delaware,,46,1
+2020-05-16,Unknown,Florida,,79,0
+2020-05-16,Unknown,Georgia,,1787,0
+2020-05-16,Unknown,Guam,,1123,6
+2020-05-16,Unknown,Iowa,,15,0
+2020-05-16,Unknown,Louisiana,,72,0
+2020-05-16,Unknown,Maine,,2,0
+2020-05-16,Unknown,Maryland,,7,89
+2020-05-16,Unknown,Massachusetts,,309,3
+2020-05-16,Unknown,Michigan,,2336,59
+2020-05-16,Unknown,Minnesota,,37,9
+2020-05-16,Kansas City,Missouri,,863,18
+2020-05-16,Unknown,Nebraska,,74,0
+2020-05-16,Unknown,Nevada,,0,3
+2020-05-16,Unknown,New Hampshire,,10,0
+2020-05-16,Unknown,New Jersey,,996,0
+2020-05-16,New York City,New York,,196481,20071
+2020-05-16,Unknown,Northern Mariana Islands,,21,2
+2020-05-16,Unknown,Puerto Rico,,2589,122
+2020-05-16,Unknown,Rhode Island,,1645,64
+2020-05-16,Unknown,Tennessee,,86,0
+2020-05-16,Unknown,Utah,,1,1
+2020-05-16,Unknown,Vermont,,4,0
+2020-05-16,Unknown,Virgin Islands,,69,6
+2020-05-16,Unknown,Virginia,,4,0
+2020-05-17,Unknown,Arkansas,,132,0
+2020-05-17,Unknown,Colorado,,54,0
+2020-05-17,Unknown,Connecticut,,210,1
+2020-05-17,Unknown,Delaware,,52,1
+2020-05-17,Unknown,Florida,,79,0
+2020-05-17,Unknown,Georgia,,2035,0
+2020-05-17,Unknown,Guam,,1123,6
+2020-05-17,Unknown,Iowa,,8,0
+2020-05-17,Unknown,Louisiana,,72,0
+2020-05-17,Unknown,Maine,,2,0
+2020-05-17,Unknown,Maryland,,7,81
+2020-05-17,Unknown,Massachusetts,,315,3
+2020-05-17,Unknown,Michigan,,2658,60
+2020-05-17,Unknown,Minnesota,,29,9
+2020-05-17,Kansas City,Missouri,,895,19
+2020-05-17,Unknown,Nebraska,,35,0
+2020-05-17,Unknown,New Hampshire,,10,0
+2020-05-17,Unknown,New Jersey,,949,0
+2020-05-17,New York City,New York,,197486,20214
+2020-05-17,Unknown,Northern Mariana Islands,,21,2
+2020-05-17,Unknown,Puerto Rico,,2646,123
+2020-05-17,Unknown,Rhode Island,,1885,74
+2020-05-17,Unknown,Tennessee,,104,0
+2020-05-17,Unknown,Utah,,8,2
+2020-05-17,Unknown,Vermont,,5,0
+2020-05-17,Unknown,Virgin Islands,,69,6
+2020-05-17,Unknown,Virginia,,5,0
+2020-05-18,Unknown,Arkansas,,130,0
+2020-05-18,Unknown,Colorado,,50,0
+2020-05-18,Unknown,Connecticut,,233,2
+2020-05-18,Unknown,Delaware,,51,1
+2020-05-18,Unknown,Florida,,79,0
+2020-05-18,Unknown,Georgia,,2216,0
+2020-05-18,Unknown,Guam,,1123,6
+2020-05-18,Unknown,Iowa,,9,0
+2020-05-18,Unknown,Louisiana,,72,0
+2020-05-18,Unknown,Maine,,1,0
+2020-05-18,Unknown,Maryland,,10,86
+2020-05-18,Unknown,Massachusetts,,312,3
+2020-05-18,Unknown,Michigan,,3171,60
+2020-05-18,Unknown,Minnesota,,37,9
+2020-05-18,Kansas City,Missouri,,901,20
+2020-05-18,Unknown,Nebraska,,5,0
+2020-05-18,Unknown,Nevada,,0,12
+2020-05-18,Unknown,New Hampshire,,32,0
+2020-05-18,Unknown,New Jersey,,835,0
+2020-05-18,New York City,New York,,198114,20298
+2020-05-18,Unknown,Northern Mariana Islands,,21,2
+2020-05-18,Unknown,Puerto Rico,,2710,124
+2020-05-18,Unknown,Rhode Island,,2006,81
+2020-05-18,Unknown,Tennessee,,106,0
+2020-05-18,Unknown,Utah,,3,2
+2020-05-18,Unknown,Vermont,,5,0
+2020-05-18,Unknown,Virgin Islands,,69,6
+2020-05-18,Unknown,Virginia,,8,0
+2020-05-19,Unknown,Arkansas,,130,0
+2020-05-19,Unknown,Colorado,,37,1
+2020-05-19,Unknown,Connecticut,,218,2
+2020-05-19,Unknown,Delaware,,50,1
+2020-05-19,Unknown,Florida,,79,0
+2020-05-19,Unknown,Georgia,,2136,0
+2020-05-19,Unknown,Guam,,1123,6
+2020-05-19,Unknown,Iowa,,5,0
+2020-05-19,Unknown,Louisiana,,195,123
+2020-05-19,Unknown,Maine,,1,0
+2020-05-19,Unknown,Maryland,,11,88
+2020-05-19,Unknown,Massachusetts,,288,3
+2020-05-19,Unknown,Michigan,,3242,63
+2020-05-19,Unknown,Minnesota,,44,9
+2020-05-19,Kansas City,Missouri,,903,22
+2020-05-19,Unknown,Nebraska,,34,0
+2020-05-19,Unknown,Nevada,,0,12
+2020-05-19,Unknown,New Hampshire,,11,0
+2020-05-19,Unknown,New Jersey,,802,0
+2020-05-19,New York City,New York,,198710,20376
+2020-05-19,Unknown,Northern Mariana Islands,,21,2
+2020-05-19,Unknown,Puerto Rico,,2805,124
+2020-05-19,Unknown,Rhode Island,,2162,107
+2020-05-19,Unknown,Tennessee,,109,0
+2020-05-19,Unknown,Utah,,0,3
+2020-05-19,Unknown,Vermont,,6,0
+2020-05-19,Unknown,Virgin Islands,,69,6
+2020-05-19,Unknown,Virginia,,16,0

@@ -3,10 +3,12 @@
 *.xlsx
 /node_modules/
 /public/build/
-
 .DS_Store
 .s3cmdcache
 /data/*
 /public/preview*
+/public/data/us-counties.csv
+/public/data/us-states.csv
+/public/data/[0-9][0-9].csv
 .s3cmd_full_cache
 *.swp

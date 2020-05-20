@@ -25,7 +25,9 @@ export const mapLookup = {
       let stateCode = element[2];
       let population = element[1];
       return [stateCode, population];
-    }
+    },
+
+    submapName: "state-counties"
 
   },
   // Not ready
